@@ -1,0 +1,856 @@
+token_idx	token	head_idx	rel_tag
+0	Ivar	0	ROOT
+1	's	0	compound
+2	near	0	-
+3	Seattle	4	modification
+4	waterfront	0	proximity
+			
+0	snacks	0	ROOT
+1	near	0	-
+2	Seattle	3	modification
+3	waterfront	0	proximity
+			
+0	great	2	quality
+1	rooftop	2	feature
+2	bars	2	ROOT
+3	with	2	-
+4	views	2	feature
+5	in	4	-
+6	Manhattan	2	containment
+			
+0	breakfast	1	cuisine
+1	cafes	1	ROOT
+2	with	1	-
+3	water	4	modification
+4	view	1	feature
+5	along	4	-
+6	Vancouver	7	modification
+7	waterfront	1	proximity
+			
+0	breakfast	1	cuisine
+1	cafes	1	ROOT
+2	along	1	-
+3	Boston	4	modification
+4	boardwalk	1	proximity
+5	with	4	-
+6	water	7	modification
+7	view	1	feature
+			
+0	traditional	1	feature
+1	cafes	1	ROOT
+2	near	1	-
+3	Louvre	1	proximity
+4	that	1	-
+5	are	4	-
+6	open	1	availability
+7	early	6	modification
+			
+0	seafood	1	cuisine
+1	restaurants	1	ROOT
+2	with	1	-
+3	best	5	quality
+4	water	5	modification
+5	view	1	feature
+6	in	5	-
+7	Miami	1	containment
+			
+0	Pike	1	compound
+1	Place	2	compound
+2	Market	2	ROOT
+			
+0	restaurants	0	ROOT
+1	inside	0	-
+2	Empire	3	compound
+3	State	4	compound
+4	Building	0	containment
+			
+0	where	0	-
+1	is	0	-
+2	the	6	-
+3	new	6	modification
+4	star	5	compound
+5	wars	6	modification
+6	movie	7	ROOT
+7	playing	1	-
+8	tonight	0	timing
+9	?	0	-
+			
+0	cafes	0	ROOT
+1	between	0	-
+2	the	3	-
+3	Louvre	0	proximity
+4	and	3	-
+5	the	7	-
+6	Eiffel	7	compound
+7	Tower	0	proximity
+			
+0	find	1	-
+1	museum	1	ROOT
+2	with	1	-
+3	the	2	-
+4	largest	5	modification
+5	collections	1	feature
+6	of	5	-
+7	baroque	8	modification
+8	paintings	5	feature
+			
+0	find	2	-
+1	cheapest	2	pricing
+2	parking	2	ROOT
+3	in	2	-
+4	Berlin	2	containment
+5	this	4	-
+6	afternoon	2	timing
+			
+0	what	0	ROOT
+1	should	0	-
+2	i	1	-
+3	not	4	negation
+4	miss	2	-
+5	in	4	-
+6	Amsterdam	0	containment
+7	this	8	-
+8	weekend	0	timing
+9	?	0	-
+			
+0	where	0	ROOT
+1	can	0	-
+2	i	1	-
+3	go	2	-
+4	next	3	-
+5	after	3	-
+6	the	7	-
+7	Rijksmuseum	0	proximity
+8	?	0	-
+			
+0	plan	2	-
+1	my	2	-
+2	evening	2	ROOT
+3	in	2	-
+4	CITY	2	containment
+			
+0	recommend	2	quality
+1	hiking	2	compound
+2	trail	2	ROOT
+3	by	2	-
+4	difficulty	2	feature
+			
+0	what	0	ROOT
+1	is	0	-
+2	visible	0	feature
+3	from	2	-
+4	my	5	modification
+5	location	0	proximity
+			
+0	best	2	quality
+1	ramen	2	cuisine
+2	place	2	ROOT
+			
+0	best	1	quality
+1	restaurant	1	ROOT
+2	which	1	-
+3	serves	2	-
+4	ramen	1	cuisine
+			
+0	romantic	1	feature
+1	restaurant	1	ROOT
+			
+0	family	1	modification
+1	friendly	2	feature
+2	restaurant	2	ROOT
+			
+0	family	1	compound
+1	-	2	compound
+2	friendly	3	feature
+3	restaurant	3	ROOT
+			
+0	cheapest	2	pricing
+1	4-wheel	2	modification
+2	drive	2	ROOT
+3	in	2	-
+4	Auckland	2	containment
+			
+0	recommend	1	quality
+1	restaurant	1	ROOT
+2	based	3	-
+3	on	4	-
+4	types	5	-
+5	of	6	-
+6	people	1	modification
+7	who	6	-
+8	attend	7	-
+			
+0	find	2	-
+1	Starbucks	2	modification
+2	store	2	ROOT
+3	near	2	-
+4	a	5	-
+5	bistro	2	proximity
+			
+0	best	1	quality
+1	café	1	ROOT
+2	south	4	directional
+3	of	2	-
+4	O'Hare	1	proximity
+			
+0	list	3	-
+1	all	0	-
+2	road	3	modification
+3	construction	3	ROOT
+4	in	3	-
+5	my	6	modification
+6	area	3	proximity
+			
+0	are	3	-
+1	there	3	-
+2	traffic	3	modification
+3	delays	3	ROOT
+4	on	3	-
+5	the	6	-
+6	way	3	-
+7	to	6	-
+8	the	9	-
+9	airport	3	destination
+10	today	3	timing
+11	?	3	-
+			
+0	is	4	-
+1	there	4	-
+2	an	4	-
+3	alternative	4	modification
+4	route	4	ROOT
+5	to	4	-
+6	work	4	destination
+7	?	4	-
+			
+0	do	1	-
+1	i	2	-
+2	have	3	-
+3	any	4	-
+4	traffic	4	ROOT
+5	in	7	-
+6	my	7	modification
+7	way	4	proximity
+8	of	7	-
+9	getting	8	-
+10	home	7	destination
+11	?	4	-
+			
+0	nearby	2	proximity
+1	music	2	feature
+2	events	2	ROOT
+			
+0	directions	0	ROOT
+1	to	0	-
+2	Jack	4	compound
+3	's	4	compound
+4	house	4	destination
+5	next	4	-
+6	to	5	-
+7	the	10	-
+8	local	10	-
+9	farmers	10	compound
+10	market	4	proximity
+			
+0	are	2	-
+1	the	2	-
+2	roads	2	ROOT
+3	to	2	-
+4	Jim	6	modification
+5	's	4	compound
+6	house	2	destination
+7	clear	8	-
+8	from	9	-
+9	ice	2	availability
+10	this	11	modification
+11	afternoon	2	timing
+12	?	2	-
+			
+0	Starbucks	0	ROOT
+1	near	0	-
+2	11	3	compound
+3	N	4	compound
+4	Lincoln	5	compound
+5	St	0	proximity
+			
+0	where	1	-
+1	is	2	-
+2	the	7	-
+3	entrance	4	compound
+4	to	5	compound
+5	the	6	compound
+6	parking	7	compound
+7	garage	7	ROOT
+8	for	7	-
+9	the	10	-
+10	Convention	11	compound
+11	Center	7	attachment
+11	?	7	-
+			
+0	where	1	-
+1	can	2	-
+2	i	3	-
+3	go	4	-
+4	golfing	4	ROOT
+			
+0	is	1	-
+1	there	2	-
+2	heavy	3	-
+3	traffic	3	ROOT
+4	in	3	-
+5	Eindhoven	3	containment
+6	near	7	-
+7	Phillips	8	compound
+8	Stadium	3	proximity
+9	?	3	-
+			
+0	car	1	modification
+1	wash	1	ROOT
+2	in	1	-
+3	Seattle	1	containment
+4	","	3	-
+5	WA	3	containment
+			
+0	gas	1	modification
+1	station	1	ROOT
+2	with	1	-
+3	car	4	modification
+4	wash	1	feature
+5	nearby	1	-
+			
+0	pharmacy	0	ROOT
+1	open	0	availability
+2	now	1	timing
+3	near	4	-
+4	me	0	proximity
+			
+0	best	1	quality
+1	places	1	ROOT
+2	for	1	-
+3	brunch	1	cuisine
+4	in	5	-
+5	Everett	1	containment
+6	on	7	-
+7	sunday	1	timing
+			
+0	Banana	0	compound
+1	Republic	1	ROOT
+2	in	1	-
+3	downtown	4	modification
+4	Phoenix	1	containment
+			
+0	Starbucks	0	ROOT
+1	next	2	compound
+2	to	3	-
+3	Madison	4	compound
+4	Square	5	compound
+5	Garden	0	proximity
+6	in	0	-
+7	New	8	compound
+8	York	9	compound
+5	City	0	containment
+			
+0	dog	1	modification
+1	boarding	1	ROOT
+2	near	1	-
+3	airport	1	proximity
+			
+0	Hotel	0	compound
+1	Intercontinental	0	ROOT
+2	near	0	-
+3	airport	0	proximity
+			
+0	parking	1	compound
+1	lot	1	ROOT
+2	within	1	-
+3	walking	4	compound
+4	distance	2	-
+5	of	4	-
+6	POI	1	proximity
+			
+0	gas	1	compound
+1	stations	1	ROOT
+2	along	3	-
+3	I-5	1	proximity
+4	between	5	-
+5	here	3	origin
+6	and	7	-
+7	Portland	3	destination
+			
+0	Free	1	pricing
+1	things	1	ROOT
+2	to	3	compound
+3	do	1	modification
+4	in	1	-
+5	Hamburg	1	containment
+6	this	7	compound
+7	weekend	1	timing
+			
+0	Christmas	1	compound
+1	brunch	1	ROOT
+			
+0	closest	2	proximity
+1	bus	2	modification
+2	stops	2	ROOT
+3	with	2	-
+4	bus	5	modification
+5	lines	2	feature
+6	to	5	-
+7	downtown	5	directional
+			
+0	corner	0	ROOT
+1	of	0	-
+2	Main	0	proximity
+3	and	2	-
+4	Elm	0	proximity
+			
+0	picnic	1	feature
+1	spots	1	ROOT
+2	in	1	-
+3	Central	4	compound
+4	Park	1	containment
+			
+0	Where	1	-
+1	is	2	-
+2	the	3	-
+3	closest	6	-
+4	Santa	5	compound
+5	's	6	compound
+6	Village	6	ROOT
+7	to	8	-
+8	me	6	proximity
+9	next	10	modification
+10	week	6	timing
+			
+0	weekly	2	feature
+1	farmers	2	compound
+2	market	2	ROOT
+3	west	5	modification
+4	of	5	-
+5	Seattle	2	directional
+			
+0	Is	1	-
+1	the	2	-
+2	parade	5	access
+3	blocking	4	-
+4	Kennedy	5	compound
+5	street	5	ROOT
+6	?	5	-
+			
+0	Which	1	-
+1	steakhouse	1	ROOT
+2	in	3	-
+3	San	4	compound
+4	Francisco	1	containment
+5	is	6	-
+6	the	7	-
+7	best	8	compound
+8	one	1	quality
+9	?	1	-
+			
+0	Burger	1	compound
+1	King	1	ROOT
+2	at	1	-
+3	Times	1	compound
+4	Square	1	proximity
+			
+0	Madame	0	compound
+1	Tussaud	1	ROOT
+2	's	1	compound
+			
+0	Macy	0	ROOT
+1	's	0	compound
+2	-	0	-
+3	459	5	compound
+4	7th	5	compound
+5	Ave	0	proximity
+6	New	7	compound
+7	York	8	compound
+8	City	0	containment
+			
+0	art	1	modification
+1	fair	1	ROOT
+2	near	1	-
+3	Mumbai	1	proximity
+			
+0	a	4	-
+1	great	4	quality
+2	Christmas	3	compound
+3	light	4	modification
+4	display	4	ROOT
+5	near	4	-
+6	Burlington	4	proximity
+7	that	4	-
+8	I	9	-
+9	can	10	-
+10	drive	4	modification
+11	through	10	-
+			
+0	the	2	-
+1	closest	2	proximity
+2	Target	2	ROOT
+			
+0	the	4	-
+1	nearest	4	modification
+2	on	3	compound
+3	-	4	compound
+4	ramp	4	ROOT
+			
+0	vegetarian	1	feature
+1	restaurants	1	ROOT
+2	near	1	-
+3	me	1	proximity
+			
+0	Cheapest	1	pricing
+1	parking	1	ROOT
+2	with	1	-
+3	free	4	modification
+4	places	1	availability
+5	near	1	-
+6	123	1	compound
+7	Main	8	compound
+8	St	8	proximity
+			
+0	breakfast	1	feature
+1	places	1	ROOT
+2	on	1	-
+3	the	4	-
+4	way	1	proximity
+5	to	6	-
+6	work	1	destination
+			
+0	best	2	quality
+1	cocktail	2	feature
+2	bars	2	ROOT
+3	within	2	-
+4	20	5	compound
+5	miles	7	modification
+6	of	5	-
+7	me	2	proximity
+			
+0	high	2	compound
+1	-	2	compound
+2	end	3	modification
+3	shopping	3	ROOT
+4	in	3	-
+5	Amsterdam	3	containment
+			
+0	grocery	1	modification
+1	stores	1	ROOT
+2	that	1	-
+3	accept	1	feature
+4	Amex	3	modification
+			
+0	area	0	ROOT
+1	with	0	-
+2	many	3	modification
+3	bars	0	feature
+4	and	5	-
+5	restaurants	0	feature
+			
+0	best	1	quality
+1	neighborhood	1	ROOT
+2	for	1	-
+3	window	4	modification
+4	shopping	1	feature
+			
+0	urgent	1	compound
+1	care	2	feature
+2	clinic	2	ROOT
+			
+0	five	1	compound
+1	guys	1	ROOT
+2	in	3	-
+3	central	4	modification
+4	Chicago	1	containment
+			
+0	buildings	0	ROOT
+1	that	0	-
+2	have	1	-
+3	a	5	-
+4	coffee	5	modification
+5	shop	0	feature
+6	inside	0	-
+			
+0	Sears	0	ROOT
+1	","	0	-
+2	Portland	0	containment
+			
+0	Restaurants	0	ROOT
+1	offering	0	-
+2	prefixed	3	modification
+3	menus	0	feature
+4	in	0	-
+5	midtown	0	containment
+			
+0	What	2	-
+1	breakfast	2	modification
+2	locations	2	ROOT
+3	within	2	-
+4	5	5	modification
+5	miles	7	modification
+6	of	7	-
+7	me	2	proximity
+8	open	2	availability
+9	at	10	-
+10	6	8	timing
+11	am	10	modification
+			
+0	List	4	-
+1	near	2	-
+2	me	4	proximity
+3	vegetarian	4	modification
+4	restaurants	4	ROOT
+5	that	4	-
+6	specialize	4	-
+7	in	6	-
+8	Quinoa	4	feature
+			
+0	Family	1	modification
+1	parks	1	ROOT
+2	in	1	-
+3	Delhi	1	containment
+			
+0	Sports	1	modification
+1	bars	1	ROOT
+2	in	1	-
+3	Marseille	1	containment
+			
+0	best	1	quality
+1	place	1	ROOT
+2	to	3	-
+3	go	4	-
+4	bowling	1	feature
+			
+0	Housekeeping	1	modification
+1	services	1	ROOT
+2	in	1	-
+3	Corvallis	1	containment
+			
+0	London	1	containment
+1	hotels	1	ROOT
+2	with	1	-
+3	a	4	-
+4	bar	5	compound
+5	scene	1	feature
+			
+0	Office	1	modification
+1	buildings	1	ROOT
+2	with	1	-
+3	coffee	4	compound
+4	shops	1	containment
+5	inside	4	-
+			
+0	romantic	2	feature
+1	dinner	2	feature
+2	restaurants	2	ROOT
+3	that	2	-
+4	take	2	-
+5	reservations	2	feature
+			
+0	Office	1	compound
+1	buildings	1	ROOT
+2	with	1	-
+3	a	4	-
+4	food	5	compound
+5	court	1	feature
+6	and	5	-
+7	a	8	-
+8	parking	9	compound
+9	garage	1	feature
+			
+0	a	1	-
+1	café	1	ROOT
+2	with	1	-
+3	many	4	modification
+4	tables	1	feature
+5	where	1	-
+6	I	5	-
+7	can	6	-
+8	sit	1	availability
+9	for	8	-
+10	long	8	modification
+11	and	8	-
+12	is	1	-
+13	not	14	negation
+14	Starbucks	1	feature
+			
+0	Best	1	quality
+1	restaurants	1	ROOT
+2	close	1	-
+3	to	1	-
+4	the	5	-
+5	highway	1	proximity
+6	on	5	-
+7	my	8	-
+8	route	1	proximity
+9	from	10	-
+10	downtown	8	origin
+11	to	12	-
+12	Northgate	8	destination
+			
+0	Indoor	2	modification
+1	ice	2	compound
+2	skating	2	ROOT
+3	in	2	-
+4	South	5	compound
+5	Side	6	modification
+6	Chicago	2	containment
+			
+0	Ice	1	compound
+1	skating	2	feature
+2	rinks	2	ROOT
+3	in	2	-
+4	North	5	compound
+5	Side	6	modification
+6	Munich	2	containment
+			
+0	metered	1	feature
+1	parking	1	ROOT
+2	on	1	-
+3	Columbia	4	modification
+4	street	1	proximity
+5	in	4	-
+6	Seattle	1	containment
+			
+0	best	1	quality
+1	soup	1	ROOT
+2	in	1	-
+3	Indianapolis	4	modification
+4	loop	1	containment
+			
+0	good	5	quality
+1	non	3	negation
+2	-	1	-
+3	Starbucks	5	feature
+4	coffee	5	compound
+5	shops	5	ROOT
+6	near	5	-
+7	me	5	proximity
+			
+0	an	2	-
+1	Italian	2	feature
+2	restaurant	2	ROOT
+3	on	5	-
+4	my	5	-
+5	way	2	proximity
+6	home	5	destination
+			
+0	Places	0	ROOT
+1	at	5	-
+2	Invalidenstrasse	5	modification
+3	&	2	-
+4	Chausseestrasse	5	modification
+5	intersection	0	proximity
+			
+0	streets	0	ROOT
+1	with	0	-
+2	high	3	compound
+3	-	4	compound
+4	end	5	compound
+5	fashion	6	modification
+6	boutiques	0	feature
+7	around	6	-
+8	Damplats	0	proximity
+			
+0	urgent	1	compound
+1	care	2	feature
+2	clinics	2	ROOT
+3	with	2	-
+4	short	6	feature
+5	wait	6	compound
+6	time	2	accessibility
+			
+0	busiest	2	feature
+1	night	2	compound
+2	clubs	2	ROOT
+3	on	2	-
+4	weeknights	2	modification
+			
+0	gas	1	compound
+1	stations	1	ROOT
+2	along	1	-
+3	the	4	-
+4	way	1	proximity
+5	from	4	-
+6	Seattle	4	origin
+7	to	4	-
+8	Tacoma	4	destination
+			
+0	rest	1	compound
+1	stops	1	ROOT
+2	along	1	-
+3	the	4	-
+4	way	1	proximity
+5	to	4	-
+6	Auburn	4	destination
+			
+0	restaurants	0	ROOT
+1	within	2	-
+2	10	3	quantification
+3	minute	4	compound
+4	walk	0	containment
+5	from	6	-
+6	123	7	compound
+7	Main	8	compound
+8	St	0	origin
+		
+0	dog	1	compound
+1	parks	1	ROOT
+2	within	1	-
+3	20	4	quantification
+4	minutes	1	containment
+5	by	6	-
+6	bike	4	modification
+7	from	10	-
+8	123	9	compound
+9	Main	10	compound
+10	St	4	origin
+			
+0	Irish	1	modification
+1	pubs	1	ROOT
+2	on	1	-
+3	the	5	-
+4	same	5	modification
+5	street	1	proximity
+6	as	5	-
+7	Target	5	feature
+			
+0	best	2	quality
+1	korean	2	feature
+2	restaurant	2	ROOT
+3	near	2	-
+4	Frankfurt	5	modification
+5	center	2	proximity
+			
+0	skyscrapers	0	ROOT
+1	with	0	-
+2	viewing	3	compound
+3	platform	0	feature
+4	in	0	-
+5	Chicago	0	containment
+			
+0	directions	0	ROOT
+1	from	0	-
+2	downtown	3	modification
+3	Chicago	0	origin
+4	to	0	-
+5	O'Hare	6	modification
+6	airport	0	destination
+			
+0	123	1	compound
+1	Main	2	compound
+2	St	2	ROOT
+3	","	2	-
+4	Boston	2	containment
+5	","	4	-
+6	MA	4	containment
+7	12345	4	modification
+			
+0	Italian	1	modification
+1	restaurants	1	ROOT
+2	near	1	-
+3	me	1	proximity
+4	with	1	-
+5	outdoor	6	modification
+6	seating	1	feature

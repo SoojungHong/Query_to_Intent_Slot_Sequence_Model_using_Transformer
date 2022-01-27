@@ -1,0 +1,1860 @@
+query,top_intent
+Take me to Raleigh from Omaha,GET_DIRECTIONS
+How do I go to Borough Market from my hotel?,GET_DIRECTIONS
+How to get to John's house from home?,GET_DIRECTIONS
+nearest point of interest to reach now through car,GET_DIRECTIONS
+Show me the quickest way to work,GET_DIRECTIONS
+Send me driving directions via the 405 to San Diego.,GET_DIRECTIONS
+I want to drive to Kennedy Space Center this weekend.  What is the fastest route to go,GET_DIRECTIONS
+best route to work,GET_DIRECTIONS
+"Need directions from home to the airport without traffic, arriving at 4pm",GET_DIRECTIONS
+Can I take a detour at exit 30 and then take Allen road to get to Varun's house.,GET_DIRECTIONS
+Is there a train from here to Portland?,GET_DIRECTIONS
+show me the best route to get to Grants Pass the fastest,GET_DIRECTIONS
+which way should I take to reach the down town this morning,GET_DIRECTIONS
+What will be the best route to follow,GET_DIRECTIONS
+What is the best route to get to the shore traffic-wise,GET_DIRECTIONS
+Directions from my house to the nearest gas station,GET_DIRECTIONS
+Which way to the airport has the least traffic,GET_DIRECTIONS
+Provide the best directions from home to Maple Grove MN using major roadways.,GET_DIRECTIONS
+I need to get to Morgan Hill fast,GET_DIRECTIONS
+What is the shortest distance to get home,GET_DIRECTIONS
+What rout should I use going to Ohio from Pennsylvania,GET_DIRECTIONS
+Give me the best route to el Masria Language school now.,GET_DIRECTIONS
+Can you get me a route to the history museum that doesn't require tolls?,GET_DIRECTIONS
+directions from mcallen to galvestion,GET_DIRECTIONS
+What is the fastest route to New York from Wyoming,GET_DIRECTIONS
+fastest route to airport,GET_DIRECTIONS
+Get directions from 182 Webster Street Rockland to the Hanover Mall,GET_DIRECTIONS
+What detour can I take to get to Main street from home,GET_DIRECTIONS
+Are there any faster route from Cajueiros Street to Cravos street?,GET_DIRECTIONS
+What route should I take to get to the circus?,GET_DIRECTIONS
+Is there a train that goes from Miami to Jacksonville?,GET_DIRECTIONS
+Get directions to downtown Covington without passing construction,GET_DIRECTIONS
+Directions to the United Center with no tolls,GET_DIRECTIONS
+route for Dallas to San Antonio,GET_DIRECTIONS
+route me from here to the library,GET_DIRECTIONS
+Can I go from lorain to vermillion without meeting construction?,GET_DIRECTIONS
+Directions to drive from home to Atlanta,GET_DIRECTIONS
+What route home has the least traffic,GET_DIRECTIONS
+get me to boston using 295,GET_DIRECTIONS
+directions back to the office,GET_DIRECTIONS
+How do I get to my house from Rochester avoiding highways?,GET_DIRECTIONS
+How can I get to work while avoiding the most people,GET_DIRECTIONS
+Can you tell me the route with the least traffic delays between here and Shoppingtown mall if I leave right now?,GET_DIRECTIONS
+Directions to my office,GET_DIRECTIONS
+Quickest route through traffic home,GET_DIRECTIONS
+What is the fastest way to get to the main post office in White River Junction?,GET_DIRECTIONS
+Show me the fastest route home,GET_DIRECTIONS
+What is the best route to avoid the traffic,GET_DIRECTIONS
+Which route has the least traffic to Riverbend Hospital,GET_DIRECTIONS
+best route to take to wildwood that avoids bridges,GET_DIRECTIONS
+How can I avoid traffic tonight,GET_DIRECTIONS
+What's the fastest route home,GET_DIRECTIONS
+Give me driving directions to the Kroger in McDonough,GET_DIRECTIONS
+How can I get from the Amelia Tavern to my brothers house while avoiding toll roads ?,GET_DIRECTIONS
+Get me some directions so that I can arrive in Marietta by 4 if I leave from Canton,GET_DIRECTIONS
+Get directions to the airport via Valkenburgh drive,GET_DIRECTIONS
+Is there a faster route to the zoo if I avoid 2nd street?,GET_DIRECTIONS
+Which bus takes me to downtown Denver?,GET_DIRECTIONS
+What are the quickest detours to the Carrier Dome from I-86?,GET_DIRECTIONS
+Is there a way to get to the Green Turtle Music Fest without having to go downtown tomorrow night?,GET_DIRECTIONS
+How do I get to Roxbury Park between 4th and Nebraska Ave from current location?,GET_DIRECTIONS
+"I need the quickest route, avoiding construction to make it to my moms house.",GET_DIRECTIONS
+Because of the ice which route will avoid bridges and overpasses home tonight?,GET_DIRECTIONS
+show me the shortest route,GET_DIRECTIONS
+Is there a fast way to get to the airport for a 9 pm flight today?,GET_DIRECTIONS
+What's the best way to get to the gym during rush hour?,GET_DIRECTIONS
+"If I leave by 1 PM from my work, how would I get to the Washington Monument?",GET_DIRECTIONS
+Give me directions to The Gatlinburg Space Needle from The Island in Pigeon forge.,GET_DIRECTIONS
+how do I get to my meeting this afternoon if I avoided the construction,GET_DIRECTIONS
+What is the best way to get to the Comedy Show at 5 pm?,GET_DIRECTIONS
+What is the best route to the store,GET_DIRECTIONS
+"Highway directions to get to my meeting with Nadya before 4pm, please.",GET_DIRECTIONS
+What will be the quickest route to my daughters soccer game with current traffic conditions?,GET_DIRECTIONS
+Get me Directions to Wiregrass Commons Mall from Flowers Hospital on Highway 84.,GET_DIRECTIONS
+What route should I get to go to Real Madri game tonight?,GET_DIRECTIONS
+"Give me a route to Georgia, avoiding the tolls",GET_DIRECTIONS
+How do I get to Southcenter Mall on the I5?,GET_DIRECTIONS
+What path to take to get to the workshop,GET_DIRECTIONS
+Take me to work without using the freeway or going through construction,GET_DIRECTIONS
+How can I get to Boston without taking the I-95 to see the Bruins?,GET_DIRECTIONS
+I could really use the fastest route to the hospital from my home in Canton since my wife is in labor,GET_DIRECTIONS
+fastest route to hospital,GET_DIRECTIONS
+avoiding the flooding on park ave how do i get to walmart from my work,GET_DIRECTIONS
+Can I get to the Target in Helotes via La Cantera Parkway?,GET_DIRECTIONS
+What is the shortest way to get to Makalapa Clinic in 15 minutes from my house in AMR,GET_DIRECTIONS
+can you tell me how to get to Universal city walk without using I4 from my house,GET_DIRECTIONS
+what is the best way to get from downtown pensacola to the hangout festival in mobile if I am leaving in one hour,GET_DIRECTIONS
+navigate to home,GET_DIRECTIONS
+what is the fastest way to the boat show at the hampton marina with traffic right now,GET_DIRECTIONS
+Give me driving directions to Busch Gardens in Tampa FL.,GET_DIRECTIONS
+show routes which are the quickest,GET_DIRECTIONS
+Are there back roads I could take to get to hunter ski mountain by 9am?,GET_DIRECTIONS
+I want to get to Knott's Berry Farm without passing through Norwalk Public Library,GET_DIRECTIONS
+get directions,GET_DIRECTIONS
+How can I bypass all the crowds at the Mardi Gras parade on Canal street and get to the nearest hospital?,GET_DIRECTIONS
+How do I get around the slow traffic in Los Angeles?,GET_DIRECTIONS
+what is the best route to go to the Midflorida arena,GET_DIRECTIONS
+Driving direction to Disney on Ice in Philadelphia from home.,GET_DIRECTIONS
+What is the best route to Miami,GET_DIRECTIONS
+Route through toll roads,GET_DIRECTIONS
+What is the fastest route from my home to Haram area to attend my niece birthday party at 7 pm?,GET_DIRECTIONS
+Which route has the least amount of traffic,GET_DIRECTIONS
+What is the fastest way to get to Montreal for the hockey game tomorrow night?,GET_DIRECTIONS
+Get me driving directions to the festival but avoid the highway,GET_DIRECTIONS
+fastest way to the store,GET_DIRECTIONS
+Which route is easier to get to work today,GET_DIRECTIONS
+Is there a scenic route from Lance's house to San Diego?,GET_DIRECTIONS
+Plot a course for Corona del Mar,GET_DIRECTIONS
+directions from mcallen to  taylor,GET_DIRECTIONS
+Quickest route home,GET_DIRECTIONS
+Can I get to broad street in Philadelphia right now without any traffic?,GET_DIRECTIONS
+"Get me driving directions to the clubhouse without using the expressway, traveling from John's apartment in Greenville.",GET_DIRECTIONS
+Tell me how to get to the Home Depot in Somerton via Bustleton Avenue,GET_DIRECTIONS
+Route to the mall,GET_DIRECTIONS
+give me fastest route to my work,GET_DIRECTIONS
+how to get to the lincoln center in new york,GET_DIRECTIONS
+What is the fastest route by car to Lewis house?,GET_DIRECTIONS
+How can I get around this accident to get to work faster right now?,GET_DIRECTIONS
+Can you find me a way to get from here to Orlando that takes me to some other interesting stops?,GET_DIRECTIONS
+What's the quickest way home,GET_DIRECTIONS
+What is my fastest route to work,GET_DIRECTIONS
+directions to the airport on saturday morning without driving on any freeways,GET_DIRECTIONS
+how can i avoid the accident on the way to zacks house,GET_DIRECTIONS
+take me the fastest way to my aunts house with a grocery store on the way,GET_DIRECTIONS
+Whats the driving directions to the gas station near downtown,GET_DIRECTIONS
+What's the quickest route to Las Vegas,GET_DIRECTIONS
+what is the quickest route to downtown today,GET_DIRECTIONS
+how do get to the party in 1 hour if I leave now,GET_DIRECTIONS
+directions from mcallen to arlington,GET_DIRECTIONS
+Find directions to a Whole Foods that is near a movie theatre,GET_DIRECTIONS
+Tell me what is the fastest route to get to Route 80 from Josie's house.,GET_DIRECTIONS
+do you know the way to San Jose,GET_DIRECTIONS
+What is the best route for me to take home in this traffic,GET_DIRECTIONS
+please give me driving directions home,GET_DIRECTIONS
+what fastest route to reach nasr city from tahrer street at 11AM?,GET_DIRECTIONS
+How do I get to Mom's house from here,GET_DIRECTIONS
+Give me driving directions to Pearlridge mall with ETA of 15 minutes,GET_DIRECTIONS
+What route has the least traffic currently,GET_DIRECTIONS
+Directions to the Alabama National Fair next to Alabama State University from the park.,GET_DIRECTIONS
+What's the fastest way to work,GET_DIRECTIONS
+How do get to the largest Episcopal church in Clayton MO from here,GET_DIRECTIONS
+Can I get home from the REM show via Rt. 78?,GET_DIRECTIONS
+what is the best route to take from work to my home today,GET_DIRECTIONS
+What is the fastest route downtown from Waikiki?,GET_DIRECTIONS
+How do I get to Cody's house from the consignment shop on Main Street?,GET_DIRECTIONS
+Directions to Kalahari Water Park in the Poconos from home.,GET_DIRECTIONS
+I need the route from my house to the Ulta in the galleria mall.,GET_DIRECTIONS
+How can I avoid 301,GET_DIRECTIONS
+How can I avoid traffic to my office,GET_DIRECTIONS
+Can I drive to the ski resort without any traffic congestion if I leave at 7am,GET_DIRECTIONS
+Show me the best route from Houston to San Francisco,GET_DIRECTIONS
+what's the best route from her to Houston Texas,GET_DIRECTIONS
+How do I get to the Civic center from exit 12 on I-95,GET_DIRECTIONS
+Whats the quickest route to Uniontown,GET_DIRECTIONS
+"There's a downed power line on South Willow, are there any side streets that will lead me to the Verizon Center by 7pm?",GET_DIRECTIONS
+Get me driving directions to Nam's salon in Abington,GET_DIRECTIONS
+which route has the least traffic,GET_DIRECTIONS
+what is the fastest route to get to the concert at the fairgrounds if i leave at 5?,GET_DIRECTIONS
+whats the fastest route,GET_DIRECTIONS
+avoid the traffic plz,GET_DIRECTIONS
+what's the fastest route to Oceanside Harbor right now,GET_DIRECTIONS
+Is there a way to avoid the traffic in New Albany today,GET_DIRECTIONS
+Quickest drive time to Will Rogers Airport,GET_DIRECTIONS
+how do i get to the coldplay concert in seattle,GET_DIRECTIONS
+I need to avoid traffic,GET_DIRECTIONS
+Quickest way to the Tropicana,GET_DIRECTIONS
+what is the direction to el Salam traffic station from Roxy station?,GET_DIRECTIONS
+Where is my next destination,GET_DIRECTIONS
+Can you give me directions to the east end without hitting the expressway traffic,GET_DIRECTIONS
+Give me directions from my mom's house to school,GET_DIRECTIONS
+how to get home from here,GET_DIRECTIONS
+I am at Progressive Field and need to know the best way to get to Stow without going through road work,GET_DIRECTIONS
+What's the shortest route to school,GET_DIRECTIONS
+How do I get to the transit center from home,GET_DIRECTIONS
+Please give me the quickest way to get from my house to downtown Phoenix at 4pm while avoiding construction.,GET_DIRECTIONS
+How do I get to the blood clinic in Plainfield from my house?,GET_DIRECTIONS
+what's the best way to get to Oceanside Harbor right now,GET_DIRECTIONS
+I need directions from the Vegas airport to the Grand Canyon.,GET_DIRECTIONS
+give me directions to the closest flower shop to taylors office,GET_DIRECTIONS
+how do I get to Santa Monica from here,GET_DIRECTIONS
+How do I go to Shakespeare Globe from Notting Hill?,GET_DIRECTIONS
+Using only four lane highways tell me how to drive to Canton Ohio from Independence Kansas.,GET_DIRECTIONS
+Best route to beat the traffic,GET_DIRECTIONS
+go home,GET_DIRECTIONS
+I need directions to Crofton from home,GET_DIRECTIONS
+whats the best way to avoid the accident,GET_DIRECTIONS
+Which way should I go to get to City Hall before it closes?,GET_DIRECTIONS
+What's the shortest distance route to work?,GET_DIRECTIONS
+Can you give me directions to the nearest TJ Maxx from my work if I want to avoid the freeway,GET_DIRECTIONS
+Get me directions to the Walnut room from my parent's house leaving at 6pm.,GET_DIRECTIONS
+Please tell me how to get to the Target closest to the mall in Omaha.,GET_DIRECTIONS
+Create the optimal route to avoid the traffic,GET_DIRECTIONS
+Get me directions to the Atlanta airport with out construction.,GET_DIRECTIONS
+Is there train service between Portland and San Francisco,GET_DIRECTIONS
+Can you tell me the directions to get to the Eiffel Tower?,GET_DIRECTIONS
+What is the quickest route to get to William Beaumont Hospital in Troy from my house in an emergency,GET_DIRECTIONS
+"Directions to the Beaumont library, please.",GET_DIRECTIONS
+What's the fastest way home from here,GET_DIRECTIONS
+Give me a route around traffic,GET_DIRECTIONS
+fastest way to get to safeway at 8?,GET_DIRECTIONS
+Get me a scenic route along I75 North towards Mobile Alabama,GET_DIRECTIONS
+How do I get to Tanyas house from here,GET_DIRECTIONS
+"get directions to Naples, without construction, to Vero Beach",GET_DIRECTIONS
+Can you give me directions to the high school near Elm Park in Frisco?,GET_DIRECTIONS
+Find a route to Burnet that is not flooded.,GET_DIRECTIONS
+How can I get to 131 on ramp from Fuller,GET_DIRECTIONS
+Can I avoid traffic,GET_DIRECTIONS
+I need to get to Cerritos public library without passing through Cerritos High School.,GET_DIRECTIONS
+Direct me to Bob's house,GET_DIRECTIONS
+"I'd like to get directions to the New Orleans Jazz  & Heritage Festival in New Orleans, Louisiana.",GET_DIRECTIONS
+What way should I drive home to avoid traffic,GET_DIRECTIONS
+I want to get to the dentist without traffic,GET_DIRECTIONS
+Can I get to Target from the Interstate?,GET_DIRECTIONS
+Avoid traffic,GET_DIRECTIONS
+Do you have a route I can take to get to work by 9 am today?,GET_DIRECTIONS
+give me directions to be able to get to my house from the airport in jackson,GET_DIRECTIONS
+take me to walmart only using the back streets.,GET_DIRECTIONS
+How do I get to the walmart,GET_DIRECTIONS
+show me routes avoiding traffic,GET_DIRECTIONS
+what is best route to take Friday from downtown to my 5pm meeting on westside?,GET_DIRECTIONS
+Give me a route to LA with least amount of traffic,GET_DIRECTIONS
+"Can I get driving directions to Time's Square in New York, without taking any major interstates?",GET_DIRECTIONS
+whats the fastest route to disney from me,GET_DIRECTIONS
+What is my fastest way home,GET_DIRECTIONS
+Give me directions to ACME,GET_DIRECTIONS
+Tell me how to get from my house to the University at Buffalo.,GET_DIRECTIONS
+"What is the best route to get to First Friday to avoid traffic, if I leave at 6:00pm",GET_DIRECTIONS
+How do I get home from here,GET_DIRECTIONS
+what freeway should I take to get to my parents house to arrive before midnight tonight?,GET_DIRECTIONS
+"I want to leave by 4pm to San Dimas, provide me with the fastest route during that time.",GET_DIRECTIONS
+Can you tell me directions from 9th st Cleveland to the Q arena by my house,GET_DIRECTIONS
+Quickest route to Alpharetta from my location,GET_DIRECTIONS
+Tell me the directions to the park.,GET_DIRECTIONS
+Get me driving directions to downtown Cincinnati without construction leaving at 1 pm.,GET_DIRECTIONS
+can you show me backroads from here to downtown dallas,GET_DIRECTIONS
+Will I need to detour around the parade to get to Tara's house on Tuesday by 2 pm?,GET_DIRECTIONS
+What is the quickest route from San Diego to Las Vegas,GET_DIRECTIONS
+Which route home has the least traffic,GET_DIRECTIONS
+Show my the fastest way,GET_DIRECTIONS
+What is the fastest route with no tolls,GET_DIRECTIONS
+Directions to the children's hospital in downtown Jacksonville from Saint Augustine Shores.,GET_DIRECTIONS
+get me driving directions to the macy's in biltmore square from my house,GET_DIRECTIONS
+Which freeway should I take to get to San Diego from here?,GET_DIRECTIONS
+What toll road connects Orlando to Apopka,GET_DIRECTIONS
+What is the best route to Book Fair in Nasr city at 7 PM?,GET_DIRECTIONS
+Directions home from Storybook Land in NJ.,GET_DIRECTIONS
+Get directions from Memphis to Nashville using the best route during rush hour mid-week.,GET_DIRECTIONS
+Is there a route I can take to Kaneohe that does not use the highway?,GET_DIRECTIONS
+What's the best way to get to Eat the Street during Friday rush hour,GET_DIRECTIONS
+Is there a way to get around traffic,GET_DIRECTIONS
+"I need to be in NYU by 7pm, what's the best route to take?",GET_DIRECTIONS
+what is the shortest way from phoenix  to grand canoyn,GET_DIRECTIONS
+check for the fastest route to Orlando,GET_DIRECTIONS
+"if i want to be home in an hour, which freeway should i take with the least amount of traffic",GET_DIRECTIONS
+What is the fastest way to get home from downtown at 10 pm tonight?,GET_DIRECTIONS
+Show me the closest route,GET_DIRECTIONS
+show me the less traffic route to go to california,GET_DIRECTIONS
+what is the best route to Kahului,GET_DIRECTIONS
+What is the best way to go to Norfolk from Washington,GET_DIRECTIONS
+What is the best route to take to Oaks Park from the Clinton Division area in Portland?,GET_DIRECTIONS
+"Directions from CC to Aquatots, avoiding Grand River.",GET_DIRECTIONS
+"Pesina Avenue is flooded, is there a detour that I can take to get to 3rd Street before 11:30 AM?",GET_DIRECTIONS
+How can I get home without taking the freeway from here?,GET_DIRECTIONS
+get me driving directions from comerica theater to celebrity theater in phoenix,GET_DIRECTIONS
+To Mojo cooking Fest that'll be held Saturday February 28th on Darla Street,GET_DIRECTIONS
+calculate a route to San Fransisco that avoids road work,GET_DIRECTIONS
+"What is the shortest route to get to Tulsa, Oklahoma?",GET_DIRECTIONS
+Where is the least traffic getting home,GET_DIRECTIONS
+Directions to Target in Vernon Hills from Katie's house.,GET_DIRECTIONS
+directions from mcallen to pensacola,GET_DIRECTIONS
+How do I get to the 405 north from home,GET_DIRECTIONS
+What is the fastest route to New Orleans from here?,GET_DIRECTIONS
+how to reach ramesh's house before 6 pm with the shortest distance possible,GET_DIRECTIONS
+which way is toll free to the city,GET_DIRECTIONS
+Show me the directions home,GET_DIRECTIONS
+What's the best way to get to Fenway park and avoid all the traffic?,GET_DIRECTIONS
+what's the fastest way to get to the fall out boy concert?,GET_DIRECTIONS
+Can I avoid freeways and get to Salem by 4pm?,GET_DIRECTIONS
+I need to get to work before 9am using the freeway,GET_DIRECTIONS
+I plan on going to the Kanye concert at the Cowboys stadium tomorrow what will be the fastest route,GET_DIRECTIONS
+"The interstate is closed, how can I get home tonight?",GET_DIRECTIONS
+I need a clear route to Burlingame,GET_DIRECTIONS
+NO TRAFFIC PLEASE,GET_DIRECTIONS
+What is the best way to get to the Indian Arts Festival?,GET_DIRECTIONS
+Which route would be best to avoid traffic,GET_DIRECTIONS
+"I need a grocery store, please give me the directions to the closest one that is currently open.  Thank you.",GET_DIRECTIONS
+What is the fastest route to the store,GET_DIRECTIONS
+what is fastest route to work,GET_DIRECTIONS
+Get me directions to the airport in North Jacksonville if I take the freeway from my house.,GET_DIRECTIONS
+I need to get to my son's graduation's party in Bisbee before 4pm,GET_DIRECTIONS
+What is the shortest way home,GET_DIRECTIONS
+Tell me the quickest way to get to my 3pm work meeting from Whole Foods,GET_DIRECTIONS
+Which direction get me to Waterville Valley the fastest?,GET_DIRECTIONS
+direction to burning man,GET_DIRECTIONS
+Directions to new york,GET_DIRECTIONS
+How can I get to Lincoln Financial Field without taking I-95?,GET_DIRECTIONS
+Is there any bus to Universals at 7:00 am,GET_DIRECTIONS
+What is the fastest route to Monument,GET_DIRECTIONS
+"I need directions from my house to 1814 Franklin Pike, Lewisburg, Tn",GET_DIRECTIONS
+Get me to Dallas without the toll roads.,GET_DIRECTIONS
+map my route to work,GET_DIRECTIONS
+What is the fastest route to work,GET_DIRECTIONS
+give me driving directions to Hard Rock Stadium in Miami,GET_DIRECTIONS
+Whats the shortest route to work,GET_DIRECTIONS
+"Which route should I take if I want to be at Lumberjack Adventure around 6, leaving from my house at 5:30?",GET_DIRECTIONS
+Is there a way to avoid this traffic,GET_DIRECTIONS
+How do I avoid local traffic,GET_DIRECTIONS
+what's the commute,GET_DIRECTIONS
+which train I need to take to make it to PHL airport by 9am  tomorrow morning?,GET_DIRECTIONS
+What is the fastest route to get to Roberts house from the library in Dublin,GET_DIRECTIONS
+What is my best route home to avoid traffic,GET_DIRECTIONS
+Can I avoid the traffic around Arrowhead Stadium on the way the St Patrick's Day parade downtown?,GET_DIRECTIONS
+Which route should I take to get to October 6th faster?,GET_DIRECTIONS
+"What is the best route to the racetrack from my sister's house, if I left around 2 PM?",GET_DIRECTIONS
+how can i avoid traffic,GET_DIRECTIONS
+scenic route to atlantis,GET_DIRECTIONS
+How can I get from mom's home to the Circus at Disney at 5pm,GET_DIRECTIONS
+How can I get to the Natural Museum of History that is downtown by taking Central?,GET_DIRECTIONS
+Please indicate which route I should take to reach my destination the fastest,GET_DIRECTIONS
+Get me driving directions to the SuperBowl in Dallas.,GET_DIRECTIONS
+What is the best route from St Augustine to Jacksonville and how long does it take?,GET_DIRECTIONS
+please show my commute,GET_DIRECTIONS
+What is the quickest way to get home today,GET_DIRECTIONS
+Map a route for me from my location to Destin Florida and show delays,GET_DIRECTIONS
+"Directions to the Pearl District while avoid drawbridges, leaving at 8am.",GET_DIRECTIONS
+Besides I 10 what other route can I take from Baton Rouge Louisiana to San Antonio Texas,GET_DIRECTIONS
+"From NASA in Houston, send me directions to Galveston.",GET_DIRECTIONS
+Is the interstate the fastest way to the Omaha arena for the Madonna concert?,GET_DIRECTIONS
+what route will help me avoid traffic,GET_DIRECTIONS
+could you direct me to the nearest bus stop on 3rd,GET_DIRECTIONS
+Is there a route to avoid traffic,GET_DIRECTIONS
+best route to go to the giants game tonight,GET_DIRECTIONS
+What is the fastest rout to Vancouver,GET_DIRECTIONS
+Is there a route on my way home with no traffic,GET_DIRECTIONS
+"What is the fastest way to get to Miami from Orlando Airport, without having to pay any tolls",GET_DIRECTIONS
+What route is the shortest to get to North Hollywood from Westwood?,GET_DIRECTIONS
+The home and builder show is in Novi what's the least congested route to get there if I leave at 5 PM,GET_DIRECTIONS
+How do I get on the highway from here,GET_DIRECTIONS
+what route home has less traffic,GET_DIRECTIONS
+What's the best way to get to the doctor's office on 24th Street afternoon in the daytime on a weekday,GET_DIRECTIONS
+What route should I take to the Airport to avoid traffic,GET_DIRECTIONS
+"I'm looking for a Walmart, can you get me the directions to the closest one?",GET_DIRECTIONS
+"I am leaving now, guide me to the nearest nightclub.",GET_DIRECTIONS
+show me direction to san diego,GET_DIRECTIONS
+What's the best way to get to the Bulls game?,GET_DIRECTIONS
+Get me to work,GET_DIRECTIONS
+Can I get from 12th st nw to 44th ave s. if I take Washington St?,GET_DIRECTIONS
+"Give me directions to the State Fair by taking toll roads, leaving at 10 in the morning.",GET_DIRECTIONS
+What's the fastest route to the book signing at Barnes and Noble?,GET_DIRECTIONS
+Get me directions to mom's house.,GET_DIRECTIONS
+Give me directions to Main Street,GET_DIRECTIONS
+Take me to the empire state building,GET_DIRECTIONS
+Show my the way back to school,GET_DIRECTIONS
+shortest way to the store,GET_DIRECTIONS
+Have you beein at Bertioga? Which is the better road to arrive until 6pm?,GET_DIRECTIONS
+What is the quickest route to get to downtown,GET_DIRECTIONS
+Which route is fastest if I want to get from my house to David's house tomorrow night?,GET_DIRECTIONS
+directions to the convention from Christina's house leaving at 5p,GET_DIRECTIONS
+What's the best bike route to get to the United Artists movie theater in Fairless Hills?,GET_DIRECTIONS
+what is the best route to go to the airport,GET_DIRECTIONS
+get me driving directions to the coachella festival from my house,GET_DIRECTIONS
+how do I get from here to LA,GET_DIRECTIONS
+Find a route that will allow me to arrive home by 4:32pm,GET_DIRECTIONS
+"Is there a scenic backroad drive from Jamesville to Highlands, NC?",GET_DIRECTIONS
+leaving at 2pm need directions to the history museum without delays,GET_DIRECTIONS
+can you tell me the directions from Universal Florida to Disney World,GET_DIRECTIONS
+I want the fastest route to North Shore if I leave 6am on Saturday,GET_DIRECTIONS
+"How do I get to Tampa from Kissimmee without having to pay tolls, and with no construction",GET_DIRECTIONS
+Directions to home,GET_DIRECTIONS
+what is the best route to avoid this accident,GET_DIRECTIONS
+Can you give me directions to the Dallas Courthouse on Commerce Street from my house with no toll roads?,GET_DIRECTIONS
+i need to get downtown by 6 PM from my home. give me detour free directions,GET_DIRECTIONS
+Can you tell me directions to Walmart from my aunt's house in Pflugerville,GET_DIRECTIONS
+Take me to the closest forest preserve,GET_DIRECTIONS
+What are the details about the path to school,GET_DIRECTIONS
+Is there a way around the fire at the concert?,GET_DIRECTIONS
+Plan a route that would allow me to get from Philadelphia to Buffalo in less than 8 hours.,GET_DIRECTIONS
+Get me directions to Foster Fest in downtown Dothan from Kim's work on South Oates Street.,GET_DIRECTIONS
+what route should i take home,GET_DIRECTIONS
+Fastest route to wax museum in San Francisco,GET_DIRECTIONS
+What's the best route to get to the Shady brook event today?,GET_DIRECTIONS
+How can I get to work and avoid the downed power lines,GET_DIRECTIONS
+Give me directions to my appointment,GET_DIRECTIONS
+please find me the quickest route to the stadium,GET_DIRECTIONS
+Tell me how to get to moms house without going on the interstate.,GET_DIRECTIONS
+What's the quickest way to get through traffic,GET_DIRECTIONS
+Fastest way to destination,GET_DIRECTIONS
+Driving directions to the Great Northern Mall if there is a lot of traffic around 5pm.,GET_DIRECTIONS
+Get directions to uptown Manhattan leaving at 4pm,GET_DIRECTIONS
+Get directions to my office from John's apartment in Plainfield.,GET_DIRECTIONS
+Shortest way from my house to school,GET_DIRECTIONS
+what is the best route from mom's house to the madison airport with snow tomorrow at 4pm,GET_DIRECTIONS
+Can you tell me the directions from the Maryland Zoo to DC please?,GET_DIRECTIONS
+Which road home should I take to avoid any traffic delays?,GET_DIRECTIONS
+i want driving directions from the public library downtown to my first meeting tomorrow morning,GET_DIRECTIONS
+show me the uninterrupted route to kashi,GET_DIRECTIONS
+whats the fastest route home avoiding traffic,GET_DIRECTIONS
+Which route would be quickest to avoid traffic heading to the mall,GET_DIRECTIONS
+route from home to Lexington Kentucky,GET_DIRECTIONS
+quickest route from current location to mall,GET_DIRECTIONS
+What is the best way to Point Pleasant NJ avoiding toll roads,GET_DIRECTIONS
+What's the fasted way to work today at 5,GET_DIRECTIONS
+how can i avoid construction,GET_DIRECTIONS
+What is the best route to Black rock church in F airfield Connecticut from Bridgeport train station?,GET_DIRECTIONS
+What's the fastest way from here to the closest hospital,GET_DIRECTIONS
+Is there a way to get to Main St. without running into construction?,GET_DIRECTIONS
+Whats the driving directions to the Willis Tower near downtown,GET_DIRECTIONS
+fast way between west chester and downtown philly without constrction,GET_DIRECTIONS
+Can you give me a route that has little traffic,GET_DIRECTIONS
+What's the easiest way to get to the church in 20mins using i75,GET_DIRECTIONS
+"please,give me driving directions to the r&b concert in nightingal from my hotel room avaoiding all express lanes",GET_DIRECTIONS
+What is the fastest way home tonight,GET_DIRECTIONS
+What is the quickest route to take from South Bend to Chicago O'Hare,GET_DIRECTIONS
+"What is the fastest route to Washington, DC",GET_DIRECTIONS
+What is the quickest route to take home today,GET_DIRECTIONS
+what is the best route to take today,GET_DIRECTIONS
+what is the best route to get around the womens march,GET_DIRECTIONS
+Fastest route to Cedar Rapids,GET_DIRECTIONS
+Get me to the fish market using I-90 and avoiding construction,GET_DIRECTIONS
+What is the quickest way to my destination,GET_DIRECTIONS
+Best way to get to Ohare airport?,GET_DIRECTIONS
+Is there a way to get  to the super bowl  without construction?,GET_DIRECTIONS
+What is the fastest route,GET_DIRECTIONS
+show me the route without toll ways,GET_DIRECTIONS
+I need to get to the Market Street by 3pm avoiding tolls.,GET_DIRECTIONS
+What's the best route between Edison and the Weezer show?,GET_DIRECTIONS
+I need driving directions from Sarah's house to go to Bethany's house but I don't want to take the freeway,GET_DIRECTIONS
+Which way should I take home that has the least amount of traffic,GET_DIRECTIONS
+Tell me what the fastest way is to get from my house to the concert Hall,GET_DIRECTIONS
+What is the quickest route right now to Long and McQuade Music and Rentals in Saint John from my current location on Pheasant Street in New Brunswick?,GET_DIRECTIONS
+best alternative route to miss heavy traffic,GET_DIRECTIONS
+Show me the shortest route,GET_DIRECTIONS
+Whats the best route to Gainesville to avoid traffic,GET_DIRECTIONS
+"The Amway Center is about one hour away from home, is there a route which might get me there is less time for the Magics game",GET_DIRECTIONS
+What is the way to the Stop and Shop in Highland Park from my house?,GET_DIRECTIONS
+Drive to the beach in Freeport,GET_DIRECTIONS
+What is the fastest route to Lakeside Mall from Warren Michigan using Shaner Road,GET_DIRECTIONS
+I need driving directions to the nearest hair salon in town.,GET_DIRECTIONS
+Get directions to church without passing construction.,GET_DIRECTIONS
+What is the best route to take home,GET_DIRECTIONS
+Are there any routes to work that usually have light traffic at 7am?,GET_DIRECTIONS
+How do I get from the Financial district to pier 39 in San Francisco?,GET_DIRECTIONS
+Drive me to work,GET_DIRECTIONS
+I need to get to the mall before the close. How can I get there?,GET_DIRECTIONS
+Get me driving directions to the Blacks and Wax Museum in Baltimore.,GET_DIRECTIONS
+Can I get to Universal Studios from Disneyworld by taxi?,GET_DIRECTIONS
+show me routes to work that avoid traffic,GET_DIRECTIONS
+What is the quickest route home,GET_DIRECTIONS
+How to I get to the party at Mikes?,GET_DIRECTIONS
+How do I get home without hitting any flooded streets,GET_DIRECTIONS
+Directions to Publix.,GET_DIRECTIONS
+best route home,GET_DIRECTIONS
+What is the best route to drive from NY to Florida,GET_DIRECTIONS
+What's the best route to take after 5pm from here to Lenox Hill?,GET_DIRECTIONS
+Is there a detour around Lowry Tunnel,GET_DIRECTIONS
+Can you tell me how to get to Gaylord palms by Disney Springs and the fastest route to get there,GET_DIRECTIONS
+What is the best route to work,GET_DIRECTIONS
+Where is the least traffic at for my drive home from work,GET_DIRECTIONS
+What freeway should I take if I want to have the quickest route to home?,GET_DIRECTIONS
+Please provide light traffic routes,GET_DIRECTIONS
+what is the quickest way to San Diego to Irvine,GET_DIRECTIONS
+How can I get back home from my current location while avoiding tolls,GET_DIRECTIONS
+Is it good to go to Beyonce show through São Paulo Avenue?,GET_DIRECTIONS
+Directions to LAX Post Office,GET_DIRECTIONS
+route with least traffic to san jose,GET_DIRECTIONS
+What is the quickest way to get from Loop 1604 and Bandera Road to the high school Battle of the Band competition?,GET_DIRECTIONS
+Get me the driving directions to universal studios from here if I avoid high traffic areas,GET_DIRECTIONS
+Look up directions to Waikiki Beach from Ala Moana Park arriving before 2pm,GET_DIRECTIONS
+directions from mcallen to austin,GET_DIRECTIONS
+Which is the fastest route to work,GET_DIRECTIONS
+what road to go to grandma's,GET_DIRECTIONS
+The lights are out on 13th St. which direction should I go to get back home safely,GET_DIRECTIONS
+What is the best route to take to get to my house from work?,GET_DIRECTIONS
+avoid traffic,GET_DIRECTIONS
+"Directions to Eastern Market from my house, avoiding construction delays.",GET_DIRECTIONS
+Get me driving directions to the College Football National Championship in Atlanta.,GET_DIRECTIONS
+directions to the outlets in merrimack via us 3 leaving from work,GET_DIRECTIONS
+Take me all the way to North Carolina,GET_DIRECTIONS
+Is there a route without construction,GET_DIRECTIONS
+What route should I take to avoid traffic,GET_DIRECTIONS
+What is the fastest route for me to drive to my 5pm meeting,GET_DIRECTIONS
+Directions to school.,GET_DIRECTIONS
+"Quickest route from CC to Walmart, avoiding the thruway.",GET_DIRECTIONS
+Is there a route from Onondaga St to 2300 Degrees Gathering without construction?,GET_DIRECTIONS
+What's the fastest route from Woodland Hills to Tustin based on traffic right now,GET_DIRECTIONS
+What is the shortest route to arrive at today's concert in Hollywood?,GET_DIRECTIONS
+How do I get to the Saint Augustine Night of Lights celebration from San Jose Boulevard and I295?,GET_DIRECTIONS
+directions to target in McDounough avoiding highways and construction,GET_DIRECTIONS
+directions to houston avoiding flooded streets from Mckinney,GET_DIRECTIONS
+"I have a business meeting in Chicago today at 3, what is the best way to get there without having to pay any tolls along the way",GET_DIRECTIONS
+I don't want to take South St to Jerry's home. what other options do I have?,GET_DIRECTIONS
+"I want to arrive at Mom's house before 10am, what is the fastest route from Home?",GET_DIRECTIONS
+Take me to office from highway via mall road,GET_DIRECTIONS
+"avoiding the highway, how can I get to the movie theater",GET_DIRECTIONS
+What is the best way to get to the Avenues Mall via San Jose from my house?,GET_DIRECTIONS
+What's the shortest route to BWI airport?,GET_DIRECTIONS
+Best way to avoid travelling on 32nd street,GET_DIRECTIONS
+What's the best route to avoid traffic,GET_DIRECTIONS
+What's the fastest route to the DMV if I want to get there before 3PM?,GET_DIRECTIONS
+What is the fastest rout to take to Goochland and to avoid traffic?,GET_DIRECTIONS
+is it possible to go to Hala Pets shop in mohandeseen by 8 AM through sudan street?,GET_DIRECTIONS
+I need you to show me routes from my house to Ambers house on Evergreen including current traffic,GET_DIRECTIONS
+can I get the directions to Pico Ski Resort?,GET_DIRECTIONS
+Check alternate route to AMC cinema to avoid accident on route 10.,GET_DIRECTIONS
+What is the shortest route to Greenville from Jamesville?,GET_DIRECTIONS
+What is the quickest way to the Mayfair Arts Festival if I leave at noon?,GET_DIRECTIONS
+"If I want to make it to the Kmart in Pierre by 5pm, which road gets me there the quickest?",GET_DIRECTIONS
+I need to get to my best friend Jill's House on 32nd Street by public transit by 3:30 Saturday February 3rd,GET_DIRECTIONS
+Find me a bike route to the beach,GET_DIRECTIONS
+Get me driving directions to the Westfarms mall from my house,GET_DIRECTIONS
+I need directions to Target on Whitestone from my house,GET_DIRECTIONS
+what is a scenic route to view ocean in California,GET_DIRECTIONS
+fastest route to avoid traffic downtown,GET_DIRECTIONS
+How can I get to Mom and Dads while stopping by Susans house along the way,GET_DIRECTIONS
+What is the fastest way to get to my attorney's office if I leave in 15 minutes?,GET_DIRECTIONS
+"Out of all the available routes home, which is fastest",GET_DIRECTIONS
+fastest route home,GET_DIRECTIONS
+What is the best way to drive to work to avoid the most traffic,GET_DIRECTIONS
+Give me directions to Discovery World,GET_DIRECTIONS
+Is there another way around the detour to the Blake Sheldon concert,GET_DIRECTIONS
+"I need to get to the Denver Airport by 2pm, show me the fastest way.",GET_DIRECTIONS
+I am leaving the meeting in an hour how can I get to the airport fast to not miss my flight?,GET_DIRECTIONS
+would i be able to travel to alexandria this evening by car through giza?,GET_DIRECTIONS
+What is the best route from Manhattan to Rye,GET_DIRECTIONS
+What's the best route to take to go home today,GET_DIRECTIONS
+Get directions to downtown Chicago without passing construction.,GET_DIRECTIONS
+Which route to albany can I take that avoids all tolls,GET_DIRECTIONS
+Can you give me directions avoiding the highway,GET_DIRECTIONS
+wisconsin dells to sugar grove,GET_DIRECTIONS
+Directions to Walmart in Douglasville avoiding construction,GET_DIRECTIONS
+Get me directions to the New Orleans Superdome from 5th street if I leave now,GET_DIRECTIONS
+What is the best route to take to get to my office,GET_DIRECTIONS
+I need directions from my brother's house in Kyle to my Mom's house in Taylor that avoids toll roads,GET_DIRECTIONS
+"Directions to Petco closest to me, where I do not have to go on John Young Parkway",GET_DIRECTIONS
+Avoid Toll ways,GET_DIRECTIONS
+I need driving directions from LAX Airport International Terminal to the W hotel in Westwood avoiding freeways,GET_DIRECTIONS
+What's the best way to get to the Flea Market at rush hour?,GET_DIRECTIONS
+What direction is Hayleys house from here,GET_DIRECTIONS
+I need the quickest route to get from West Seattle to 96 Street and Aurora highway,GET_DIRECTIONS
+Is there a way to get from Margonda Raya street to the Asian Games main event in Jakarta without traffic congestion?,GET_DIRECTIONS
+I need directions from Cantonment Florida to downtown Pensacola without using Main Street.,GET_DIRECTIONS
+"Can i get directions to the outlet mall in Carlsbad, ca",GET_DIRECTIONS
+What's the fastest way for me to get to Applebottom street right now?,GET_DIRECTIONS
+can i take a cab from berber dr to walton,GET_DIRECTIONS
+Can I get to Pier 91 by bus?,GET_DIRECTIONS
+What is the best route for me to take today,GET_DIRECTIONS
+What is the best route from Jacksonville to Savannah,GET_DIRECTIONS
+I need a safe route that takes less than 4 hours to get from my house to Yosemite,GET_DIRECTIONS
+How do I get to Yurcak field from my house?,GET_DIRECTIONS
+What is the quickest way to the concert in Kapiolani Park?,GET_DIRECTIONS
+Show me the way home,GET_DIRECTIONS
+Routes to avoid traffic,GET_DIRECTIONS
+Construction-free routes to Moreno Valley under 2 hours,GET_DIRECTIONS
+How do I go around the detours and still make it on time for the Cher concert at 8 pm?,GET_DIRECTIONS
+what is the best way home,GET_DIRECTIONS
+What is my fastest route option to work this morning?,GET_DIRECTIONS
+What is the easiest way to get to my sister Jane's house in the middle of the day,GET_DIRECTIONS
+directions from mcallen to south padre island,GET_DIRECTIONS
+Driving directions to the Cummer Museum in Jacksonville.,GET_DIRECTIONS
+What is the best way to get to Kent during evening rush hour?,GET_DIRECTIONS
+Get direction to gas station near my home.,GET_DIRECTIONS
+Get directions to downtown Detroit without flooding.,GET_DIRECTIONS
+Give me the quickest way to get to Michael's on Wyoming by taking the freeway,GET_DIRECTIONS
+Are there any alternate routes to take to work that avoid road construction,GET_DIRECTIONS
+What is the fastest way to get to Madison Square Garden for the Ranger game next week?,GET_DIRECTIONS
+"Directions from home to the airport without traffic please, arriving at 4pm",GET_DIRECTIONS
+Best route to get to work today,GET_DIRECTIONS
+"If i want to stay off I-75, what is the best way to get to Columbus OH?",GET_DIRECTIONS
+What is the fastest way to get to Gifford Hospital?,GET_DIRECTIONS
+I would like to get directions to the Salsa music festival in Rogers Park.,GET_DIRECTIONS
+How do I get from my house to Joann Fabrics in Lincoln City?,GET_DIRECTIONS
+"I need to be in Columbia by 11am, give me the best route to get there.",GET_DIRECTIONS
+What is my quickest route to work if I leave now?,GET_DIRECTIONS
+what is the fastest way to get to to Louisville from Orlando,GET_DIRECTIONS
+What's the best way to get to the high school rally tonight at 7pm?,GET_DIRECTIONS
+Go to nearest Target,GET_DIRECTIONS
+Which highway with the lightest traffic should I take to work this morning,GET_DIRECTIONS
+How do I get to Boston avoiding the toll roads but still get there by 6pm?,GET_DIRECTIONS
+Directions to Dick's Sporting Goods in Moore avoiding I-35,GET_DIRECTIONS
+What is the quickest way to downtown at this time,GET_DIRECTIONS
+Avoid heavy traffic and suggest me roads to go home,GET_DIRECTIONS
+Which way has less traffic to get to Carolina Forest High School,GET_DIRECTIONS
+show me a path with clear traffic at  3pm today,GET_DIRECTIONS
+"I am leaving at 4pm to go to The Phillips Center, what is the best route to go from home, without having to go on I-4",GET_DIRECTIONS
+I want to go to the event in the Lakefront Park Kissimmee how do I get there,GET_DIRECTIONS
+"If it snows, is Community Day still happening and what is the best route to take?",GET_DIRECTIONS
+What is the fastest way to get to work by 9 am on weekdays?,GET_DIRECTIONS
+How do I get to NIEER from my house?,GET_DIRECTIONS
+Plan my commute,GET_DIRECTIONS
+"What is the fastest route home from current location, avoiding tolls",GET_DIRECTIONS
+Get me directions to the play in Omaha and get me there by 5pm,GET_DIRECTIONS
+can you tell me the fastest way to get to taylors parents house from work avoiding toll roads,GET_DIRECTIONS
+"Get me driving directions to Cannon Beach from Ashland, Oregon, using the coastal route.",GET_DIRECTIONS
+"Can you bring up directions from Duluth to Minneapolis, avoiding construction?",GET_DIRECTIONS
+I want to get to Jon's work in less than 15 minutes without taking the H201,GET_DIRECTIONS
+"Find me the fastest route, avoiding the interstate, to Northwoods Mall",GET_DIRECTIONS
+Is it work taking the Richards Parkway Express if I drive today,GET_DIRECTIONS
+which route gets me to the game on time,GET_DIRECTIONS
+I want to arrive to Dan's by 5 and would like to know the best route to take to avoid traffic.,GET_DIRECTIONS
+Find me a route with the least amount of traffic,GET_DIRECTIONS
+plot the fastest route home,GET_DIRECTIONS
+Directions to the hospital,GET_DIRECTIONS
+what is the quickest way to get to west seneca right now,GET_DIRECTIONS
+Are there multiple ways to get to Palm Springs from here?,GET_DIRECTIONS
+"Tookie Road in Boston is closed due to sewage repair, are there additional routes open that will lead me to Fenway Park for Saturday's game?",GET_DIRECTIONS
+Directions to 20 Warren Street in Norwood from the Walpole mall,GET_DIRECTIONS
+"Directions to Laurel Manor, from work, avoiding I96.",GET_DIRECTIONS
+I want the fastest way to get from SF to Laguna in under 6 hours.,GET_DIRECTIONS
+Give me a route from home to Sarah's avoiding the freeway.,GET_DIRECTIONS
+what streets from my location can connect me to the nearest interstate,GET_DIRECTIONS
+What's the fastest route to the drive-in,GET_DIRECTIONS
+I want to be at my aunt's house by 5. What is the fastest route during rush hour?,GET_DIRECTIONS
+Can I take a bus to the Neshaminy Mall from my house?,GET_DIRECTIONS
+Home please,GET_DIRECTIONS
+Please give me directions to downtown,GET_DIRECTIONS
+What is the best way to get to Gund Arena for the Cavs game tonight,GET_DIRECTIONS
+Please show me a route between the public library and the nearest park.,GET_DIRECTIONS
+I need the best route for my doctor's appointment this afternoon.,GET_DIRECTIONS
+Should I take an alternate route home today,GET_DIRECTIONS
+What is my quickest route to work today,GET_DIRECTIONS
+Start me from my house and direct me to Chris's house to arrive early afternoon.,GET_DIRECTIONS
+directions to library if I take 126,GET_DIRECTIONS
+Is there a good way to get from here to the Joanns on Market st in less than 10 minutes?,GET_DIRECTIONS
+"Can you tell me how to get to the new Home Goods near Marshalls in Hingham, Mass?",GET_DIRECTIONS
+I want the fastest route going to Ala Moana Center today without going thru highway,GET_DIRECTIONS
+What is an alternate route to work other than the interstate,GET_DIRECTIONS
+Fastest route to go to Apple Store,GET_DIRECTIONS
+What is the best way for me to go to the movie theater if i am leaving in ten minutes?,GET_DIRECTIONS
+Is there a route that can get me to the Mohegan Sun in less than two hours,GET_DIRECTIONS
+Give me the quickest route home,GET_DIRECTIONS
+"Directions to the nearest mall, from work.",GET_DIRECTIONS
+how can I get to Gilroy on surface roads,GET_DIRECTIONS
+Provide driving directions from work to Sky HIgh in Naperville.,GET_DIRECTIONS
+Tell me the route from Shelly's house to the renaissance festival in LA.,GET_DIRECTIONS
+"Give me directions to a nearest TJ Maxx store within 15 miles of Salt Lake, Honolulu",GET_DIRECTIONS
+Take to me the railroad museum,GET_DIRECTIONS
+Get me downtown Ft Lauderdale courthouse driving direction.,GET_DIRECTIONS
+Which way should I take to avoid traffic,GET_DIRECTIONS
+"I need to figure out the fastest way to drive from my mom's house to the hospital in Opelousas, Louisiana.",GET_DIRECTIONS
+Any detour to avoid the afternoon traffic on I-95 to bensalem,GET_DIRECTIONS
+who can show us the highway to kansas from here,GET_DIRECTIONS
+what route can I take to avoid an accident,GET_DIRECTIONS
+give me driving directions from comerica theater to talking stick resort,GET_DIRECTIONS
+How do I avoid traffic on the way to Bellevue,GET_DIRECTIONS
+What is the best route without highway driving to get to Blossom music center?,GET_DIRECTIONS
+whats my drive home,GET_DIRECTIONS
+Is there a way to get from Maxwell and Laurel to the Pearl District Festival without construction,GET_DIRECTIONS
+What's the city street route to downtown,GET_DIRECTIONS
+please give me directions to the city avoiding tolls,GET_DIRECTIONS
+What is the best route to take to Vegas?,GET_DIRECTIONS
+Directions to the National Peanut Festival.,GET_DIRECTIONS
+How do I get to Daley Plaza from my house and avoid the flooded streets?,GET_DIRECTIONS
+What is the fastest way to get to Frankenmuth from Hudsonville?,GET_DIRECTIONS
+Directions to the eye doctor near the pet shop.,GET_DIRECTIONS
+I need directions to Ikea in Burbank from Courtney's house,GET_DIRECTIONS
+Give me directions to the closest Car repair shop,GET_DIRECTIONS
+Take me on the best route to Disney World,GET_DIRECTIONS
+Give me the best route to go to the mall,GET_DIRECTIONS
+What is the fastest route to Chicago,GET_DIRECTIONS
+How do I avoid the Mardi Gras parades on the way home?,GET_DIRECTIONS
+"I'm trying to get to class on time, what are my route options that would get me there by 3:30?",GET_DIRECTIONS
+What is the fastest route to the airport,GET_DIRECTIONS
+Can I avoid any traffic,GET_DIRECTIONS
+What is the best way to get to the Comic Convention before 2pm?,GET_DIRECTIONS
+Get me to Babies 'R Us avoiding the flooded roads for Black Friday sales if I am leaving at 2:00 AM.,GET_DIRECTIONS
+Tell me how to get from my mom's house to Jumpy Jump land in Andover Kansas,GET_DIRECTIONS
+What's the fastest route to the airport,GET_DIRECTIONS
+What is the best route  by car to go to Aryana's Spring recital?,GET_DIRECTIONS
+Where do I need to go to get to the Imax Theater located in Winnipeg?,GET_DIRECTIONS
+Which way is the shortest route home from work avoiding traffic,GET_DIRECTIONS
+What direction do I head from home to get to the Kent State campus?,GET_DIRECTIONS
+what is the route from work to home,GET_DIRECTIONS
+need directions to the closest gas station,GET_DIRECTIONS
+What is the best route for the road trip across the country from West Coast to East Coast,GET_DIRECTIONS
+Can you help me get back home from Lauren's house please?,GET_DIRECTIONS
+Where is the least traffic to get from San Francisco to Los Angeles,GET_DIRECTIONS
+Directions to Eastern Market.,GET_DIRECTIONS
+I want to go Norfolk Waterside District without using tolls,GET_DIRECTIONS
+can you tell me how to get to the mumford and sons concert in pittsburgh from my current location,GET_DIRECTIONS
+What is the fastest route from my house to the airport,GET_DIRECTIONS
+"What is the fastest route to Gatlinburg from Jacksonville, NC?",GET_DIRECTIONS
+tell me the quickest route to reach my office if i leave from home at 7am.,GET_DIRECTIONS
+Direction from Vegas to LA avoiding the 15,GET_DIRECTIONS
+What is the fastest way home,GET_DIRECTIONS
+What is the quickest way to work today to avoid traffic,GET_DIRECTIONS
+is there a route that avoids traffic,GET_DIRECTIONS
+Can you give me directions from Philadelphia to DC avoiding tolls?,GET_DIRECTIONS
+what is the quickest way back home,GET_DIRECTIONS
+Can I get to Dallas on this  route?,GET_DIRECTIONS
+Give me a rout with out tolls to go to the football game,GET_DIRECTIONS
+How can avoid traffic from the accident on my way to work,GET_DIRECTIONS
+What is my fastest way into the bay area this afternoon,GET_DIRECTIONS
+least time route to faridabad from delhi,GET_DIRECTIONS
+what's the best route to take to SeaTac right now,GET_DIRECTIONS
+Which route to the Hospital has the least traffic,GET_DIRECTIONS
+How can I avoid the traffic,GET_DIRECTIONS
+What's the quickest way to L.A. right now?,GET_DIRECTIONS
+Get shortest distance and directions to downtown Bridgeport from Trumbull mall.,GET_DIRECTIONS
+give me driving direction to the nearest mall in los angeles,GET_DIRECTIONS
+Please tell me how to get to the New Mexico State Fair grounds by taking Lomas,GET_DIRECTIONS
+What is the fastest route to get from here to Kansas City?,GET_DIRECTIONS
+What's the easiest way to get to LAX,GET_DIRECTIONS
+what is the best route to work this afternoon,GET_DIRECTIONS
+take me least congested route to my brother David's house,GET_DIRECTIONS
+Whats the best detour to take from the construction on the way to San Jose?,GET_DIRECTIONS
+What is the quickest route from Orlando Airport to Disney,GET_DIRECTIONS
+directions to monalisas church via i-545 from bell county,GET_DIRECTIONS
+Need fastest way to get from NYC to Boston.,GET_DIRECTIONS
+If I avoid roadwork what is the fastest route from my house to Tennessee,GET_DIRECTIONS
+How to avoid traffic to work,GET_DIRECTIONS
+Is there a way to get from home to the pig in the park Festival in Newberry  without flooding?,GET_DIRECTIONS
+Quickest route from Oviedo to Disney Springs,GET_DIRECTIONS
+Which way should I go to make it to the bank before they close at 5?,GET_DIRECTIONS
+Get me driving directions to the science museum downtown Cleveland,GET_DIRECTIONS
+Send me directions to the park,GET_DIRECTIONS
+Give me the best route to the Sun Bowl,GET_DIRECTIONS
+Display to work route,GET_DIRECTIONS
+Tell me the fastest way home from Keansburg because I think there are downed power lines on route 35,GET_DIRECTIONS
+Can you tell me the fastest way to Pearl City when I leave 3pm on a Tuesday,GET_DIRECTIONS
+can i walk from my house to the museum,GET_DIRECTIONS
+whats the best way to avoid the traffic,GET_DIRECTIONS
+Which way is the fastest to take if I need to be at my meeting at 8am and I have to drive to downtown Syracuse?,GET_DIRECTIONS
+Take me to the closest parking garage in Philadelphia,GET_DIRECTIONS
+What way should I take to make it to Plymouth by 5 tonight?,GET_DIRECTIONS
+which route should I take to get home fast,GET_DIRECTIONS
+Can you tell me directions to the Bears game from Wheaton?,GET_DIRECTIONS
+is there a route to get to First Baptist Church of St Louis from here that does not use the interstate?,GET_DIRECTIONS
+Create the fastest route,GET_DIRECTIONS
+Can you give me directions to the Huntington Dog Beach via the I-5?,GET_DIRECTIONS
+Directions home,GET_DIRECTIONS
+How can I get to the golf course by way of the turnpike if I leave at 2 o'clock?,GET_DIRECTIONS
+How do I get out of this traffic,GET_DIRECTIONS
+I need directions to Bee City avoiding interstates,GET_DIRECTIONS
+Which interstate do I take to get from Greenville to Atlanta,GET_DIRECTIONS
+Directions to the courthouse from my grandmas house,GET_DIRECTIONS
+How can I get to Aldi on 2nd Street and back to my house by 4:30,GET_DIRECTIONS
+Whats the driving directions to the Footlocker near downtown,GET_DIRECTIONS
+get me directions from Ranch to silverspring county at 5;50am tomorrow,GET_DIRECTIONS
+What route can I take to avoid traffic at 6pm?,GET_DIRECTIONS
+"I'm late - find me the fastest route to get to school, if I leave right now",GET_DIRECTIONS
+"I need to be at my meeting by 3, what routes can i take",GET_DIRECTIONS
+Get me directions to The Promenade in Bolingbrook,GET_DIRECTIONS
+which route to work has less traffic,GET_DIRECTIONS
+Is there a faster route available,GET_DIRECTIONS
+Can I get to Virginia Beach sometime tonight without passing the flooding?,GET_DIRECTIONS
+Can I get from 4th Ave & Main St Las Vegas to the Bulls Game without detours?,GET_DIRECTIONS
+"I am running late for my appointment with Teresa, can you find me the fastest route that also has our bank and a gas station along the way",GET_DIRECTIONS
+What is the shortest route to my destination,GET_DIRECTIONS
+What is the fastest route to get to the beach from here,GET_DIRECTIONS
+Which route has the least traffic to Poway,GET_DIRECTIONS
+Directions to Disneyland,GET_DIRECTIONS
+can you get me directions for going to Arizona now.,GET_DIRECTIONS
+Quickest way to the library from Dannie's work before it closes at 9:00 PM,GET_DIRECTIONS
+Can I get to Buffalo using Rte. 5 & 20?,GET_DIRECTIONS
+give me directions to tbones record store in hattiesburg mississippi,GET_DIRECTIONS
+Which way is the quickest to work?,GET_DIRECTIONS
+give me driving direction to the library on davis hwy,GET_DIRECTIONS
+get me a quick route to target,GET_DIRECTIONS
+What's the fastest way to Beaumont if I leave at 10 AM?,GET_DIRECTIONS
+Get me the fastest route to get home,GET_DIRECTIONS
+how can i avoid traffic on bardstown rd,GET_DIRECTIONS
+what is the fastest route home,GET_DIRECTIONS
+Directions from Chicago to New York City.,GET_DIRECTIONS
+Bridges to Red Hook Brooklyn,GET_DIRECTIONS
+How to go to the pyramids from airport?,GET_DIRECTIONS
+"Get directions home from Penn medical center in Cherry Hill, avoiding Rt 295 construction.",GET_DIRECTIONS
+"On our way camping, i'd like to know the directions that include the most scenic route available",GET_DIRECTIONS
+Is there any way to go a different route to avoid traffic,GET_DIRECTIONS
+how to get to oprah own studio from downtown,GET_DIRECTIONS
+give me driving directions from port harcort to lagos street avoiding the highway,GET_DIRECTIONS
+Directions to my moms.,GET_DIRECTIONS
+"Find the quickest way to get to Music festival near Alex St., from Aashna's school.",GET_DIRECTIONS
+What's the best road to get to Women's March?,GET_DIRECTIONS
+What is the best route to travel to grandma connie's?,GET_DIRECTIONS
+what is the fastest route to get home,GET_DIRECTIONS
+What is the fastest way to work,GET_DIRECTIONS
+Directions to work.,GET_DIRECTIONS
+How can I get to the Sprouts on San Mateo from home,GET_DIRECTIONS
+directions from mcallen to the alamo,GET_DIRECTIONS
+Give me directions to the Children's Museum in Denver.,GET_DIRECTIONS
+Get me directions from Dallas to Lubbock and then to Shreveport from Lubbock,GET_DIRECTIONS
+"The country music festival starts at 3pm, what's the best way to get there without running into any traffic?",GET_DIRECTIONS
+directions to dog store,GET_DIRECTIONS
+Show me how to avoid the Traffic on my Drive to work,GET_DIRECTIONS
+I need to drive from Barbara's house to Kenny's house later tonight - what's the fastest route?,GET_DIRECTIONS
+What is the route from Sunset Station to MGM Grand?,GET_DIRECTIONS
+What train should I take in order to get to BWI by 645pm tonight?,GET_DIRECTIONS
+Is there a train I can take to Santa Monica from Hollywood,GET_DIRECTIONS
+Driving from Chicago to Charlotte,GET_DIRECTIONS
+Whats the driving directions to the Dollar store near downtown,GET_DIRECTIONS
+"If I leave now, what is my fastest route to Wildwood, NJ?",GET_DIRECTIONS
+Download driving directions from Gulfworld to Mary Sues house,GET_DIRECTIONS
+Which is the fastest freeway to take to go to Laguna Beach?,GET_DIRECTIONS
+How do I avoid stop and go traffic on the way to Franklin,GET_DIRECTIONS
+give me the quickest rout to cambrige without traffic,GET_DIRECTIONS
+get driving direction from montgomery street to 1264 main street in Mobile,GET_DIRECTIONS
+what is the fastest driving route to arrive to work before 8:30am,GET_DIRECTIONS
+I need to get to work early which route should I take avoiding the I 94,GET_DIRECTIONS
+What is the quickest route,GET_DIRECTIONS
+which is the fastest way to school avoid accident blockage,GET_DIRECTIONS
+Get directions to downtown New Iberia without passing construction,GET_DIRECTIONS
+send me a way that doesn't go onto the freeway,GET_DIRECTIONS
+driving directions to the closest hospital,GET_DIRECTIONS
+Show me the back way to the mall,GET_DIRECTIONS
+fastest route to frys,GET_DIRECTIONS
+Tell me how to get to the Aquarium in Tampa.,GET_DIRECTIONS
+What's the best way to get to the train station during rush hour?,GET_DIRECTIONS
+"Get directions to downtown Lafayette, Louisiana, so that I end up at the college there.",GET_DIRECTIONS
+"Can you give me directions from HSPVA in Houston, to Hobby Airport?",GET_DIRECTIONS
+Give me a route to get to Griffin's house by 1pm.,GET_DIRECTIONS
+show me the best route,GET_DIRECTIONS
+what is the shortest route to venice beach,GET_DIRECTIONS
+Directions to the skating rink near the airport?,GET_DIRECTIONS
+Get to downtown Atlanta without taking 75 or 85,GET_DIRECTIONS
+best route from here to Charleston,GET_DIRECTIONS
+How can I get to Rockefeller Plaza from downtown Manhattan?,GET_DIRECTIONS
+How can I avoid the traffic on the way to work today,GET_DIRECTIONS
+can you give me driving directions from Sea World in Orlando,GET_DIRECTIONS
+What's the quickest route to avoid construction to make it home by 6pm?,GET_DIRECTIONS
+"Give me directions to Jacksonville, FL with the least amount of miles.",GET_DIRECTIONS
+Tell me how to get to the movie theater from school.,GET_DIRECTIONS
+I need help getting to the San Francisco Symphony by 6pm,GET_DIRECTIONS
+safe route home during storm,GET_DIRECTIONS
+Directions to the parking lot on 5th street,GET_DIRECTIONS
+What route should I take to avoid the most traffic,GET_DIRECTIONS
+how do i reach RunforAmma event starting at 6pm tonight with the I-70 highway blocked.,GET_DIRECTIONS
+show me the direction to home,GET_DIRECTIONS
+Which route to work has the least traffic,GET_DIRECTIONS
+can I ride a bike to the airport,GET_DIRECTIONS
+Get me driving directions to the Monsters game in Cleveland,GET_DIRECTIONS
+Tell me how to get to work avoiding traffic.,GET_DIRECTIONS
+Please give me directions to Virginia Beach boardwalk without using the highway and avoiding tolls,GET_DIRECTIONS
+how can I avoid road work when going to taylors aunts house leaving from my office,GET_DIRECTIONS
+How can I get around the flooding to go from home to the Fullerton Best Buy?,GET_DIRECTIONS
+How can I avoid traffic today,GET_DIRECTIONS
+Please tell me fastest route,GET_DIRECTIONS
+directions to the jazz fest,GET_DIRECTIONS
+directions from Washington DC to Boston,GET_DIRECTIONS
+I need driving directions to the Carnival in downtown Los Angeles,GET_DIRECTIONS
+What road will keep me clear of heavy traffic going to Shallowater,GET_DIRECTIONS
+Give me the scenic route home,GET_DIRECTIONS
+What is the fastest route for me to get to work,GET_DIRECTIONS
+Directions to arrive by 9 am at the city hall in West Hollywod leaving from home,GET_DIRECTIONS
+Fastest way to get to Norwood today,GET_DIRECTIONS
+Tell me the best way to avoid traffic delays if I go into Sylva on Friday afternoon. on I-40.,GET_DIRECTIONS
+what is the best way to get home tonight,GET_DIRECTIONS
+"Directions from home to the Orlando airport without traffic, I need to arrive at 4pm",GET_DIRECTIONS
+I need directions to avoid the traffic on I-65,GET_DIRECTIONS
+directions from mcallen to universal studio orlando,GET_DIRECTIONS
+please confirm if this is the quickest way,GET_DIRECTIONS
+Is there anyway to avoid traffic,GET_DIRECTIONS
+please take the shortest route to chicago,GET_DIRECTIONS
+I want to go to the boat show in Novi Sunday afternoon was the best route to get me there by 2 PM,GET_DIRECTIONS
+What route is the most scenic that does not go through construction on the way to my class?,GET_DIRECTIONS
+Are there other routes to Charleston that do not take the interstates that will get me there by 9pm tonight?,GET_DIRECTIONS
+How do I avoid busy traffic today,GET_DIRECTIONS
+What's the fastest route from Houston to Austin,GET_DIRECTIONS
+can you tell me the quickest way to get to forest lake from cambridge,GET_DIRECTIONS
+what's the best way to get to the superdome during rush hour,GET_DIRECTIONS
+Upload directions to Solon from Mayfield Heights,GET_DIRECTIONS
+What is the most used route from home to Seaworld,GET_DIRECTIONS
+"I'm late for work, how can I get faster from home to the International Drive",GET_DIRECTIONS
+Shortest route home including traffic,GET_DIRECTIONS
+How do I get to the Seattle Seahawks game from Bremerton?,GET_DIRECTIONS
+Directions to my mom's house.,GET_DIRECTIONS
+Need some directions to the new sporting goods store that opened not by 94 in Chesterfield,GET_DIRECTIONS
+Get directions to downtown Pittsburgh without passing construction,GET_DIRECTIONS
+give me the fastest directions to get home,GET_DIRECTIONS
+what shortest way to white sand new mexico,GET_DIRECTIONS
+Furnish me with shortest path to Brooklyn Bridge from Times square in New York City,GET_DIRECTIONS
+Route with the least traffic from here to Cleveland,GET_DIRECTIONS
+Find me the quickest route home,GET_DIRECTIONS
+Give me the fastest route to downtown from home if I leave at 5pm,GET_DIRECTIONS
+"What highway do I take to get to Rochester, MN?",GET_DIRECTIONS
+Is there a route on 85 that will get me to North Hills Mall by 5 pm?,GET_DIRECTIONS
+What's the best way to get to the Big Bad Wolf Book Fair at rush hour?,GET_DIRECTIONS
+How can I avoid the traffic jam between south and pearl street,GET_DIRECTIONS
+Whats the fastest route to get to work tomorrow,GET_DIRECTIONS
+Driving directions to the MOSH in Jacksonville from Old Saint Augustine Road and I95.,GET_DIRECTIONS
+can i avoid snowy roads around the Springtime Cherry Blossoms around 7pm in the evening.,GET_DIRECTIONS
+Can I get to main street from the turnpike,GET_DIRECTIONS
+Which is the quickest route to go work,GET_DIRECTIONS
+I'm looking for directions from Cheryl's house to Mountain Road in Monson.,GET_DIRECTIONS
+Take me home with fastest route,GET_DIRECTIONS
+take me where there is to traffic,GET_DIRECTIONS
+fastest way to walmart from the library,GET_DIRECTIONS
+What's the best route to avoid traffic to NH on Sunday,GET_DIRECTIONS
+What is the quickest route to Becky's house?,GET_DIRECTIONS
+What's the best way to get to Big Bear from here without using freeways?,GET_DIRECTIONS
+Please map out the best route for me if I would like to drive to my moms house.,GET_DIRECTIONS
+fastest way to go home,GET_DIRECTIONS
+What's the quickest route avoiding traffic for driving to Miami,GET_DIRECTIONS
+Get me to Solvang California using the Pacific Coast highway.,GET_DIRECTIONS
+can you tell me how to get to the sears tower from work avoiding contruction,GET_DIRECTIONS
+Is there a back way to centralia to the basketball game,GET_DIRECTIONS
+Get me driving directions to downtown Columbus without construction leaving at noon,GET_DIRECTIONS
+How to get to my moms house from my house,GET_DIRECTIONS
+Route to john's house,GET_DIRECTIONS
+what is the best way to go to avoid traffic,GET_DIRECTIONS
+What is the best way to go from Stock Car to home?,GET_DIRECTIONS
+How do I get downtown?,GET_DIRECTIONS
+What is the best way home,GET_DIRECTIONS
+Which way is faster to marks house,GET_DIRECTIONS
+What's the best route to take to the portland airport,GET_DIRECTIONS
+How do I get to the Scottish games in Pennsylvania from my house in NJ,GET_DIRECTIONS
+Get me the fastest route to Phoenix,GET_DIRECTIONS
+How can I avoid traffic going to Costco in Brooklyn on Saturday mornings,GET_DIRECTIONS
+Can you tell me how to get Boston Aquarium from the Jamaica Pond?,GET_DIRECTIONS
+What is the quickest route to get home,GET_DIRECTIONS
+give me my route home,GET_DIRECTIONS
+Get directions to the mall please!,GET_DIRECTIONS
+How to get to the highway from the city,GET_DIRECTIONS
+is it possible to travel from maryland to new jersey without traveling on route 95,GET_DIRECTIONS
+How do I get home?,GET_DIRECTIONS
+What's the best way to get to the Bears game?,GET_DIRECTIONS
+Best route to avoid traffic from orlando to Miami,GET_DIRECTIONS
+Directions to Hobby Lobby in North Charleston avoiding construction,GET_DIRECTIONS
+I need directions to work.,GET_DIRECTIONS
+"Get directions to the Music Store in Baltimore, Maryland.",GET_DIRECTIONS
+What route should i take to get to school the fastest,GET_DIRECTIONS
+"Can I please get directions to the Mobile Civic Center, taking the scenic route, not the interstate?",GET_DIRECTIONS
+Directions to Eaton Park Place is Columbus from my house,GET_DIRECTIONS
+There is an accident on 39th Ave.What road should I take to get to the 13th With at least amount of traffic,GET_DIRECTIONS
+"Can I get directions to the hotel that's located next to Cash's Faux Pas in Ft. Walton, Florida?",GET_DIRECTIONS
+Help me avoid traffic going home,GET_DIRECTIONS
+Provide directions to Franklin Park from home with no toll roads,GET_DIRECTIONS
+Is there any detours to Gina's house that will avoid traffic?,GET_DIRECTIONS
+What is the fastest road I can take to get to Roosevelt Field?,GET_DIRECTIONS
+How can I get to the Trader Joes in Downtown Las Vegas from my office?,GET_DIRECTIONS
+How can I get to the theater for the premiere of the movie on time,GET_DIRECTIONS
+Can I get to Disneworld by bike from Kissimee?,GET_DIRECTIONS
+How do I get to Phoenix and avoud the interstate?,GET_DIRECTIONS
+What route should I take to avoid the March for Science next month?,GET_DIRECTIONS
+What is the best route to Florida through South Carolina from Indiana,GET_DIRECTIONS
+which way can i avoid the heaviest traffic to the city,GET_DIRECTIONS
+Is there a way to get from Lynnwood to Tacoma without being on I-5?,GET_DIRECTIONS
+how can I avoid traffic,GET_DIRECTIONS
+Is there a way to avoid trains when going downtown?,GET_DIRECTIONS
+what is the best route to take to to get to the concert tonight,GET_DIRECTIONS
+Take me to school,GET_DIRECTIONS
+What is the quickest way to get to Orange Park from my house if I don't take the Shands Point Bridge?,GET_DIRECTIONS
+What is the fastest way for me to get to the MAcy's at southpark mall from work?,GET_DIRECTIONS
+Drive home,GET_DIRECTIONS
+best route to avoid Traffic please,GET_DIRECTIONS
+Give me the route to school with the least traffic,GET_DIRECTIONS
+What is the best way around Atlanta,GET_DIRECTIONS
+Can I avoid this traffic,GET_DIRECTIONS
+what's the safest route to the mall today,GET_DIRECTIONS
+What is the best route to avoid traffic on my way home,GET_DIRECTIONS
+I want the directions for the Sanford Hospital in Fargo.,GET_DIRECTIONS
+i need get east bound 215,GET_DIRECTIONS
+Driving directions without crossing a train tracks from my home to the Tulsa Airport,GET_DIRECTIONS
+directions to st. marys from my house,GET_DIRECTIONS
+Directions to Cost Co in Kent,GET_DIRECTIONS
+How do I get to the local library from my location?,GET_DIRECTIONS
+Routes with o tolls,GET_DIRECTIONS
+Route to get to the nearest Walmart,GET_DIRECTIONS
+How do I avoid construction zones,GET_DIRECTIONS
+Get me driving directions to Mardi Gras in New Orleans.,GET_DIRECTIONS
+What is the best route to get to the airport for 6 am on Monday?,GET_DIRECTIONS
+directions to denver with least amount of traffic,GET_DIRECTIONS
+How can i get to mom's without using the freeway,GET_DIRECTIONS
+best way to reach work today,GET_DIRECTIONS
+Driving directions to the opera house in dowtown atlanta.,GET_DIRECTIONS
+Get me to the Walmart in Cupertino by noon!,GET_DIRECTIONS
+"Get the shortest route to Bay bridge, San Francisco",GET_DIRECTIONS
+Directions to Hospital of the University of Pennsylvania in Philadelphia from home.,GET_DIRECTIONS
+How can I get around the traffic,GET_DIRECTIONS
+Drive me to the nearest Gas Station.,GET_DIRECTIONS
+"Which way should I go to make sure that I get to Angela's house at 4 pm, leaving from my house?",GET_DIRECTIONS
+Get me directions to the Fashion Square mall in Orlando using toll roads,GET_DIRECTIONS
+Can I take a bus to the art museum from here,GET_DIRECTIONS
+What's the best route to Food Works on a Friday night?,GET_DIRECTIONS
+how do i get to overpoort from silverspring avaoiding the freeway?,GET_DIRECTIONS
+What's the shortest route to Lucas Oil Stadium,GET_DIRECTIONS
+Should I take the freeway to get to David's the quickest?,GET_DIRECTIONS
+"Get directions to the Motown Festival on Belle Isle from Romulus, Michigan.",GET_DIRECTIONS
+how do i get to sky lake from streets,GET_DIRECTIONS
+best directions to arrive early in Rio de Janeiro,GET_DIRECTIONS
+Show me the easiest route to Home Depot,GET_DIRECTIONS
+need directions from my house to the grocery store,GET_DIRECTIONS
+Directions to Ala Moana,GET_DIRECTIONS
+get me driving directions to the macy's at biltmore sqaure from the arizona grand resort,GET_DIRECTIONS
+What is the route with the least amount of traffic to get to downtown to the Hollywood Bowl,GET_DIRECTIONS
+Way to shopping near me through highway,GET_DIRECTIONS
+which roads should i avoid on my way to work,GET_DIRECTIONS
+Tell me directions to the grocery store taking only back roads.,GET_DIRECTIONS
+Routes to avoid accidents,GET_DIRECTIONS
+What is the best way to get to Target during rush hour?,GET_DIRECTIONS
+Give me directions to Karens house if I leave downtown Dallas at 2AM,GET_DIRECTIONS
+What is the fastest route to get to go Opelousas from Newtown,GET_DIRECTIONS
+What route should I take to get from the autobon zoo to the aquarium of the Americas During rush hour,GET_DIRECTIONS
+Take me to the theater by five,GET_DIRECTIONS
+What is the easiest way around traffic,GET_DIRECTIONS
+is there a route that does not have tolls,GET_DIRECTIONS
+Get directions to downtown Mandeville without passing construction,GET_DIRECTIONS
+Is there a clear route with no traffic,GET_DIRECTIONS
+What route can I take to avoid traffic in Champaign during lunch?,GET_DIRECTIONS
+Hello to take me to get to my house to my nephew Jeff's at 5 PM,GET_DIRECTIONS
+Get me driving directions to the Country Music Awards in Nashville.,GET_DIRECTIONS
+what's the best route home today,GET_DIRECTIONS
+"Get directions to the Space Needle from the Marriott Hotel in Bellevue, Washington.",GET_DIRECTIONS
+Get directions to downtown Cincinatti without passing construction,GET_DIRECTIONS
+Where is the fastest detour,GET_DIRECTIONS
+Give me directions to the store on Allen Street from school.,GET_DIRECTIONS
+I don't want to take the freeway but I need to get to the pet shop in 30 minutes.,GET_DIRECTIONS
+directions to paramount hotel avoiding flooding from lizzys market,GET_DIRECTIONS
+Could you get me the fastest route to my cousins house without paying any tolls?,GET_DIRECTIONS
+the fastest route home,GET_DIRECTIONS
+What route should I take from the doctor to home to avoid the flood?,GET_DIRECTIONS
+Can you tell me how to get to LaSallate Shrine from Myrtle Street in Rockland,GET_DIRECTIONS
+What freeway should I take going from Pomona to Downtown LA at 4:45pm?,GET_DIRECTIONS
+What is my shortest traffic route to work this morning,GET_DIRECTIONS
+IS it possible to ride a bike into Ocean City via 9th street?  I heard a new bridge was being built,GET_DIRECTIONS
+I'd like to find a scenic route on the way to the lake house.,GET_DIRECTIONS
+Shortest route to the airport,GET_DIRECTIONS
+What is the quickest way to to get home,GET_DIRECTIONS
+Find the way with least traffic to get to Valley River Mall,GET_DIRECTIONS
+"get directions to tropical havanna beach from roadstreet drive,avenue 4 at 02;00am",GET_DIRECTIONS
+Which is the quickest route to get to the library from my house?,GET_DIRECTIONS
+quickest route to set ramp 33 on Johnson Drive,GET_DIRECTIONS
+Get me driving directions to any farm market nearby from home,GET_DIRECTIONS
+Can I avoid the construction on rt 287 to get to the Devils game at 6 pm?,GET_DIRECTIONS
+Which way is the fastest route,GET_DIRECTIONS
+Which route does the Disney bus take from Orlando airport to Disneyworld?,GET_DIRECTIONS
+How can i get to my son's house by noon,GET_DIRECTIONS
+Can I get directions to the law firm on 25th in Salem where I met last Thursday?,GET_DIRECTIONS
+Find the fastest route around this traffic using shortest distance to Bolivar Rd in Denton,GET_DIRECTIONS
+get me directions to the Publix in downtown Mt Dora,GET_DIRECTIONS
+What is the best route home based on traffic,GET_DIRECTIONS
+how do i get to my dinner with taylor if I dont take the highway,GET_DIRECTIONS
+What is the most scenic route to San Luis Obispo,GET_DIRECTIONS
+Directions to the circus near my brothers home.,GET_DIRECTIONS
+How do I get to Middleburg from Jacksonville without having to take the Buckman Bridge?,GET_DIRECTIONS
+what route is the quickest to get home,GET_DIRECTIONS
+is there a way from saint george to vegas that will have me there by dinnertime?,GET_DIRECTIONS
+"Tell me how to get to the lake if I leave my work at 4 PM, and want to avoid any road work.",GET_DIRECTIONS
+What is the shortest route to my Grandmother's house,GET_DIRECTIONS
+is there a way to get to the Crawfish Festival Saturday without taking Sisterdale road?,GET_DIRECTIONS
+what route should i take to get to work by 9 am  avoiding the highway and any construction,GET_DIRECTIONS
+is it possible to get to Dell company with this traffic condititions this morning?,GET_DIRECTIONS
+Show me routes that avoid tolls,GET_DIRECTIONS
+What's the best way to get to Publix at rush hour?,GET_DIRECTIONS
+can you tell me the fastest way to get to my doctors appointment today if I left from work,GET_DIRECTIONS
+Quickest way walking to my daughter's High School reunions at 7:30 on 7th and Dr,GET_DIRECTIONS
+best route to Paramount for the Maine concert tomorrow,GET_DIRECTIONS
+What route should I take to get to the football game tonight,GET_DIRECTIONS
+Whats the driving directions to the Rainbow near downtown,GET_DIRECTIONS
+take me to Odessa,GET_DIRECTIONS
+Map out the best route for me to take to work today please,GET_DIRECTIONS
+What is a a way to the concert that avoids traffic?,GET_DIRECTIONS
+What is the quickest way to get to Baylor Hospital,GET_DIRECTIONS
+What is the fastest way to get to the hospital,GET_DIRECTIONS
+what route options do I have to avoid downtown construction and make it to football game on eastside by 4pm,GET_DIRECTIONS
+I need to be in San Diego on Saturday before 12pm what route can I take avoiding traffic,GET_DIRECTIONS
+Can you get me directions to my mom's house from Woodfield Mall?,GET_DIRECTIONS
+directions to the planet fitness closest to my job,GET_DIRECTIONS
+what is the fastest way home in current traffic,GET_DIRECTIONS
+How do I get to the subway station from Timesquare?,GET_DIRECTIONS
+Take me home please,GET_DIRECTIONS
+What's the fastest route to avoid traffic,GET_DIRECTIONS
+"What's the best route to Moreno Valley from here if I leave at 7 AM, without taking freeways?",GET_DIRECTIONS
+what is the way to get home,GET_DIRECTIONS
+What's the shortest route to center city right now,GET_DIRECTIONS
+Can I drive home without any wrecks,GET_DIRECTIONS
+What is the shortest route to get to Billings Montana to get there by midnight,GET_DIRECTIONS
+What is the fastest route to Tara's house if I leave right now?,GET_DIRECTIONS
+Is there a good way to get from here to Durham without taking 85?,GET_DIRECTIONS
+Is there a way to get from 3rd Ave & Main St Seattle to the Future concert without construction?,GET_DIRECTIONS
+which way will be the fastest to get home,GET_DIRECTIONS
+Can I take I94 to get to Lori Hanel's house?,GET_DIRECTIONS
+get me the directions to the aquarium with minimal delays,GET_DIRECTIONS
+I-15 always has traffic are there any alternative routes to my moms house?,GET_DIRECTIONS
+What is the shortest route to New Haven,GET_DIRECTIONS
+give me the directions to forest lake from cambrige that is the fastest,GET_DIRECTIONS
+what is the quickest way to get to Ralph's,GET_DIRECTIONS
+what is the fastest route to my 4 PM appointment,GET_DIRECTIONS
+How do I get to phoenix by 7 pm?,GET_DIRECTIONS
+quickest route home,GET_DIRECTIONS
+what is the best way to get from vegas to saint george if i want to avoid the flooding on the 515?,GET_DIRECTIONS
+Driving directions from my home to seattle,GET_DIRECTIONS
+Get me driving directions to H-E-B in Leander from the Dell Diamond in Round Rock,GET_DIRECTIONS
+Directions to the Civic Center in Norwood from Bahama Drive in Norwood,GET_DIRECTIONS
+I'd like to find a Best Western Hotel in about 3 hours.,GET_DIRECTIONS
+"I need directions to get to Newark, DE with the least traffic.",GET_DIRECTIONS
+Quickest route to CPR STAT from here,GET_DIRECTIONS
+How do I get to Chelan?,GET_DIRECTIONS
+where it the best rode to baly,GET_DIRECTIONS
+Can you give me directions to the mall from my office,GET_DIRECTIONS
+What is the fastest route for my way home,GET_DIRECTIONS
+which highway will get me home faster,GET_DIRECTIONS
+Show me the way to go to Tonight youth gathering in Cairo festival city mall.,GET_DIRECTIONS
+What direction is Grand Haven from Grand Rapids,GET_DIRECTIONS
+can I take I 95 to go to the heat's game tonight,GET_DIRECTIONS
+Directions without using the freeway,GET_DIRECTIONS
+can i avoid traffic on my drive,GET_DIRECTIONS
+Tell me what is the next route after merging onto highway i-695 toward Glen Bernie.,GET_DIRECTIONS
+What is most eco friendly route to Moms house,GET_DIRECTIONS
+Which is the fastest route to Norfolk from here,GET_DIRECTIONS
+Which route is the best way to go to Walgreen's from Mom's due to heavy traffic?,GET_DIRECTIONS
+"I need driving directions to Amelia Arena in Tampa, via the highway.",GET_DIRECTIONS
+What is my commute,GET_DIRECTIONS
+What's the route with the lightest traffic,GET_DIRECTIONS
+driving direction  home,GET_DIRECTIONS
+route to noida using bike at night,GET_DIRECTIONS
+How can I get to Los Angeles without going on freeways?,GET_DIRECTIONS
+What would be the best freeway to get me to Santa Cruz in the morning,GET_DIRECTIONS
+Is it possible to visit the university of Delaware from my house without using any toll roads on a weekend,GET_DIRECTIONS
+"What is the fastest route home from work, avoiding tolls and traffic",GET_DIRECTIONS
+I want to get to Regional Park in Cerritos without using Shoemaker Blvd.,GET_DIRECTIONS
+Get me directions from Justice on Main to my uncle Greg's house,GET_DIRECTIONS
+What's the fastest way home from work today,GET_DIRECTIONS
+What is the quickest way to NYC,GET_DIRECTIONS
+Here to Jacksonville while avoiding flooded roads.,GET_DIRECTIONS
+What is the best way to go to the concert tonight,GET_DIRECTIONS
+Best way to avoid traffic in Maitland,GET_DIRECTIONS
+Can you give me directions to get around this traffic,GET_DIRECTIONS
+Where is the closest movie theater that I can get to without taking a highway and how do I get there,GET_DIRECTIONS
+Plot my course on highway 11 from Cleveland to Perry Ohio.,GET_DIRECTIONS
+I need driving directions from my home to downtown city place,GET_DIRECTIONS
+Tell me directions from College Station to Corpus Christi that avoids toll roads,GET_DIRECTIONS
+get me directions to san Diego without using the freeway.,GET_DIRECTIONS
+Tell me the quickest route to the movie theater.,GET_DIRECTIONS
+"My flight leaves in 45 minutes, which road do I need to take to get there on time.",GET_DIRECTIONS
+Why road to take to get faster,GET_DIRECTIONS
+Can you give me the fastest route to get to Colorado Springs that avoid going through any construction zones?,GET_DIRECTIONS
+Can you give me a route to avoid traffic,GET_DIRECTIONS
+"Soccer practice ends at 12pm, what route home should I take to avoid the mid day traffic?",GET_DIRECTIONS
+What route should I take from New York to Florida to arrive in Florida by Friday morning?,GET_DIRECTIONS
+Pull up a route to office with arrival of 650am,GET_DIRECTIONS
+What is the quickest route to get to Valdosta from Atlanta,GET_DIRECTIONS
+show the way in light traffic,GET_DIRECTIONS
+What is the best route to broadway that avoids tolls,GET_DIRECTIONS
+How do I get to Mike's house in Rahway from the Edison train station?,GET_DIRECTIONS
+directions from mcallen to dallas,GET_DIRECTIONS
+"Give me directions from AT&T Stadium in Arlington to the old stadium site in Irving, fastest route",GET_DIRECTIONS
+What is the most direct route to take if I were going to leave at 7 PM to get to my sisters house,GET_DIRECTIONS
+What's the best way to get to Sam's club at 5pm?,GET_DIRECTIONS
+Which back roads can I take to avoid traffic,GET_DIRECTIONS
+how can i avoid road work going from seattle to tacoma,GET_DIRECTIONS
+"Tell me how to get downtown, if I leave from the airport and want to arrive by 6.",GET_DIRECTIONS
+what route has the least traffic,GET_DIRECTIONS
+Give me the best way to drive to Penn State's main campus avoiding taking the turnpike.,GET_DIRECTIONS
+Get me to Los Angeles City Hall by 3pm without passing through Wilshire Blvd.,GET_DIRECTIONS
+Quickest route to drive to downtown Syracuse if I have a meeting at 1:30pm,GET_DIRECTIONS
+is there a way to beat rush hour traffic at 5,GET_DIRECTIONS
+Which way is best to reach show nearly 6pm,GET_DIRECTIONS
+What route to Disney will have the least traffic delays,GET_DIRECTIONS
+please take the quickest route to the amusement park,GET_DIRECTIONS
+what the best route to go to Hussein's House if I start driving at 5 PM?,GET_DIRECTIONS
+Give me directions from my moms house to the concert and make sure Im there by noon,GET_DIRECTIONS
+Which route is the quickest way home,GET_DIRECTIONS
+What's the fastest route by car to Laurel?,GET_DIRECTIONS
+"If I leave in 15 minutes, what route home has the least amount of traffic?",GET_DIRECTIONS
+what route can i take to Salisbury Maryland to avoid flooded roads,GET_DIRECTIONS
+Directions to Vilano Beach from 1st street in downtown Jacksonville.,GET_DIRECTIONS
+What's the best way to get to School at rush hour?,GET_DIRECTIONS
+What's the best route to take to get to grandma's tonight?,GET_DIRECTIONS
+what is the safest bike route to discovery park,GET_DIRECTIONS
+Best route to Penfield not taking i90 from Syracuse,GET_DIRECTIONS
+Find me the best route to get to Harrisburg that avoids any tolls,GET_DIRECTIONS
+Directions to gas station near me,GET_DIRECTIONS
+Directions from Home to the Honolulu Zoo.,GET_DIRECTIONS
+Is there a beach I can reach from my brothers house in 45 minutes,GET_DIRECTIONS
+what is the best route to take to the beach from my sister's house tomorrow afternoon,GET_DIRECTIONS
+"How do I get to El Paso from my house using the fewest freeways as possible, no toll roads?",GET_DIRECTIONS
+Give me driving directions to the Closest grocery store to my house that has no construction.,GET_DIRECTIONS
+Find the fastest way to get to the auto shop near Costco from Guitar class.,GET_DIRECTIONS
+I need to get to Target on 4th street with the shortest route.,GET_DIRECTIONS
+Is there a way to get to the hospital without construction?,GET_DIRECTIONS
+IS THERE A WAY TO GET TO LOS ANGELES AIRPORT USING BACK ROADS WITH NO DELAYS,GET_DIRECTIONS
+Search the quickest route to Ewa Beach from Millilani via Kunia Road,GET_DIRECTIONS
+Best route to avoid traffic between Albuquerque and Santa Fe,GET_DIRECTIONS
+Instruction on how to get to the Golden Gate Bridge while driving through Lombard Street.,GET_DIRECTIONS
+get directions avoiding tolls,GET_DIRECTIONS
+Are there any suggested detours to  Daytona,GET_DIRECTIONS
+What is the fastest route to El Paso,GET_DIRECTIONS
+what is the quickest route to take,GET_DIRECTIONS
+can you find me the shortest route home,GET_DIRECTIONS
+Which is the fastest route to get to the Mall in Malibu if I leave now?,GET_DIRECTIONS
+how can i get from my house to santa monica by 10 pm tonight.,GET_DIRECTIONS
+what is the best route to avoid traffic to carls recital,GET_DIRECTIONS
+how can i avoid tolls and make it to the blackhawks game on time,GET_DIRECTIONS
+Is there a way to get from Kalibata street to the Korean food festival in University of Indonesa without traffic congestion?,GET_DIRECTIONS
+Get me driving directions with no construction to Lincoln Zoo,GET_DIRECTIONS
+Tell me the quickest route to get to Romeo leaving now and what is the best route,GET_DIRECTIONS
+How do I get to Sarah's house?,GET_DIRECTIONS
+Is there a way to the Monster Truck Rally tonight that will avoid I-86?,GET_DIRECTIONS
+What is the best way to get to the stadium from here,GET_DIRECTIONS
+Driving directions to the Orange Park Mall via the Buckman Bridge from Mandarin.,GET_DIRECTIONS
+How do I get to Portland,GET_DIRECTIONS
+what is the fastest way to get home from work to arrive home by 9pm,GET_DIRECTIONS
+What's the quickest route to the hospital today,GET_DIRECTIONS
+Is the freeway the fastest way to get to the polka festival this morning?,GET_DIRECTIONS
+whats the fastest route home,GET_DIRECTIONS
+"I'm leaving the house in 15 minutes, what is the best route to church?",GET_DIRECTIONS
+What is the best way to get to Steven's house by 9pm?,GET_DIRECTIONS
+"What is the fastest route to Jefferson City, Missouri?",GET_DIRECTIONS
+Whats the fastest route to my moms house,GET_DIRECTIONS
+what is the quickest way to the airport right now,GET_DIRECTIONS
+Take me to the Interstate.,GET_DIRECTIONS
+What is the best route to get to school,GET_DIRECTIONS
+Take me to the nearest super market and avoid highways,GET_DIRECTIONS
+center from my home,GET_DIRECTIONS
+Is there any way I can avoid traffic from the Yankees stadium,GET_DIRECTIONS
+directions to brady's house from work without freeways,GET_DIRECTIONS
+directions to disneyland witout any toll roads.,GET_DIRECTIONS
+give me the direction to the biggest mall in ocean breeze florida,GET_DIRECTIONS
+Avoid traffic driving to Jane's house,GET_DIRECTIONS
+what is the shortest route to the mall,GET_DIRECTIONS
+"Take me to school using the freeway, it's okay to go through the construction zones.",GET_DIRECTIONS
+directions from mcallen to cowboy stadium,GET_DIRECTIONS
+give me driving directions from comerica theater to harrah's casino in phoenix,GET_DIRECTIONS
+"What route to Raleigh, NC has no toll roads",GET_DIRECTIONS
+How do I get around the parade that is going down Smith Road?,GET_DIRECTIONS
+I am looking for the best route for my 5 o'clock doctor's appointment.,GET_DIRECTIONS
+Navigate home,GET_DIRECTIONS
+How can my mom come to my home without going on the highway,GET_DIRECTIONS
+Is there a bus route from Buford to Atlanta?,GET_DIRECTIONS
+Nearest mechanical workshop,GET_DIRECTIONS
+If I take route 36 can I avoid traffic,GET_DIRECTIONS
+Directions to avoid the construction on the Palisades Parkway.,GET_DIRECTIONS
+directions from mcallen to waco,GET_DIRECTIONS
+what is the quickest route from work to the airport now,GET_DIRECTIONS
+Whats the shortest route to get to the key bank centre,GET_DIRECTIONS
+"Which freeway do I take to get to Madison, WI?",GET_DIRECTIONS
+give me the shortest route to home without traffic,GET_DIRECTIONS
+Best way to get to Makalapa at 345pm from Red Hill,GET_DIRECTIONS
+is there a scenic route from kentucky to arkansas,GET_DIRECTIONS
+which road to take to avoid traffic,GET_DIRECTIONS
+Directions to my house.,GET_DIRECTIONS
+What's the least heavy traffic route home,GET_DIRECTIONS
+What's the best route for my drive,GET_DIRECTIONS
+I need a way with easy traffic,GET_DIRECTIONS
+what is the quickest route to get to my niece Kelsi's house from the beach in Ocean Springs,GET_DIRECTIONS
+Get me Directions to the Westwood Animal Clinic in Dothan from Abbeville.,GET_DIRECTIONS
+How are people driving right now headed towards Chandler,GET_DIRECTIONS
+If I leave my meeting at 11 A.M. what is the fastest route to get to my meeting at noon with Bob?,GET_DIRECTIONS
+I need the fastest route from my house to the San Jose gardens for the beer and brats festival?,GET_DIRECTIONS
+show short route to work.,GET_DIRECTIONS
+what's the best route without traffic,GET_DIRECTIONS
+Which is the quicker way to the Eat the Street Event if i leave at 3pm,GET_DIRECTIONS
+What's best route from Michigan to Florida,GET_DIRECTIONS
+What is the quickest route from Los Angeles to San Francisco,GET_DIRECTIONS
+directions to dad's house,GET_DIRECTIONS
+What is the best route to take to Laurelhurst Park from Sellwood in Portland?,GET_DIRECTIONS
+What is the quickest route to Pen Air Federal Credit Union avoiding Highway 59 at noon today?,GET_DIRECTIONS
+"I need directions to Minneapolis from my house, while taking a detour through Arkansas.",GET_DIRECTIONS
+How do I get to the Generation Beauty convention if I leave here at 7am,GET_DIRECTIONS
+"I need a route, without construction from the zoo to the school.",GET_DIRECTIONS
+I need walking directions to get me from Gurnee Mills to Great America.,GET_DIRECTIONS
+directions to Home Depot from my office,GET_DIRECTIONS
+How can I avoid this traffic,GET_DIRECTIONS
+What is the best way to get to Boston?,GET_DIRECTIONS
+What are directions to the Portland Art Museum from Sellwood in Portland?,GET_DIRECTIONS
+What is the best route to take if I have to get to my party by 9 pm in Santa Barbara?,GET_DIRECTIONS
+Give me a route to downtown Atlanta that will get me there before 6pm.,GET_DIRECTIONS
+Which road should I take to avoid traffic if I want to drive downtown at 5pm?,GET_DIRECTIONS
+What's the route to Virginia Beach with the least traffic,GET_DIRECTIONS
+What is the best way to get from the mall to my house?,GET_DIRECTIONS
+What is the shortest route with no tolls,GET_DIRECTIONS
+How do I get to Chickpea Road in Graceville?,GET_DIRECTIONS
+I'm going to the Bruins game tonight and need a route around all of the construction downtown.,GET_DIRECTIONS
+Using highways only tell me how to get to Topeka Kansas,GET_DIRECTIONS
+What's the best way to get from my house to Central Station in Denver right now,GET_DIRECTIONS
+Can you tell me the driving directions from home to the mall in Douglasville.,GET_DIRECTIONS
+Which is the quickest roads to travel to arrive at my son's school at dismissal at 1:45pm this afternoon?,GET_DIRECTIONS
+Need directions from my house to the Cleveland Clinic for my daughters appointment at 8 this morning,GET_DIRECTIONS
+What's the easiest way to get to the Urgent Care Center in Fletcher if I'm driving?,GET_DIRECTIONS
+I need instruction to Kim's electronic store in Koreatown bypassing traffic on Ventura Blvd.,GET_DIRECTIONS
+"A tree is down on Charles Bancroft highway and I'm late, what's the quickest route in Alvirne High School?",GET_DIRECTIONS
+What is my quickest route to a Walmart,GET_DIRECTIONS
+What is the best way to get to the Palladium from North Hollywood avoiding traffic?,GET_DIRECTIONS
+Which route would be the shortest to get to work,GET_DIRECTIONS
+What is the quickest route from Tennessee to Louisiana?,GET_DIRECTIONS
+Are there any shortcuts I can take to get from my job to Allison's house by 4 pm?,GET_DIRECTIONS
+We got a lot of rain over the weekend so please give a route from Cleveland to Wooster that has no high water,GET_DIRECTIONS
+Can get best route to my friend's place from home?,GET_DIRECTIONS
+West elementary school please,GET_DIRECTIONS
+What is the shortest way to Shop Rite in Plainfield from Target?,GET_DIRECTIONS
+give me a route home with no accidents,GET_DIRECTIONS
+GPS home,GET_DIRECTIONS
+What is the least used route from home to Seaworld,GET_DIRECTIONS
+What is the best route to take to get to work,GET_DIRECTIONS
+tonight at 5 what is the fastest route to get home,GET_DIRECTIONS
+What is my quickest route home,GET_DIRECTIONS
+will freeway be the best option to reach 9 to 5 The Musical concert if started in 15 minutes.,GET_DIRECTIONS
+Cab you give me directions to Norwood Hospital from Warren Street in Rockland?,GET_DIRECTIONS
+Driving directions to Universal Studios in Orlando from my house.,GET_DIRECTIONS
+Can i get to downtown Honolulu at 230pm via H1,GET_DIRECTIONS
+Is there a route from Houston to Austin with less traffic,GET_DIRECTIONS
+is there any fast route to my way home,GET_DIRECTIONS
+Please give me a route from my place to Ohio State University that has no road work,GET_DIRECTIONS
+how do i get to the airport from the mall by my house,GET_DIRECTIONS
+Show me the route with the lightest traffic on my way home from work,GET_DIRECTIONS
+Can you give me directions from here to the Renaissance Faire in Concord?,GET_DIRECTIONS
+"Need to be in Corona Del Mar by 10 AM, no toll roads",GET_DIRECTIONS
+Please find fastest route,GET_DIRECTIONS
+What is now the quickest route to the nearest hospital from here?,GET_DIRECTIONS
+I need a way around this traffic,GET_DIRECTIONS
+"Get directions to Disney World from Tallahassee, Florida, avoiding expressways.",GET_DIRECTIONS
+What is the quickest way to go from New York to Philadelphia,GET_DIRECTIONS
+Is taking the toll roads between Orlando airport and Disney World the only way to get there?,GET_DIRECTIONS
+get direction to space center on kentucky street,GET_DIRECTIONS
+Could you tell me the best way to drive from my house to Logan,GET_DIRECTIONS
+Whats the fastest way to get home,GET_DIRECTIONS
+"Can you tell me directions from home to the airport without traffic, arriving at 4pm",GET_DIRECTIONS
+Find the shortest distance route from Mimi's house to Tarrant County Courthouse with no construction,GET_DIRECTIONS
+Is there a train that will take me to Virginia from Philadelphia?,GET_DIRECTIONS
+Is there a way to avoid going near the Cardinals game to get to Charna's house?,GET_DIRECTIONS
+Is there a route from my house to Orlando that avoids all toll roads,GET_DIRECTIONS
+What's the fastest way to get to the Native American Arts Festival?,GET_DIRECTIONS
+Tell me the best route to get home after the Laker's game tomorrow night.,GET_DIRECTIONS
+Get me driving directions to Oracle Arena in Oakland.,GET_DIRECTIONS
+Pull up directions to the close show repair shop near me!,GET_DIRECTIONS
+ajmer to kashi through road,GET_DIRECTIONS
+which is the fastest bus route to get to the mall,GET_DIRECTIONS
+Directions to the closest parking lot to the Javitz center from my house,GET_DIRECTIONS
+How would I get from Children's hospital from the airport the quickest?,GET_DIRECTIONS
+What is the fastest route to the police station without construction?,GET_DIRECTIONS
+Send the directions if we take highway 61 from the lake to the airport.,GET_DIRECTIONS
+what's the shortest route with the least traffic,GET_DIRECTIONS
+how to get to the rocker fellow center from downtown new york,GET_DIRECTIONS
+Map a course home,GET_DIRECTIONS
+I need directions from the outlet mall in San Marcos to New Braunfels without construction,GET_DIRECTIONS
+"Directions to Flyers Skate Zone in Atlantic City from Somers Point, NJ.",GET_DIRECTIONS
+I need to find a way to get to the hospital without running into traffic,GET_DIRECTIONS
+Is there a way around the upcoming traffic jam,GET_DIRECTIONS
+Is there a bike route I can take to get to Metropolitan Beach from Chesterfield Michigan,GET_DIRECTIONS
+Get me home with the least tolls,GET_DIRECTIONS
+The quickest way to the grocery store,GET_DIRECTIONS
+"Directions to the orthodontist from Aiden's school, need to arrive at 3:30.",GET_DIRECTIONS
+"Directions the Detroit Zoo from my house, leaving at 8:30am.",GET_DIRECTIONS
+is there a scenic route from dallas to houston,GET_DIRECTIONS
+i need a route please,GET_DIRECTIONS
+Go to home,GET_DIRECTIONS
+"I need directions to the Ridley Museum in Buena Park from home, leaving at 5:30pm.",GET_DIRECTIONS
+What is the best route to drive from Banks to Gladstone?,GET_DIRECTIONS
+What's the fastest route to Santa Monica,GET_DIRECTIONS
+please avoid any car accidents on the highway,GET_DIRECTIONS
+What train can I take downtown,GET_DIRECTIONS
+How can I avoid construction on my way to Ann Arbor,GET_DIRECTIONS
+Directions to Nebraska tomorrow,GET_DIRECTIONS
+What is the best way to avoid traffic if I leave from my current location and go do Kathy's house in Portland on 25th st?,GET_DIRECTIONS
+what is the fastest route to go home,GET_DIRECTIONS
+What's the best way to get to PDX right now,GET_DIRECTIONS
+Fastest route to get to work,GET_DIRECTIONS
+What is the shortest route to work today,GET_DIRECTIONS
+whats the best detour route to avoid traffic,GET_DIRECTIONS
+How do I get from Kalahari Resort in OH to Cedar Point in OH?,GET_DIRECTIONS
+Plan a route from Chicago to Kansas City that does not include any major highways.,GET_DIRECTIONS
+best way to get to walmart at 7?,GET_DIRECTIONS
+What roads do I need to take to get to the Hugo's grocery store in Jamestown?,GET_DIRECTIONS
+Give me the information on how to make it to the zoo located in San Diego.,GET_DIRECTIONS
+what's the best route to scotts to make it there by 2pm,GET_DIRECTIONS
+what's the fastest way home,GET_DIRECTIONS
+What is the quickest route to Appleton,GET_DIRECTIONS
+"I want to go to Becky's house, what is the shortest route from here?",GET_DIRECTIONS
+is there another route that I can take to avoid the construction to make it from my house to the hospital this evening,GET_DIRECTIONS
+which route is fastest,GET_DIRECTIONS
+take me home with no toll roads,GET_DIRECTIONS
+"What is the route with the least amount of traffic from Baltimore to Washington, DC during the average PM rush hour",GET_DIRECTIONS
+Give me directions using only local streets from Home to Myron B. Thompson Academy.,GET_DIRECTIONS
+Give me directions from my current location to my hair salon.,GET_DIRECTIONS
+"Get me directions to Greg Coleman Law in Knoxviile, leaving my house at 1 pm without taking the freeway.",GET_DIRECTIONS
+"How do I drive to Dollywood from Louisville, KY?",GET_DIRECTIONS
+avoid construction areas,GET_DIRECTIONS
+Route from Neyland Stadium to Dollywood,GET_DIRECTIONS
+how can i avoid construction on I-110  to reach Zodiac Pisces happening in Mountain View tonight.,GET_DIRECTIONS
+What is the best way to get to Maple Valley,GET_DIRECTIONS
+What is the best route to avoid traffic going home,GET_DIRECTIONS
+best way to get to work avoiding traffic,GET_DIRECTIONS
+What is my fastest route to the post office,GET_DIRECTIONS
+Best route alternative to get to Mike's superbowl party in Hamden if I leave now.,GET_DIRECTIONS
+Which Cardinal direction is Wichita from Tulsa,GET_DIRECTIONS
+What route has the least traffic,GET_DIRECTIONS
+Take me back home with no tolls,GET_DIRECTIONS
+What is the toll free route from home to Seaworld,GET_DIRECTIONS
+What is the slowest route from home to Seaworld,GET_DIRECTIONS
+Find quickest route home,GET_DIRECTIONS
+Whats the driving directions to the Finish Line near downtown,GET_DIRECTIONS
+Can you give me the directions to Eric's Place on Hand Avenue across from North Baldwin Utilities.,GET_DIRECTIONS
+Doctor office for 3 pm appointment,GET_DIRECTIONS
+Show me how I can get from my house to my dads house with the least amount of traffic,GET_DIRECTIONS
+what is the fastest route to my mothers house,GET_DIRECTIONS
+Show me alternative routes to work,GET_DIRECTIONS
+Can you tell me the quickest route to get from work to the Coronado Mall by avoiding traffic,GET_DIRECTIONS
+What's the best way to arrive at Morumbi stadium without traffic?,GET_DIRECTIONS
+I need directions to my dad's new place where I don't have to take main highways,GET_DIRECTIONS
+Get me driving directions to the Contemporary in Orlando,GET_DIRECTIONS
+Fastest route downtown avoiding highways,GET_DIRECTIONS
+get me directions to my 8pm calendar appointment,GET_DIRECTIONS
+Give me a quick route from West Seattle to SeaTac airport,GET_DIRECTIONS
+Route me to work,GET_DIRECTIONS
+What is the fastest way to get to Boston from New York?,GET_DIRECTIONS
+Tell me the quickest routes I must take to find the Cashwise in Minneapolis.,GET_DIRECTIONS
+what exit should i take to go around the accident,GET_DIRECTIONS
+best route to Niagara falls that avoids tolls,GET_DIRECTIONS
+What is the best way to get home,GET_DIRECTIONS
+Will I be able to get to Theresa's house going 70 east?,GET_DIRECTIONS
+What is the fastest route home to avoid traffic,GET_DIRECTIONS
+"What's the best route to take, to make it to the Festival in time, in downtown Boise?",GET_DIRECTIONS
+Directions from home to work,GET_DIRECTIONS
+What is the best route to avoid traffic to Town Center today,GET_DIRECTIONS
+Give me the route home with the least traffic,GET_DIRECTIONS
+What is the fastest route from West Palm to Miami,GET_DIRECTIONS
+please give me directions to the city avoiding road construction,GET_DIRECTIONS
+Driving directions to the mall.,GET_DIRECTIONS
+What freeway will get me to the hospital quickly if I leave my house right now?,GET_DIRECTIONS
+Show me closest route to moms from my brothers house.,GET_DIRECTIONS
+which way is quickest home,GET_DIRECTIONS
+i need the quickest route to my meeting with bob avoiding the tolls on the highway,GET_DIRECTIONS
+i need to go back west. how do i get there from here,GET_DIRECTIONS
+SHORT DISTANCE FROM HERE TO LOS ANGELES,GET_DIRECTIONS
+What's the best way to avoid the parade tomorrow morning on my way to church?,GET_DIRECTIONS
+Get directions to Peachtree Street without taking the interstate.,GET_DIRECTIONS
+Which is the best route to take home nearby me,GET_DIRECTIONS
+Whats the driving directions to the Sephora bnear downtown,GET_DIRECTIONS
+What is the shortest route from Washington to Montana,GET_DIRECTIONS
+What road should I take to make it to Sarah's rehearsal dinner?,GET_DIRECTIONS
+which is the fastest route home tonight,GET_DIRECTIONS
+How do I avoid a school zone,GET_DIRECTIONS
+what is the best highway to take to get from New York to Chicago,GET_DIRECTIONS
+What's the fastest way home from here to avoid traffic jams,GET_DIRECTIONS
+What's the quickest route from St. Christopher's church to the Hilton in Center City?,GET_DIRECTIONS
+What is the fastest route from here to Memphis?,GET_DIRECTIONS
+What will be the quickest route to get to work,GET_DIRECTIONS
+Whats' the quickest way to the mall if i want to get there in 20 minutes?,GET_DIRECTIONS
+How to get to Valley Hospital on public transit?,GET_DIRECTIONS
+Find best route,GET_DIRECTIONS
+"If I leave at 4am, what is the best way to get to LAX, avoiding freeways?",GET_DIRECTIONS
+What street will take me straight to Central Park by 4 pm coming from Battery Park?,GET_DIRECTIONS
+Route to home,GET_DIRECTIONS
+Get me driving directions to Hyannis melody tent on Cape cod,GET_DIRECTIONS
+how can i get from salt lake to provo avoiding major obstructions?,GET_DIRECTIONS
+What's the best route to Hanna if I ride my bike?,GET_DIRECTIONS
+Tell me the route to Meredith's house that has the least amount of traffic,GET_DIRECTIONS
+What is the quickest way to Walmart,GET_DIRECTIONS
+What is the most scenic route to Burlington Vermont?,GET_DIRECTIONS
+Directions to work,GET_DIRECTIONS
+Which train should I take to get to Alexandria before midnight?,GET_DIRECTIONS
+"Auntie Mamie is expecting me by 5, what form of public transportation should I take to get there quick?",GET_DIRECTIONS
+I need directions from the hotel I am staying at to the Cival war game this weekend.,GET_DIRECTIONS
+What is the route with the least traffic congestion,GET_DIRECTIONS
+Give me driving directions to the closest Target Store that is open late on Sunday's.,GET_DIRECTIONS
+Please avoid all toll roads and construction sites,GET_DIRECTIONS
+what is the fastest way to go,GET_DIRECTIONS
+Please provide driving instructions to the hospital to arrive before 1pm.,GET_DIRECTIONS
+What's the fastest route between my location to home,GET_DIRECTIONS
+Detour to avoid traffic,GET_DIRECTIONS
+Directions to target please,GET_DIRECTIONS
+What route do i take to san francisco,GET_DIRECTIONS
+Which route can I take to avoid the roads that are closed for construction near my grandmother's place?,GET_DIRECTIONS
+Is there a way to get from my house to the mall and avoid construction delays,GET_DIRECTIONS
+what detour could i take to avoid the construction on the way to dads house,GET_DIRECTIONS
+What road to take to get to Ewa Beach faster during Friday rush hour,GET_DIRECTIONS
+What's the quickest route to Statue of Liberty,GET_DIRECTIONS
+Can I take Pacific Coast highway to Santa Monica Pier since the mudslide?,GET_DIRECTIONS
+What is the best way for me to get home the shortest distance,GET_DIRECTIONS
+How do I get from O'Hare to Kelly's house near Wrigley?,GET_DIRECTIONS
+"give me directions to the cloest atm, avoiding highways",GET_DIRECTIONS
+fastest route in order to avoid traffic,GET_DIRECTIONS
+"How do I take the long way to Canton, ms",GET_DIRECTIONS
+Can I get from here to Boise sometime this afternoon?,GET_DIRECTIONS
+Which route is the quickest to take to get to work this morning,GET_DIRECTIONS
+Take me to San Antonio Texas and no toll roads?,GET_DIRECTIONS
+"Driving directions to Eugene by 2, avoid freeways",GET_DIRECTIONS
+Can you find me a route to my doctor's office that avoids toll roads?,GET_DIRECTIONS
+Is there a way to get from 2nd Street & Spring Street Chicago to the Jazz festival without delays?,GET_DIRECTIONS
+Give me directions to the downtown festival without passing construction.,GET_DIRECTIONS
+Is there a route to drive from California to New York,GET_DIRECTIONS
+Get directions to downtown Baton Rouge without passing construction,GET_DIRECTIONS
+Route from Central to USS Kidd not using Florida Ave,GET_DIRECTIONS
+best detour to avoid traffic on the way to  the AT & T center from Joyce's house?,GET_DIRECTIONS
+Which is the best route to work,GET_DIRECTIONS
+Is there a way to get from the downtown library from my work without being on the highway?,GET_DIRECTIONS
+What is the best route to take to avoid traffic,GET_DIRECTIONS
+find a good route to the dentist please,GET_DIRECTIONS
+What's the most direct route to Wayne State University auditorium traveling south on Woodward,GET_DIRECTIONS
+what is the best subway route to take from Manhattan to the Bronx,GET_DIRECTIONS
+WHAT IS THE SHORTEST ROUTE TO MIAMI FLORIDA FROM MANHATTAN NEW YORK,GET_DIRECTIONS
+What is the fastest route home today,GET_DIRECTIONS
+I need directions to Asbury Park from my son's house in Colts Neck.,GET_DIRECTIONS
+What MUNI route is the fastest to get from my work to the West Portal movie theater for the premier of the Black Panther?,GET_DIRECTIONS
+What is the fastest route from my home to Allentown?,GET_DIRECTIONS
+Which route is the fastest at 5 PM on friday to get to Philadelphia,GET_DIRECTIONS
+Give me the fastest route to Santa Fe?,GET_DIRECTIONS
+what road should I take,GET_DIRECTIONS
+"Need to be at Corona Del Mar by 9 AM tomorrow, please provide route from home without toll roads.",GET_DIRECTIONS
+"I want to go to the concert and get there by 9pm, please provide the best route during peak traffic.",GET_DIRECTIONS
+What is the straightest route to Grandpas,GET_DIRECTIONS
+Can you give me directions to Roosevelt Park that is near the hospital from my work?,GET_DIRECTIONS
+WHAT IS THE BEST ROUTE TO TAKE TO GET TO THE NEW YORK YANKEES STADIUM BY 10 AM,GET_DIRECTIONS
+How can I get to the theater by 5,GET_DIRECTIONS
+whats the best way to avoid the traffic near the antique show this weekend leaving from my house to go to moms?,GET_DIRECTIONS
+Is there a bypass to go to Key West,GET_DIRECTIONS
+Westside Loan and Pawn in cranks Creek Alabama quickest way from my house at 2:30 today,GET_DIRECTIONS
+What's the quickest route to work,GET_DIRECTIONS
+Show me fastest way to home,GET_DIRECTIONS
+Can you give me driving directions to the airport avoiding highways,GET_DIRECTIONS
+what is the fastest way to get to my appointment at 5 if leaving from justins house,GET_DIRECTIONS
+What route should i take to get to my dr's appointment in Makalapa in 15 minutes,GET_DIRECTIONS
+Morning route,GET_DIRECTIONS
+Is there a way to get from here to Kernersville in an hour without taking Bryan Blvd?,GET_DIRECTIONS
+Reroute around this accident,GET_DIRECTIONS
+how do i get to i294 from here,GET_DIRECTIONS
+How do I get to the office without going on the interstate.,GET_DIRECTIONS
+show the easier routes to get home,GET_DIRECTIONS
+What's the best way to get to Manayunk for Restaurant week?,GET_DIRECTIONS
+Is there a scenic route to the beach?,GET_DIRECTIONS
+Give me directions to 12 Main Street in Centerville from here.,GET_DIRECTIONS
+Get directions to downtown Houma without passing construction,GET_DIRECTIONS
+Directions to get home,GET_DIRECTIONS
+Get me driving directions to downtown Dallas leaving at 2pm,GET_DIRECTIONS
+give direction to nearest best buy,GET_DIRECTIONS
+tell me the driving directions from my house to the utah shakespeare festival,GET_DIRECTIONS
+Is there a route to get to Vimal's house if I want to avoid the toll and freeway.,GET_DIRECTIONS
+Can I have directions to New York,GET_DIRECTIONS
+Show me how to avoid the Traffic on my Drive to the Minneapolis downtown,GET_DIRECTIONS
+get me driving directions to the airport in West Palm Beach,GET_DIRECTIONS
+Whats the best route to Florida to avoid big city traffic,GET_DIRECTIONS
+can i drive from miami to seattle,GET_DIRECTIONS
+Please find a route to The San Francisco Ferry Terminal that takes less than 15 minutes.,GET_DIRECTIONS
+I would like driving directions to the movie theater from my hotel and I want to arrive before 6pm.,GET_DIRECTIONS
+Find me the route with the least amount of traffic,GET_DIRECTIONS
+Which route is best for my drive home,GET_DIRECTIONS
+WHICH WAY TO MOM'S HOUSE IS FASTER AT 5 PM TODAY,GET_DIRECTIONS
+How can I avoid NYC traffic,GET_DIRECTIONS
+Take me to philly,GET_DIRECTIONS
+if i want to reach to sister's house by 4PM from tahrir street.,GET_DIRECTIONS
+Fastest route to college avoid traffic,GET_DIRECTIONS
+get me the driving directions to the air show in downtown Cleveland,GET_DIRECTIONS
+Is there any way I can make it to the mall before it closes?,GET_DIRECTIONS
+I need driving directions to the Magnolia Market in Waco from my aunt's house,GET_DIRECTIONS
+whats the best route to take home,GET_DIRECTIONS
+Tell me how I can get to the laundromat in uptown without taking any freeways.,GET_DIRECTIONS
+Can I take the MAX train to the zoo this evening?,GET_DIRECTIONS
+what's the driving directions to Pali Momi Medical center if I take Kamehameha,GET_DIRECTIONS
+what is the quickest route to the house from here,GET_DIRECTIONS
+From Jessica to Mary's house what is the shortest route I could take?,GET_DIRECTIONS
+Best route to take to get to my 2 pm meeting in Bolingbrook,GET_DIRECTIONS
+What is the shortest route around Olympia during work hours,GET_DIRECTIONS
+Give me the quickest way to get from Wellsboro to Plymouth.,GET_DIRECTIONS
+What is the fastest route to Laramie,GET_DIRECTIONS
+How can I get around this jam,GET_DIRECTIONS
+Give me the quickest route to work this morning,GET_DIRECTIONS
+give directions to home,GET_DIRECTIONS
+Show me the fastest route to the beach,GET_DIRECTIONS
+what is the fastest route to the city,GET_DIRECTIONS
+What's the shortest route home today,GET_DIRECTIONS
+Best route to take to get from Lily's As Seen on TV to Beehive at 12 pm.,GET_DIRECTIONS
+Get me to city lights bookstore as fast as possible.,GET_DIRECTIONS
+"What is the best route to Magic Springs,  Hot Springs, Arkansas",GET_DIRECTIONS
+how do i get to the bank on main street from my house avoiding the down power lines on maple street,GET_DIRECTIONS
+"I want to get to Infirmary Health Urgent Care, arrival time 10 AM.",GET_DIRECTIONS
+get me home using i95,GET_DIRECTIONS
+what are the detours to access love park in the afternoon by car?,GET_DIRECTIONS
+Is there any way I can make it to the local Walmart by 8:30 tonight if I avoid the road closure on 6 South?,GET_DIRECTIONS
+fastest route to the air port,GET_DIRECTIONS
+Are there any public transportation options to get to the Stanford mall for the unveiling of the new Samsung phone event?,GET_DIRECTIONS
+Show me options to get to Downtown without traffic jam,GET_DIRECTIONS
+What is the best route for a scenic trip leaving new Baltimore and ending in Port Huron,GET_DIRECTIONS
+Show me the easiest route with no traffic,GET_DIRECTIONS
+give me the best route to get from here to my office at about 5 pm,GET_DIRECTIONS
+What is the best route into D.C. to avoid the March for Life?,GET_DIRECTIONS
+Display fastest walking route to grocery store,GET_DIRECTIONS
+How can i get in 15 minutes to oak street,GET_DIRECTIONS
+directions from mcallen to san antonio,GET_DIRECTIONS
+Directions to the nearest Discount Tire,GET_DIRECTIONS
+Tell me the best route from the Victorville Gamestop to the Target in Bakersfield using the 5.,GET_DIRECTIONS
+Provide me with directions to the nearest Meijer store.,GET_DIRECTIONS
+Show me quickest way to work.,GET_DIRECTIONS
+What is the fastest route available,GET_DIRECTIONS
+What route from Norfolk State to Thomas Nelson has the least amount of traffic?,GET_DIRECTIONS
+Is there a faster way to get to Vickie's house besides taking A1A?,GET_DIRECTIONS
+What is the quickest route for me to get to Earle's place this evening,GET_DIRECTIONS
+Can you give me directions to Louis Liquors in New brunswick from my work?,GET_DIRECTIONS
+what is the scenic route to my destination,GET_DIRECTIONS
+How do I avoid traffic on my way home?,GET_DIRECTIONS
+Get me driving directions to the American Music Awards in New York City.,GET_DIRECTIONS
+Can i take a taxi to the Beyonce concert tonight without traffic?,GET_DIRECTIONS
+how can i get from my house to the utah shakespeare festival by 2?,GET_DIRECTIONS
+Which way is the safest to travel to my destination,GET_DIRECTIONS
+Get my driving directions to the concert from Des Moines,GET_DIRECTIONS
+Find route to public parking near Bass Hall in Ft Worth for 6pm arrival,GET_DIRECTIONS
+What is the best route to take to u.s. Bank Stadium with the least amount of traffic,GET_DIRECTIONS
+What is the quickest way there,GET_DIRECTIONS
+Give me a route from home to work with the least amount of traffic,GET_DIRECTIONS
+Is there a way to get from 1st Ave & Main St Portland to the Pearl District Street Festival without construction?,GET_DIRECTIONS
+tell me how to get home from here,GET_DIRECTIONS
+Is there any routes that will get my to Glass Fest that avoid construction?,GET_DIRECTIONS
+How do I get to the Bugatti dealership?,GET_DIRECTIONS
+Get the directions to the Bel Air Mall with the less traffic.,GET_DIRECTIONS
+Tell me how to get to the Hilton hotel closest to the Superdome in New Orleans,GET_DIRECTIONS
+Can I get from here to Downtown Dallas using a detour?,GET_DIRECTIONS
+Get directions to Destiny that comes through the village of Liverpool and has no construction.,GET_DIRECTIONS
+i need to get to the bank by 4 pm what is the fastest route without going on the highway,GET_DIRECTIONS
+What is the best route home from here,GET_DIRECTIONS
+Is there a way to go to my daughter's concert without passing any construction?,GET_DIRECTIONS
+Get directions to downtown Miami movie theater.,GET_DIRECTIONS
+Can we get to North Park by 9th Street by bike?,GET_DIRECTIONS
+What is the fastest route from Detroit to Ann Arbor,GET_DIRECTIONS
+find me the way to Las vegas avoiding any construction zones.,GET_DIRECTIONS
+"Get me from Seattle to Jessica's house to my home, all within 2 hours.",GET_DIRECTIONS
+Send instructions for arriving at the train station avoid routes with construction please.,GET_DIRECTIONS
+Show me the quickest route to work,GET_DIRECTIONS
+Which route should i take from my house to avoid delays on my way to cleveland,GET_DIRECTIONS
+Directions to Blue Origin in Kent,GET_DIRECTIONS
+"I want to arrive at Stanford University by 3pm, what is the fastest route?",GET_DIRECTIONS
+"What is the best route without roadwork to the Veteran's Hospital in Mobile, AL, if I am leaving at 8:00AM?",GET_DIRECTIONS
+What is the best route to take to Ocean City MD avoiding construction,GET_DIRECTIONS
+What is the quickest route form akron to cleveland,GET_DIRECTIONS
+"What is the shortest route home from Camelback Lodge in the Poconos, leaving at 11am?",GET_DIRECTIONS
+Can I get directions to the drive in theater in Lakeland,GET_DIRECTIONS
+Show me a route from the Baltimore to Ferris processing in Detroit,GET_DIRECTIONS
+which road goes to the highway.,GET_DIRECTIONS
+Give me directions to Guitar Center.,GET_DIRECTIONS
+Directions to the University of Michigan.,GET_DIRECTIONS
+Get directions to Central Grocery in the French quarter in New Orleans from Paige's house in Opelousas.,GET_DIRECTIONS
+which is the best route to take to get to Kakaako for the Eat the street event tonight,GET_DIRECTIONS
+Please give me a route to work with the least amount of traffic,GET_DIRECTIONS
+what is the quickest route to work,GET_DIRECTIONS
+How do I get to the Volkswagon car show from Andrew's work using the freeway.,GET_DIRECTIONS
+Find route with least amount of traffic,GET_DIRECTIONS
+Can you tell me directions to the Wal Mart on 103rd Street.,GET_DIRECTIONS
+How can I drive to Beth's house without driving on a highway?,GET_DIRECTIONS
+Directions to the Fort in Hull from The Nantasket Hotel,GET_DIRECTIONS
+what's the fastest route,GET_DIRECTIONS
+I need to get to Johnny's birthday party by 7 p.m. tonight,GET_DIRECTIONS
+"Headed downtown, whats the safest route coming from Mia's house",GET_DIRECTIONS
+what is the quickest and fastest way to get to my interview that I have today before 5pm?,GET_DIRECTIONS
+Can I take back roads to miss some traffic,GET_DIRECTIONS
+how to get to publix,GET_DIRECTIONS
+What is the quickest way for me to get home,GET_DIRECTIONS
+Give me a route to St. Jude Medical Center.,GET_DIRECTIONS
+what is the best route to Oneonta,GET_DIRECTIONS
+Find route with no traffic on my way to work,GET_DIRECTIONS
+give me the fastest route to work,GET_DIRECTIONS
+Can you get me directions to Louisa's apartment from work avoiding the freeways?,GET_DIRECTIONS
+Plot driving I84 to Hartford with least amount of traffic arriving by 1pm.,GET_DIRECTIONS
+get directions to michaels from anaheim,GET_DIRECTIONS
+get me driving directions to Kennedy Space Center in Houston,GET_DIRECTIONS
+directions from mcallen to port aransas,GET_DIRECTIONS
+Directions to the stadium from my moms house,GET_DIRECTIONS
+I need the quickest route to the College of William and Mary from the University of Richmond.,GET_DIRECTIONS
+what is the fastest way to get from my house to my office while bypassing any major delays?,GET_DIRECTIONS
+take me home the fastest way,GET_DIRECTIONS
+"I need a route to Disney World that takes me past David's house, so I can pick him up on the way.",GET_DIRECTIONS
+calculate a route to downtown LA that avoids traffic,GET_DIRECTIONS
+directions to zacks,GET_DIRECTIONS
+What is the fastest route to the grocery store,GET_DIRECTIONS
+What is a back road from I 680 to my work,GET_DIRECTIONS
+Take me to the nearest food shelter,GET_DIRECTIONS
+Is there an alternate route to I 95 that  goes from New York to Florida,GET_DIRECTIONS
+Directions to school,GET_DIRECTIONS
+Get me to the football game fast,GET_DIRECTIONS
+what is the best route to walk to the sxsw main stage,GET_DIRECTIONS
+Can you get me directions to the Katy Perry concert from Ankeny,GET_DIRECTIONS
+Could I have the directions from Panama City Fl to Atlanta,GET_DIRECTIONS
+"What is the quickest route to get the Montauk, LI",GET_DIRECTIONS
+Which route has the lightest traffic,GET_DIRECTIONS
+tell me the fastest way to get home,GET_DIRECTIONS
+THERE IS TRAFFIC ON HWY 101 SO IS THERE AN EXIT I CAN TAKE THAT WILL GET ME TO MY SPA APPOINTMENT  ON TIME BY 11 AM,GET_DIRECTIONS
+What route should I take to get to school today,GET_DIRECTIONS
+what is the quickest way to work this morning,GET_DIRECTIONS
+What route doesn't have traffic,GET_DIRECTIONS
+Give me directions to the Imperial Theater in NYC leaving at 4pm,GET_DIRECTIONS
+Can you give me directions from Rocky Top Medical Center to the nearest dinner show on the Parkway in Pigeon Forge?,GET_DIRECTIONS
+Get me driving directions to the jazz festival in wadsworth,GET_DIRECTIONS
+What are the routes to Pigeon Pass Road in Moreno Valley from Thomas' house?,GET_DIRECTIONS
+"Get me directions to Barter Faire from Seattle, taking the scenic route.",GET_DIRECTIONS
+Is there a train to ride downtown?,GET_DIRECTIONS
+What is the best way to get to Shepherdsville without running into traffic,GET_DIRECTIONS
+What's the best traffic route going to DisneyWorld,GET_DIRECTIONS
+"If I leave home now, tell me the fastest way to drive to Savannah.",GET_DIRECTIONS
+how can I get to town safely on back roads,GET_DIRECTIONS
+What is the simplest way to get from Las Vegas to San Diego without going through Los Angeles?,GET_DIRECTIONS
+What is the fastest route to my house,GET_DIRECTIONS
+whats the fastest way to the stadium,GET_DIRECTIONS
+Can you tell me the directions to Catas from RBA?,GET_DIRECTIONS
+How can I get from the park in OBT to the Rodeo event on time,GET_DIRECTIONS
+Shortest route to Des Moines,GET_DIRECTIONS
+get me directions to downbeach from mainland bridge at 4;46pm today,GET_DIRECTIONS
+Avoid heavy traffic routes please,GET_DIRECTIONS
+What is the route is the best from home to Seaworld,GET_DIRECTIONS
+What round should I take to get to ONU by 4:30?,GET_DIRECTIONS
+Quickest route to gas station,GET_DIRECTIONS
+Get me driving directions to the candlelight walk in medina,GET_DIRECTIONS
+How can I get to Manhattan by 7 and avoid construction,GET_DIRECTIONS
+"I need to avoid down power lines and construction, how do I get home from my current location?",GET_DIRECTIONS
+What is the best route to San Diego without toll roads if I leave at 5 in the morning?,GET_DIRECTIONS
+What routes can I take to get to the Civil Right's Museum in Memphis?,GET_DIRECTIONS
+directions to kate's school from the grocery store,GET_DIRECTIONS
+Best route to avoid congestion,GET_DIRECTIONS
+Avoid construction on my way to work,GET_DIRECTIONS
+get me to the Ingles on Bill Garder Parkway,GET_DIRECTIONS
+Whats the fastest way to get to San Francisco with traffic at 4pm,GET_DIRECTIONS
+Should I use the Toll way to avoid a traffic,GET_DIRECTIONS
+directions to kankakee from oswego,GET_DIRECTIONS
+Which way should I go to Kevin's if I want to stop at the grocery store on the way?,GET_DIRECTIONS
+What's the best way to get to Kensington Gardens?,GET_DIRECTIONS
+Please show fastest route to the office,GET_DIRECTIONS
+IS THERE AN EXIT I CAN TAKE FROM HWY 101 THAT WILL TAKE ME DIRECTLY TO MALIBU BY 5 PM,GET_DIRECTIONS
+What is the best route to my office?,GET_DIRECTIONS
+Is there a way to get around the construction on St. Rd 49 so I can get to my sister's house by 1 pm?,GET_DIRECTIONS
+Best route to get to the family picnic at Big 10 Waterpark tomorrow?,GET_DIRECTIONS
+Any route without heavy traffic alert from  Joseph's house to the airport,GET_DIRECTIONS
+Best route to avoid traffic,GET_DIRECTIONS
+What are the best routes to eastern Long Island,GET_DIRECTIONS
+How can i avoid the accident that's on my way to school,GET_DIRECTIONS
+Whats the driving directions to the Fallas near downtown,GET_DIRECTIONS
+What is the quickest way to get to Tampa,GET_DIRECTIONS
+Take me to King county,GET_DIRECTIONS
+Get directions to downtown Austin without passing construction,GET_DIRECTIONS
+Which way to take to get to Ala MOana quicker at this time,GET_DIRECTIONS
+Can you tell me how to get to Sesame Street from Elm Street,GET_DIRECTIONS
+Directions to Georgia from Atlanta,GET_DIRECTIONS
+Get me the fastest way from home to Dan's house without taking the freeway and avoiding toll.,GET_DIRECTIONS
+How do I get from here to the car dealership on Commercial where I bought my car?,GET_DIRECTIONS
+What is the fastest route to get to Merrick Brickell Place,GET_DIRECTIONS
+What is the fastest route to Seaside using state highways,GET_DIRECTIONS
+Get me to downtown tampa now,GET_DIRECTIONS
+get me driving directions to BB&T center in Sunrise,GET_DIRECTIONS
+get me to the nearest walmart,GET_DIRECTIONS
+Get me driving directions to the Mac & Cheese Festival in San Francisco.,GET_DIRECTIONS
+what's the quickest route,GET_DIRECTIONS
+"What is the fastest route to Seattle, Washington from my home?",GET_DIRECTIONS
+Avoid freeways on the way to school,GET_DIRECTIONS
+What is the quickest route for me to get home,GET_DIRECTIONS
+To the saloon,GET_DIRECTIONS
+please avoid all toll roads this morning,GET_DIRECTIONS
+Can you tell me the quickest way to get to Ulta Beauty if I leave in 30 minutes?,GET_DIRECTIONS
+Get directions to the zoo without hitting road constructions so that I get there by 11 AM.,GET_DIRECTIONS
+How do I get to the Grizzlies game at the Fedex forum?,GET_DIRECTIONS
+Can you help me figure out how to get to Sarahs in Atlantic City by dinner time,GET_DIRECTIONS
+Give me the shortest distance route from my house to Kens job,GET_DIRECTIONS
+Take me from Cleveland Georgia to Knoxville Tennessee avoiding Maggie Valley,GET_DIRECTIONS
+Take me to a school an hour away,GET_DIRECTIONS
+How do I bypass the 10 mile Road congestion at 94,GET_DIRECTIONS
+Is there any way to avoid the construction on 440 and get from here to Hillsborough?,GET_DIRECTIONS
+What's the shortest route to the hospital in Lake Nona,GET_DIRECTIONS
+What is the fastest route from here to NY,GET_DIRECTIONS
+Fastest bus to Krogers,GET_DIRECTIONS
+"what is the best route to Tampa, FL from here avoiding toll roads",GET_DIRECTIONS
+Get me driving directions to any Hispanic festival on main street from home?,GET_DIRECTIONS
+What is the best route to work this morning to avoid traffic,GET_DIRECTIONS
+Can I get to the soccer game at 100 puffnstuf street without going into heavy traffic?,GET_DIRECTIONS
+What are the best directions to get to Salon Dare for my 9 am appointment on Saturday?,GET_DIRECTIONS
+"Give me directions that avoid road debris from my apartment to Bike World, Inc.",GET_DIRECTIONS
+What are a few alternate routes from Houston to Austin,GET_DIRECTIONS
+How do I get to the dog park and avoid the Memorial Day parade at Market Common?,GET_DIRECTIONS
+I need driving directions from my house to the Beau Rivage Casino in Biloxi using I-10,GET_DIRECTIONS
+Can I get to Tanja's house on highway 15?,GET_DIRECTIONS
+Directions to moms.,GET_DIRECTIONS
+Are there any bus routes between my home and my job?,GET_DIRECTIONS
+What is the fastest route from Edison nj to Orlando FL,GET_DIRECTIONS
+Tell me the direction to get to my doctors appointment if I take the free ways,GET_DIRECTIONS
+leaving at 3 pm from work what is the quickest route avoiding construction to my daughters school,GET_DIRECTIONS
+Give me the two fastest routes from my house to Corner Market Grocery,GET_DIRECTIONS
+What is the fastest route to Partridge Creek Mall,GET_DIRECTIONS
+How do I get to Christ Church from here,GET_DIRECTIONS
+How to get to work fastest leaving my home now?,GET_DIRECTIONS
+Go home.,GET_DIRECTIONS
+Route me to Angie's house in Naples Florida,GET_DIRECTIONS
+Should I take an alternate route home,GET_DIRECTIONS
+can i take homer st to get to reid st,GET_DIRECTIONS
+Can I get to the farmer's market avoiding construction by taking I-90,GET_DIRECTIONS
+"Directions to Sunrise Nursing Home in Mount Vernon, NY.",GET_DIRECTIONS
+I need help getting to Unisys today at 3pm,GET_DIRECTIONS
+what's the fastest route home,GET_DIRECTIONS
+Directions to my densist,GET_DIRECTIONS
+Take me to the nearest recreational center,GET_DIRECTIONS
+What's the alternate route to the hickey game in tacoma,GET_DIRECTIONS
+What is the fastest route on the freeway to get to LAX?,GET_DIRECTIONS
+"If I leave now, what route is fastest to the science center",GET_DIRECTIONS
+how can i avoid the traffic in the morning time,GET_DIRECTIONS
+Show me the shortest route to John's house from here.,GET_DIRECTIONS
+What is the fastest way to get to Spring hill,GET_DIRECTIONS
+show me best route to reach seattle game by 5pm,GET_DIRECTIONS
+what is the fastest way to get home,GET_DIRECTIONS
+get me driving directions from eastern Michigan university to the nearest mall.,GET_DIRECTIONS
+What streets should I avoid to get to my meeting in Brea,GET_DIRECTIONS
+shortest route to reach Sandyss college if i kleave at noon and avoid main traffic prone zones,GET_DIRECTIONS
+give me the fastest route to the grocery store leaving at 8 am,GET_DIRECTIONS
+What is the shortest route to work in the next hour,GET_DIRECTIONS
+how do i get home,GET_DIRECTIONS
+Can I get to the art festival in Chattanooga this morning without detours?,GET_DIRECTIONS
+direction to girlfriends hotel,GET_DIRECTIONS
+How do I get to Wrigley Field from State and Washington in Chicago?,GET_DIRECTIONS
+How do I get to EDC this weekend from mom's house,GET_DIRECTIONS
+Where is the best place to drive to get to the airport to avoid traffic,GET_DIRECTIONS
+I need to get to Joyce's house before 9am help me get there on time please,GET_DIRECTIONS
+I have to pick up my computer and Micro Center and Madison Heights what's the least congested route to get there from Mt. Clemens,GET_DIRECTIONS
+What is the best way for me to get home,GET_DIRECTIONS
+Let's find a fast route to moms from dads right now,GET_DIRECTIONS
+"avaoiding downed power lines, get me driving directions to prawns supermarket from the barbers shop",GET_DIRECTIONS
+Best route to work to avoid heavy traffic,GET_DIRECTIONS
+take me to the highway,GET_DIRECTIONS
+What is the best way to get to the farmers market on wednesday evenings?,GET_DIRECTIONS
+WHAT IS THE ROUTE TO TAKE TO AVOID TRAFFIC,GET_DIRECTIONS
+Can you tell me how to get to Chaco Canyon in New Mexico by taking the freeway,GET_DIRECTIONS
+What's the fastest way to get home tonight,GET_DIRECTIONS
+what is the clearest road on the way to work,GET_DIRECTIONS
+What is the best way to get to the art festival by bicycle tonight?,GET_DIRECTIONS
+Tell me how to get home,GET_DIRECTIONS
+What route can I take with no traffic,GET_DIRECTIONS
+Take me to Chinatown in Los Angeles without using Olympic Blvd and passing through a Korean market.,GET_DIRECTIONS
+drive me to my sister house,GET_DIRECTIONS
+What route has the least stop and go,GET_DIRECTIONS
+What route what I take if I wanted to get from Tallahassee Florida to sea world without taking any tollroads,GET_DIRECTIONS
+Does the bus go to the train station in Seattle?,GET_DIRECTIONS
+What street should I take to get on time to the Lion Kings musical event at the park,GET_DIRECTIONS
+Is there a way around the accident,GET_DIRECTIONS
+What's the best way to get to 6 flags tomorrow morning,GET_DIRECTIONS
+Whats the driving directions to the Deals near downtown,GET_DIRECTIONS
+what would be the best route to nashville tuesday at 9 am,GET_DIRECTIONS
+"Get me home, quick",GET_DIRECTIONS
+Look up directions to nearest public parking near S Beritania Street,GET_DIRECTIONS
+what is the best way to go to the company's party tonight,GET_DIRECTIONS
+Whats the fastest way to get from Charlotte to Atlanta today,GET_DIRECTIONS
+Directions to PNC Arts Center,GET_DIRECTIONS
+Tell me what I should do to arrive at mom's by 3 pm,GET_DIRECTIONS
+Directions to home with a stop at my credit union on the way,GET_DIRECTIONS
+Directions to the mall,GET_DIRECTIONS
+Tell me how to reach the Scheels near the Main Street in Bellevue.,GET_DIRECTIONS
+"how reach damnaggar through sh44 road ,",GET_DIRECTIONS
+directions to the nearest hospital that is less then 10 minutes away avoiding all traffic and construction,GET_DIRECTIONS
+What is my commute to work today,GET_DIRECTIONS
+What is the best route to drive home with the traffic,GET_DIRECTIONS
+Is there any bus route to Publix from my location,GET_DIRECTIONS
+Which route has the lightest traffic from Portland to Seattle,GET_DIRECTIONS
+Can I get to Bellevue by 11:00 with the current traffic conditions?,GET_DIRECTIONS
+Can you tell me the directions to get from Canton to Cambridge that is easy to follow,GET_DIRECTIONS
+Bypass traffic on 10th street from my location,GET_DIRECTIONS
+Please give me directions to the concert and avoid all construction,GET_DIRECTIONS
+Give me the fastest route,GET_DIRECTIONS
+driving directions from the Florida Mall to the Millennial Mall with no tolls,GET_DIRECTIONS
+Get me directions to the Florida Theater in downtown Jacksonville from Saint Augustine Beach.,GET_DIRECTIONS
+what route should I take to work to avoid traffic,GET_DIRECTIONS
+Best route to avoid traffic going to the Camden aquarium,GET_DIRECTIONS
+what is the fastest route to columbia on friday afternoon taking into consideration rush hour,GET_DIRECTIONS
+What is the fastest route to Volcano Bay,GET_DIRECTIONS
+What is the best way for me to get to the AT&T center?,GET_DIRECTIONS
+Whats the fastest route to my sister's house?,GET_DIRECTIONS
+What is the fastest route to the Philadelphia Zoo,GET_DIRECTIONS
+what is the best way to go to progressive field,GET_DIRECTIONS
+What's my fastest route to the arena,GET_DIRECTIONS
+"If I leave my house at 11 am, what are the best driving directions to get to the Capitol in Washington?",GET_DIRECTIONS
+What's the quickest route home,GET_DIRECTIONS
+please avoid all detours this morning,GET_DIRECTIONS
+What route will how the least traffic delays at this time to reach Waterford Lakes Town Center from my house,GET_DIRECTIONS
+Shortest route from Putnam to Westchester,GET_DIRECTIONS
+Can you give me directions to Walt Disney World avoiding toll roads.,GET_DIRECTIONS
+Can you tell me how to get to the baseball game at 4pm?,GET_DIRECTIONS
+What is the shortest route to Austin,GET_DIRECTIONS
+What is the quickest route home with the least amount of traffic,GET_DIRECTIONS
+What detours will get me to the Rose Garden before 5?,GET_DIRECTIONS
+How to get to Mt Rainier,GET_DIRECTIONS
+Route drive to work with least traffic,GET_DIRECTIONS

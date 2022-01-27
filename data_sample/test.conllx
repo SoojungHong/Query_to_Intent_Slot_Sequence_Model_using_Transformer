@@ -1,0 +1,170 @@
+1	best	good	ADJ	JJS	_	2	quality	_	_
+2	place	place	NOUN	NN	_	0	ROOT	_	_
+3	to	to	PART	TO	_	4	-	_	_
+4	go	go	VERB	VB	_	5	-	_	_
+5	bowling	bowling	NOUN	NN	_	2	feature	_	_
+
+1	what	what	PRON	WP	_	0	ROOT	_	_
+2	should	should	VERB	MD	_	1	-	_	_
+3	i	i	PRON	PRP	_	2	-	_	_
+4	not	not	ADV	RB	_	5	negation	_	_
+5	miss	miss	VERB	VB	_	3	-	_	_
+6	in	in	ADP	IN	_	5	-	_	_
+7	Amsterdam	Amsterdam	PROPN	NNP	_	1	containment	_	_
+8	this	this	DET	DT	_	9	-	_	_
+9	weekend	weekend	NOUN	NN	_	1	timing	_	_
+10	?	?	PUNCT	.	_	1	-	_	_
+
+1	art	art	NOUN	NN	_	2	modification	_	_
+2	fair	fair	ADJ	JJ	_	0	ROOT	_	_
+3	near	near	ADP	IN	_	2	-	_	_
+4	Mumbai	Mumbai	PROPN	NNP	_	2	proximity	_	_
+
+1	Burger	Burger	PROPN	NNP	_	2	compound	_	_
+2	King	King	PROPN	NNP	_	0	ROOT	_	_
+3	at	at	ADP	IN	_	2	-	_	_
+4	Times	Times	PROPN	NNP	_	2	compound	_	_
+5	Square	Square	PROPN	NNP	_	2	proximity	_	_
+
+1	Irish	irish	ADJ	JJ	_	2	modification	_	_
+2	pubs	pub	NOUN	NNS	_	0	ROOT	_	_
+3	on	on	ADP	IN	_	2	-	_	_
+4	the	the	DET	DT	_	6	-	_	_
+5	same	same	ADJ	JJ	_	6	modification	_	_
+6	street	street	NOUN	NN	_	2	proximity	_	_
+7	as	as	ADP	IN	_	6	-	_	_
+8	Target	Target	PROPN	NNP	_	6	feature	_	_
+
+1	best	good	ADJ	JJS	_	2	quality	_	_
+2	places	place	NOUN	NNS	_	0	ROOT	_	_
+3	for	for	ADP	IN	_	2	-	_	_
+4	brunch	brunch	NOUN	NN	_	2	cuisine	_	_
+5	in	in	ADP	IN	_	6	-	_	_
+6	Everett	Everett	PROPN	NNP	_	2	containment	_	_
+7	on	on	ADP	IN	_	8	-	_	_
+8	sunday	sunday	PROPN	NNP	_	2	timing	_	_
+
+1	find	find	VERB	VB	_	2	-	_	_
+2	museum	museum	NOUN	NN	_	0	ROOT	_	_
+3	with	with	ADP	IN	_	2	-	_	_
+4	the	the	DET	DT	_	3	-	_	_
+5	largest	large	ADJ	JJS	_	6	modification	_	_
+6	collections	collection	NOUN	NNS	_	2	feature	_	_
+7	of	of	ADP	IN	_	6	-	_	_
+8	baroque	baroque	ADJ	JJ	_	9	modification	_	_
+9	paintings	painting	NOUN	NNS	_	6	feature	_	_
+
+1	Madame	Madame	PROPN	NNP	_	1	compound	_	_
+2	Tussaud	Tussaud	PROPN	NNP	_	0	ROOT	_	_
+3	's	's	PART	POS	_	2	compound	_	_
+
+1	gas	gas	NOUN	NN	_	2	compound	_	_
+2	stations	station	NOUN	NNS	_	0	ROOT	_	_
+3	along	along	ADP	IN	_	4	-	_	_
+4	I-5	I-5	PROPN	NNP	_	2	proximity	_	_
+5	between	between	ADP	IN	_	6	-	_	_
+6	here	here	ADV	RB	_	4	origin	_	_
+7	and	and	CCONJ	CC	_	8	-	_	_
+8	Portland	Portland	PROPN	NNP	_	4	destination	_	_
+
+1	snacks	snack	NOUN	NNS	_	0	ROOT	_	_
+2	near	near	ADP	IN	_	1	-	_	_
+3	Seattle	Seattle	PROPN	NNP	_	4	modification	_	_
+4	waterfront	waterfront	NOUN	NN	_	1	proximity	_	_
+
+1	pharmacy	pharmacy	NOUN	NN	_	0	ROOT	_	_
+2	open	open	ADJ	JJ	_	1	availability	_	_
+3	now	now	ADV	RB	_	2	timing	_	_
+4	near	near	ADP	IN	_	5	-	_	_
+5	me	-PRON-	PRON	PRP	_	1	proximity	_	_
+
+1	high	high	ADJ	JJ	_	3	compound	_	_
+2	-	-	PUNCT	HYPH	_	3	compound	_	_
+3	end	end	NOUN	NN	_	4	modification	_	_
+4	shopping	shopping	NOUN	NN	_	0	ROOT	_	_
+5	in	in	ADP	IN	_	4	-	_	_
+6	Amsterdam	Amsterdam	PROPN	NNP	_	4	containment	_	_
+
+1	breakfast	breakfast	NOUN	NN	_	2	cuisine	_	_
+2	cafes	cafe	NOUN	NNS	_	0	ROOT	_	_
+3	with	with	ADP	IN	_	2	-	_	_
+4	water	water	NOUN	NN	_	5	modification	_	_
+5	view	view	NOUN	NN	_	2	feature	_	_
+6	along	along	ADP	IN	_	5	-	_	_
+7	Vancouver	Vancouver	PROPN	NNP	_	8	modification	_	_
+8	waterfront	waterfront	NOUN	NN	_	2	proximity	_	_
+
+1	Which	which	DET	WDT	_	2	-	_	_
+2	steakhouse	steakhouse	NOUN	NN	_	0	ROOT	_	_
+3	in	in	ADP	IN	_	4	-	_	_
+4	San	San	PROPN	NNP	_	5	compound	_	_
+5	Francisco	Francisco	PROPN	NNP	_	2	containment	_	_
+6	is	be	VERB	VBZ	_	7	-	_	_
+7	the	the	DET	DT	_	8	-	_	_
+8	best	good	ADJ	JJS	_	9	compound	_	_
+9	one	one	NUM	CD	_	2	quality	_	_
+10	?	?	PUNCT	.	_	2	-	_	_
+
+1	five	five	NUM	CD	_	2	compound	_	_
+2	guys	guy	NOUN	NNS	_	0	ROOT	_	_
+3	in	in	ADP	IN	_	4	-	_	_
+4	central	central	ADJ	JJ	_	5	modification	_	_
+5	Chicago	Chicago	PROPN	NNP	_	2	containment	_	_
+
+1	family	family	NOUN	NN	_	2	modification	_	_
+2	friendly	friendly	ADJ	JJ	_	3	feature	_	_
+3	restaurant	restaurant	NOUN	NN	_	0	ROOT	_	_
+
+1	metered	metered	ADJ	JJ	_	2	feature	_	_
+2	parking	parking	NOUN	NN	_	0	ROOT	_	_
+3	on	on	ADP	IN	_	2	-	_	_
+4	Columbia	Columbia	PROPN	NNP	_	5	modification	_	_
+5	street	street	NOUN	NN	_	2	proximity	_	_
+6	in	in	ADP	IN	_	5	-	_	_
+7	Seattle	Seattle	PROPN	NNP	_	2	containment	_	_
+
+1	what	what	PRON	WP	_	0	ROOT	_	_
+2	is	be	VERB	VBZ	_	1	-	_	_
+3	visible	visible	ADJ	JJ	_	1	feature	_	_
+4	from	from	ADP	IN	_	3	-	_	_
+5	my	-PRON-	DET	PRP$	_	6	modification	_	_
+6	location	location	NOUN	NN	_	1	proximity	_	_
+
+1	seafood	seafood	NOUN	NN	_	2	cuisine	_	_
+2	restaurants	restaurant	NOUN	NNS	_	0	ROOT	_	_
+3	with	with	ADP	IN	_	2	-	_	_
+4	best	good	ADJ	JJS	_	6	quality	_	_
+5	water	water	NOUN	NN	_	6	modification	_	_
+6	view	view	NOUN	NN	_	2	feature	_	_
+7	in	in	ADP	IN	_	6	-	_	_
+8	Miami	Miami	PROPN	NNP	_	2	containment	_	_
+
+1	is	be	VERB	VBZ	_	2	-	_	_
+2	there	there	ADV	EX	_	3	-	_	_
+3	heavy	heavy	ADJ	JJ	_	4	-	_	_
+4	traffic	traffic	NOUN	NN	_	0	ROOT	_	_
+5	in	in	ADP	IN	_	4	-	_	_
+6	Eindhoven	Eindhoven	PROPN	NNP	_	4	containment	_	_
+7	near	near	ADP	IN	_	8	-	_	_
+8	Phillips	Phillips	PROPN	NNP	_	9	compound	_	_
+9	Stadium	Stadium	PROPN	NNP	_	4	proximity	_	_
+10	?	?	PUNCT	.	_	4	-	_	_
+
+1	gas	gas	NOUN	NN	_	2	compound	_	_
+2	stations	station	NOUN	NNS	_	0	ROOT	_	_
+3	along	along	ADP	IN	_	2	-	_	_
+4	the	the	DET	DT	_	5	-	_	_
+5	way	way	NOUN	NN	_	2	proximity	_	_
+6	from	from	ADP	IN	_	5	-	_	_
+7	Seattle	Seattle	PROPN	NNP	_	5	origin	_	_
+8	to	to	ADP	IN	_	5	-	_	_
+9	Tacoma	Tacoma	PROPN	NNP	_	5	destination	_	_
+
+1	directions	direction	NOUN	NNS	_	0	ROOT	_	_
+2	from	from	ADP	IN	_	1	-	_	_
+3	downtown	downtown	NOUN	NN	_	4	modification	_	_
+4	Chicago	Chicago	PROPN	NNP	_	1	origin	_	_
+5	to	to	ADP	IN	_	1	-	_	_
+6	O'Hare	O'Hare	PROPN	NNP	_	7	modification	_	_
+7	airport	airport	NOUN	NN	_	1	destination	_	_
+

@@ -1,0 +1,169 @@
+1	Ivar	Ivar	PROPN	NNP	_	0	ROOT	_	_
+2	's	's	PART	POS	_	1	compound	_	_
+3	near	near	ADJ	JJ	_	1	-	_	_
+4	Seattle	Seattle	PROPN	NNP	_	5	modification	_	_
+5	waterfront	waterfront	NOUN	NN	_	1	proximity	_	_
+
+1	Family	family	NOUN	NN	_	2	modification	_	_
+2	parks	park	NOUN	NNS	_	0	ROOT	_	_
+3	in	in	ADP	IN	_	2	-	_	_
+4	Delhi	Delhi	PROPN	NNP	_	2	containment	_	_
+
+1	Banana	Banana	PROPN	NNP	_	1	compound	_	_
+2	Republic	Republic	PROPN	NNP	_	0	ROOT	_	_
+3	in	in	ADP	IN	_	2	-	_	_
+4	downtown	downtown	NOUN	NN	_	5	modification	_	_
+5	Phoenix	Phoenix	PROPN	NNP	_	2	containment	_	_
+
+1	family	family	NOUN	NN	_	2	compound	_	_
+2	-	-	PUNCT	HYPH	_	3	compound	_	_
+3	friendly	friendly	ADJ	JJ	_	4	feature	_	_
+4	restaurant	restaurant	NOUN	NN	_	0	ROOT	_	_
+
+1	romantic	romantic	ADJ	JJ	_	2	feature	_	_
+2	restaurant	restaurant	NOUN	NN	_	0	ROOT	_	_
+
+1	good	good	ADJ	JJ	_	6	quality	_	_
+2	non	non	ADJ	JJ	_	4	negation	_	_
+3	-	-	ADJ	JJ	_	2	-	_	_
+4	Starbucks	starbucks	ADJ	JJ	_	6	feature	_	_
+5	coffee	coffee	NOUN	NN	_	6	compound	_	_
+6	shops	shop	NOUN	NNS	_	0	ROOT	_	_
+7	near	near	ADP	IN	_	6	-	_	_
+8	me	-PRON-	PRON	PRP	_	6	proximity	_	_
+
+1	do	do	VERB	VBP	_	2	-	_	_
+2	i	i	PRON	PRP	_	3	-	_	_
+3	have	have	VERB	VB	_	4	-	_	_
+4	any	any	DET	DT	_	5	-	_	_
+5	traffic	traffic	NOUN	NN	_	0	ROOT	_	_
+6	in	in	ADP	IN	_	8	-	_	_
+7	my	-PRON-	DET	PRP$	_	8	modification	_	_
+8	way	way	NOUN	NN	_	5	proximity	_	_
+9	of	of	ADP	IN	_	8	-	_	_
+10	getting	get	VERB	VBG	_	9	-	_	_
+11	home	home	ADV	RB	_	8	destination	_	_
+12	?	?	PUNCT	.	_	5	-	_	_
+
+1	best	good	ADJ	JJS	_	2	quality	_	_
+2	neighborhood	neighborhood	NOUN	NN	_	0	ROOT	_	_
+3	for	for	ADP	IN	_	2	-	_	_
+4	window	window	NOUN	NN	_	5	modification	_	_
+5	shopping	shopping	NOUN	NN	_	2	feature	_	_
+
+1	London	London	PROPN	NNP	_	2	containment	_	_
+2	hotels	hotel	NOUN	NNS	_	0	ROOT	_	_
+3	with	with	ADP	IN	_	2	-	_	_
+4	a	a	DET	DT	_	5	-	_	_
+5	bar	bar	NOUN	NN	_	6	compound	_	_
+6	scene	scene	NOUN	NN	_	2	feature	_	_
+
+1	123	123	NUM	CD	_	2	compound	_	_
+2	Main	Main	PROPN	NNP	_	3	compound	_	_
+3	St	St	PROPN	NNP	_	0	ROOT	_	_
+4	,	,	PUNCT	,	_	3	-	_	_
+5	Boston	Boston	PROPN	NNP	_	3	containment	_	_
+6	,	,	PUNCT	,	_	5	-	_	_
+7	MA	MA	PROPN	NNP	_	5	containment	_	_
+8	12345	12345	NUM	CD	_	5	modification	_	_
+
+1	Starbucks	Starbucks	PROPN	NNP	_	0	ROOT	_	_
+2	next	next	ADV	RB	_	3	compound	_	_
+3	to	to	ADP	IN	_	4	-	_	_
+4	Madison	Madison	PROPN	NNP	_	5	compound	_	_
+5	Square	Square	PROPN	NNP	_	6	compound	_	_
+6	Garden	Garden	PROPN	NNP	_	1	proximity	_	_
+7	in	in	ADP	IN	_	1	-	_	_
+8	New	New	PROPN	NNP	_	9	compound	_	_
+9	York	York	PROPN	NNP	_	10	compound	_	_
+6	City	City	PROPN	NNP	_	1	containment	_	_
+
+1	find	find	VERB	VB	_	3	-	_	_
+2	Starbucks	Starbucks	PROPN	NNP	_	3	modification	_	_
+3	store	store	NOUN	NN	_	0	ROOT	_	_
+4	near	near	ADP	IN	_	3	-	_	_
+5	a	a	DET	DT	_	6	-	_	_
+6	bistro	bistro	NOUN	NN	_	3	proximity	_	_
+
+1	the	the	DET	DT	_	5	-	_	_
+2	nearest	near	ADJ	JJS	_	5	modification	_	_
+3	on	on	ADP	IN	_	4	compound	_	_
+4	-	-	PUNCT	HYPH	_	5	compound	_	_
+5	ramp	ramp	NOUN	NN	_	0	ROOT	_	_
+
+1	best	good	ADJ	JJS	_	2	quality	_	_
+2	soup	soup	NOUN	NN	_	0	ROOT	_	_
+3	in	in	ADP	IN	_	2	-	_	_
+4	Indianapolis	Indianapolis	PROPN	NNP	_	5	modification	_	_
+5	loop	loop	NOUN	NN	_	2	containment	_	_
+
+1	busiest	busy	ADJ	JJS	_	3	feature	_	_
+2	night	night	NOUN	NN	_	3	compound	_	_
+3	clubs	club	NOUN	NNS	_	0	ROOT	_	_
+4	on	on	ADP	IN	_	3	-	_	_
+5	weeknights	weeknight	NOUN	NNS	_	3	modification	_	_
+
+1	streets	street	NOUN	NNS	_	0	ROOT	_	_
+2	with	with	ADP	IN	_	1	-	_	_
+3	high	high	ADJ	JJ	_	4	compound	_	_
+4	-	-	PUNCT	HYPH	_	5	compound	_	_
+5	end	end	NOUN	NN	_	6	compound	_	_
+6	fashion	fashion	NOUN	NN	_	7	modification	_	_
+7	boutiques	boutique	NOUN	NNS	_	1	feature	_	_
+8	around	around	ADP	IN	_	7	-	_	_
+9	Damplats	Damplats	PROPN	NNP	_	1	proximity	_	_
+
+1	urgent	urgent	ADJ	JJ	_	2	compound	_	_
+2	care	care	NOUN	NN	_	3	feature	_	_
+3	clinic	clinic	NOUN	NN	_	0	ROOT	_	_
+
+1	List	list	NOUN	NN	_	5	-	_	_
+2	near	near	ADP	IN	_	3	-	_	_
+3	me	-PRON-	PRON	PRP	_	5	proximity	_	_
+4	vegetarian	vegetarian	ADJ	JJ	_	5	modification	_	_
+5	restaurants	restaurant	NOUN	NNS	_	0	ROOT	_	_
+6	that	that	DET	WDT	_	5	-	_	_
+7	specialize	specialize	VERB	VBP	_	5	-	_	_
+8	in	in	ADP	IN	_	7	-	_	_
+9	Quinoa	Quinoa	PROPN	NNP	_	5	feature	_	_
+
+1	What	what	PRON	WP	_	3	-	_	_
+2	breakfast	breakfast	NOUN	NN	_	3	modification	_	_
+3	locations	location	NOUN	NNS	_	0	ROOT	_	_
+4	within	within	ADP	IN	_	3	-	_	_
+5	5	5	NUM	CD	_	6	modification	_	_
+6	miles	mile	NOUN	NNS	_	8	modification	_	_
+7	of	of	ADP	IN	_	8	-	_	_
+8	me	-PRON-	PRON	PRP	_	3	proximity	_	_
+9	open	open	ADJ	JJ	_	3	availability	_	_
+10	at	at	ADP	IN	_	11	-	_	_
+11	6	6	NUM	CD	_	9	timing	_	_
+12	am	am	NOUN	NN	_	11	modification	_	_
+
+1	breakfast	breakfast	NOUN	NN	_	2	cuisine	_	_
+2	cafes	cafe	NOUN	NNS	_	0	ROOT	_	_
+3	along	along	ADP	IN	_	2	-	_	_
+4	Boston	Boston	PROPN	NNP	_	5	modification	_	_
+5	boardwalk	boardwalk	NOUN	NN	_	2	proximity	_	_
+6	with	with	ADP	IN	_	5	-	_	_
+7	water	water	NOUN	NN	_	8	modification	_	_
+8	view	view	NOUN	NN	_	2	feature	_	_
+
+1	best	good	ADJ	JJS	_	3	quality	_	_
+2	cocktail	cocktail	NOUN	NN	_	3	feature	_	_
+3	bars	bar	NOUN	NNS	_	0	ROOT	_	_
+4	within	within	ADP	IN	_	3	-	_	_
+5	20	20	NUM	CD	_	6	compound	_	_
+6	miles	mile	NOUN	NNS	_	8	modification	_	_
+7	of	of	ADP	IN	_	6	-	_	_
+8	me	-PRON-	PRON	PRP	_	3	proximity	_	_
+
+1	traditional	traditional	ADJ	JJ	_	2	feature	_	_
+2	cafes	cafe	NOUN	NNS	_	0	ROOT	_	_
+3	near	near	ADP	IN	_	2	-	_	_
+4	Louvre	Louvre	PROPN	NNP	_	2	proximity	_	_
+5	that	that	DET	WDT	_	2	-	_	_
+6	are	be	VERB	VBP	_	5	-	_	_
+7	open	open	ADJ	JJ	_	2	availability	_	_
+8	early	early	ADV	RB	_	7	modification	_	_
+
