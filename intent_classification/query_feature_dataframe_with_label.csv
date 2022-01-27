@@ -1,0 +1,146 @@
+,Query,Strong_Target,Strong_Compound_Target,Weak_Target,Weak_Compound_Target,Default_Target,Category
+0,Where can I have lunch along the rivers,-,-,lunch,-,-,PLACE
+1,Greenest neighborhoods in the city,neighborhoods,Greenest neighborhoods,-,-, neighborhoods,AREA
+2,Best deep-dish pizza places in downtown Chicago,-,-,-,-, pizza places,PLACE
+3,apple store next to zurich hb,store,apple store,-,-, apple store hb,PLACE
+4,movie theaters with reclining seats,theaters,movie theaters,-,-, movie theaters reclining seats,PLACE
+5,Route avoiding major streets and uncontrolled left turns,-,-,-,-, Route avoiding streets left turns,ROUTE
+6,Is this neighborhood safe,-,-,-,-, neighborhood,NONE
+7,is crime common in this area?,-,-,-,-, crime,NONE
+8,Quiet restaurants nearby me,restaurants,-,-,-, restaurants,PLACE
+9,Nearby stores that sell stuffed animals,stores,-,-,-, stores animals,PLACE
+10,Where does the parade start?,-,-,-,-,parade,EVENT
+11,Unusual or unique shops in the area,shops,-,-,-, shops,PLACE
+12,Hotels within a twenty minute walk of downtown Amsterdam,-,-,-,-, Hotels minute walk,PLACE
+13,Pedestrian route along only well-lit streets,route,-,-,-, route streets,ROUTE
+14,bicycle route only along streets with marked bike lanes,route,bicycle route,-,-, bicycle route streets bike lanes,ROUTE
+15,Local (non-chain) restaurants open now,-,-,-,-, restaurants,PLACE
+16,Coffeshops with nearby bike parking,Coffeshops,-,-,-, Coffeshops bike parking,PLACE
+17,Greenest neighborhoods in the city,neighborhoods,Greenest neighborhoods,-,-, neighborhoods,AREA
+18,"Is it faster to get to Wicker Park via bus, L, bike, or Uber?",-,-,-,-, Park L bike,NONE
+19,Neighborhoods with affordable rentals in Washington D.C.,Neighborhoods,-,-,-, Neighborhoods rentals,AREA
+20,Who's monument is this?,-,-,-,-, monument,NONE
+21,shortest path to go Bahnhof Enge by 12,path,-,-,-, path Enge,ROUTE
+22,"Restaurants which have good reviews, are open now and where I can park my car",-,-,car,-, Restaurants reviews,PLACE
+23,Restaurants near Theater 11,Restaurants,-,-,-, Restaurants 11,PLACE
+24,Cheapest parking near Hauptbahnhof,parking,-,-,-, parking,PLACE
+24,Cheapest parking near Hauptbahnhof,parking,-,-,-, parking,PLACE
+25,Restaurants I can get to by public transit within 30 minutes,Restaurants,-,-,-, Restaurants transit,PLACE
+26,coffee shop in Paris,shop,coffee shop,-,-, coffee shop,PLACE
+27,chinese restaurant in Paris,restaurant,-,-,-, restaurant,PLACE
+28,indian restaurant in Paris,restaurant,-,-,-, restaurant,PLACE
+29,closest coffee house opened when I get there,-,-,-,-, coffee house,PLACE
+30,NATO headquarter,-,-,-,-,,PLACE
+31,a street in front of white house,street,-,-,-, street house,AREA
+32,Best views of Mt. Rainier from downtown Seattle,views,-,-,-, views,PLACE
+33,coffe shops to work from,-,-,-,-, coffe shops,PLACE
+34,easy round-trip walking tour of downtown Boston,-,-,-,-, walking tour Boston,ROUTE
+35,parking garages with spots for women,garages,parking garages,-,-, parking garages,PLACE
+36,places for getting passport photos,places,-,-,-, places getting passport photos,PLACE
+37,best spots to catch a cab,spots,-,-,-, spots cab,PLACE
+38,neighborhood with a lot of bars and pubs in Berlin,neighborhood,-,-,-, neighborhood pubs,AREA
+39,Office buildings with a food court and a parking garage,buildings,Office buildings,-,-, Office buildings parking garage,AREA
+40,Find me an EV charging station close to a starbucks on my way home,-,-,-,-, charging station starbucks way home,PLACE
+41,Find me an EV charging station close to a starbucks along my route,-,-,-,-, charging station starbucks route,PLACE
+42,show me a nike store within a mall,-,-,-,-, store,PLACE
+43,Where can i find a nike and and adidas store close to each other,-,-,-,-,-,PLACE
+44,Where can i find a nike and and adidas store within a mall,-,-,-,-,-,PLACE
+45,Where can i find a nike and and adidas store along my route,-,-,-,-,-,PLACE
+46,Where can i find a nike and and adidas store in mitte,-,-,-,-,-,PLACE
+47,take me home with the most scenic route,-,-,-,-, home route,ROUTE
+48,where can i find a hotel with a good view in Berlin,-,-,hotel,-,-,PLACE
+49,Find me an italian restaurant on my way home,-,-,-,-, restaurant way home,PLACE
+50,"Where can i have lunch inside a park, along the river, near the beach",-,-,lunch,-,-,PLACE
+51,which neighborhood in Berlin is for pub crawling,-,-,-,-, neighborhood,AREA
+52,which neighborhood in Berlin is for partying,-,-,-,-, neighborhood partying,AREA
+53,which neighborhood in Berlin is for sightseeing,-,-,-,-, neighborhood sightseeing,AREA
+54,which neighborhood in Berlin is for shopping,-,-,-,-, neighborhood shopping,AREA
+55,what is at invalidenstrasse & chausseestrasse intersection?,-,-,-,-, chausseestrasse intersection,AREA
+56,best soup in chicago loop,soup,-,-,-, soup,PLACE
+57,Is there metered parking on madison street in Forest Park?,-,-,-,-, parking street,PLACE
+58,Ice skating rinks in North Side Chicago,rinks,-,-,-, Ice skating rinks Side Chicago,PLACE
+59,Indoor ice skating in South Side Chicago,ice,-,-,-, ice skating Side Chicago,PLACE
+60,Where are the best restaurants close to the highway on my route from Chicago to Ann Arbor?,-,-,-,-,restaurants,PLACE
+61,a cafe with many tables where I can sit for long and is not STARBUCKS,-,-,-,-, tables,PLACE
+62,most important historical sights in London,sights,-,-,-, sights,PLACE
+63,walking route connecting the main tourist sights in downtown Amsterdam,route,-,-,-, walking route connecting tourist sights,ROUTE
+64,Viewpoints along California State Route 1,Viewpoints,-,-,-, Viewpoints 1,PLACE
+65,Restaurants inside Bellevue Square,Restaurants,-,-,-, Restaurants,PLACE
+66,Best locations to see fireworks on Lake Union on July 4th,locations,-,-,-, locations fireworks 4th,PLACE
+67,pharmacy at zurich hb,pharmacy,-,-,-, pharmacy hb,PLACE
+68,apple products at zurich hb,products,apple products,-,-, apple products hb,PLACE
+69,apple iphone service center near Zurich HB,center,service center,-,-, apple iphone service center HB,PLACE
+70,restaurants near post wollishofen,restaurants,-,-,-, restaurants,PLACE
+71,cafe near morgental,cafe,-,-,-, cafe,PLACE
+72,cafe at morgental,cafe,-,-,-, cafe,PLACE
+73,school next to jugendherberge zurich,school,-,-,-, school zurich,PLACE
+74,hiking lake zurich,-,-,-,-, hiking lake zurich,PLACE
+75,Vegetarian restaurant where I can sit outside,restaurant,-,-,-,,PLACE
+76,cafe near Zurich HB,-,-,-,-, HB,PLACE
+77,dishware shops in Sales,shops,dishware shops,-,-, dishware shops,PLACE
+78,square blue or round yellow pillow,-,-,-,-, blue round yellow pillow,PLACE
+79,best place to go hiking in the bay area,place,-,-,-, place hiking,PLACE
+80,dog friendly beach nearby,beach,-,-,-, dog beach,PLACE
+81,Sunstar Davos,-,-,-,-, Sunstar,PLACE
+82,Live music venues in the north end of Seattle.,venues,music venues,-,-, music venues end,EVENT
+83,good non-starbucks coffee shops near me,-,-,-,-, non-starbucks coffee shops,PLACE
+84,Thai restaurants near me,restaurants,-,-,-, Thai restaurants,PLACE
+85,the nearest chevron gas station,station,gas station,-,-, chevron gas,PLACE
+86,Brandi Carlile concert in Seattle,concert,-,-,-, Brandi Carlile concert,EVENT
+87,Piccadilly line stations London,stations,line stations,-,-, line stations,PLACE
+88,urgent care clinic with the shortest wait time right now,clinic,care clinic,-,-, care clinic wait time,PLACE
+89,Where can I get something to eat around my hotel at 11pm,-,-,something,-,-,PLACE
+90,Where can I eat hot dogs 10 minutes by public transit around my location,-,-,dogs,-,-,PLACE
+91,Find me an EV charging station close to a Starbucks along on my home,-,-,-,-, charging station Starbucks home,PLACE
+92,Show me a store within a mall,-,-,-,-, store,PLACE
+93,Where can I find a Nike and Adidas store close to each other,-,-,store,-,-,PLACE
+94,Where can I find a Nike and Adidas store in Mitte,-,-,store,-,-,PLACE
+95,Where can I find a Nike and Adidas store along my route,-,-,store,-,-,PLACE
+96,Take me home with the most scenic route,-,-,-,-, home route,ROUTE
+97,Where can I find a hotel with a good view in Berlin,-,-,hotel,-,-,PLACE
+98,Where can I have lunch inside a park,-,-,lunch,-,-,PLACE
+99,Where can I have lunch along the river,-,-,lunch,-,-,PLACE
+100,Which neighborhood in Berlin is for pubcrawling,-,-,-,-, neighborhood pubcrawling,AREA
+101,what is at Invalidenstrasse,-,-,-,-,,NONE
+102,Best deep-dish pizza places in downtown Chicago,-,-,-,-, pizza places,PLACE
+103,are there any places on the way to eat when I search for a route from A to B?,-,-,-,-, places,PLACE
+104,Cheapest parking with free places near address,parking,-,-,-, parking places,PLACE
+105,What breakfast places are there on the way to work?,-,-,-,-, breakfast places,PLACE
+106,Nearby Chevron Gas stations,stations,Gas stations,-,-, Chevron Gas,PLACE
+107,What are the newest cocktail bars within 20 miles of me?,-,-,-,-, cocktail bars,PLACE
+108,good restaurant,restaurant,-,-,-,,PLACE
+109,closest lunch place under $12,place,lunch place,-,-, lunch place,PLACE
+110,quality hotel near train station,hotel,quality hotel,-,-, quality hotel,PLACE
+111,Kids activities,activities,Kids activities,-,-, Kids,EVENT
+112,new restaurants,restaurants,-,-,-,,PLACE
+113,where can I go golfing,-,-,-,-,-,EVENT
+114,What are the best cocktail bars within 20 miles of me?,-,-,-,-, cocktail bars,PLACE
+115,vegetarian restaurants near me,restaurants,-,-,-, restaurants,PLACE
+116,"show me pharmacies where can I hop off some station on bus line xy, walk there and still catch the next bus",-,-,bus,-, pharmacies,PLACE
+117,which restaurants are not very full at this moment?,-,-,-,-, restaurants,PLACE
+118,whether the pedestrian path has sections not accessible to strollers etc.?,-,-,-,-, path sections strollers,ROUTE
+119,Where is the entrance to the parking garage for the Seattle Convention Center?,-,-,-,-,entrance,PLACE
+120,Where can I get something to eat around my hotel at 11pm,-,-,something,-,-,PLACE
+121,Where can I eat hot dogs 10 minutes by public transit around my location,-,-,dogs,-,-,PLACE
+122,Find me an EV charging station close to a Starbucks along on my home,-,-,-,-, charging station Starbucks home,PLACE
+123,Show me a store within a mall,-,-,-,-, store,PLACE
+124,Where can I find a Nike and Adidas store close to each other,-,-,store,-,-,PLACE
+125,Where can I find a Nike and Adidas store in Mitte,-,-,store,-,-,PLACE
+126,Where can I find a Nike and Adidas store along my route,-,-,store,-,-,PLACE
+127,Take me home with the most scenic route,-,-,-,-, home route,ROUTE
+128,Where can I find a hotel with a good view in Berlin,-,-,hotel,-,-,PLACE
+129,Which neighborhood in Berlin is for pubcrawling,-,-,-,-, neighborhood pubcrawling,AREA
+130,what is at Invalidenstrasse,-,-,-,-,,NONE
+131,Best deep-dish pizza places in downtown Chicago,-,-,-,-, pizza places,PLACE
+132,Where can I have lunch inside a park,-,-,lunch,-,-,PLACE
+133,Where can I have lunch along the river,-,-,lunch,-,-,PLACE
+134,Berlin Mitte,-,-,-,-,Berlin,AREA
+135,"2045 W Grand Ave Ste B, Chicago, IL 60612-1577, US",-,-,-,-,"2045 W Grand Ave Ste B, Chicago, IL 60612-1577, US",ADDRESS
+136,"PO Box 803338, Chicago, IL 60680-3338, US",-,-,-,-,"PO Box 803338, Chicago, IL 60680-3338, US",ADDRESS
+137,"86 St. John’s Road, London, N45 9PX",-,-,-,-,"86 St. John’s Road, London, N45 9PX",ADDRESS
+138,"68 Park Avenue, London, WC74 1NM",-,-,-,-,"68 Park Avenue, London, WC74 1NM",ADDRESS
+139,"47.279430, 5.106450",-,-,-,-,"47.279430, 5.106450",GEOLOCATION
+140,"47.293228, 5.004570 ",-,-,-,-,"47.293228, 5.004570 ",GEOLOCATION
+141,"47.316669, 5.016670 ",-,-,-,-,"47.316669, 5.016670 ",GEOLOCATION
+142,Zurich Film Festival,-,-,-,-,Zurich Film,EVENT
+143,Street Parade,-,-,-,-,Street,EVENT
