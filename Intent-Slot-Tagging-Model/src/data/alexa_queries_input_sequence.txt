@@ -1,0 +1,24 @@
+where can i get something to eat around my hotel at 11 pm ?,something to eat,around my hotel,around,my hotel,at 11 pm,11 pm
+where can i eat hot dogs 10 minutes by public transit around my location,hot dogs,10 minutes,10 minutes by public transit around my location,public transit,around my location,location
+find me an ev charging station close to a starbucks along my route,ev charging station,close to,starbucks,along my route,route
+find me an ev charging station close to a starbucks on my way home,ev charging station,close to,starbucks,on my way home,way home
+show me a nike store within a mall,nike store,within a mall,mall
+where can i find a nike and and adidas store close to each other,nike,adidas,each other
+where can i find a nike and and adidas store within a mall,nike,adidas,within a mall,mall
+where can i find a nike and and adidas store along my route,nike,adidas,along my route,route
+where can i find a nike and and adidas store in mitte,store,in mitte,mitte
+i am walking what is around me,walking,around me
+i am cycling what is around me,cycling,around me
+i am driving what is around me,driving,around me
+i am riding a bus what is around me,riding a bus,around me
+take me home with the most scenic route,with the most scenic route,most scenic,route
+where can i find a hotel with a good view in berlin,hotel,with a good view in berlin,good view,in berlin,berlin
+find me an italian restaurant on my way home,italian restaurant,on my way home,way home
+where can i have lunch inside a park,lunch,inside a park,park
+where can i have lunch along the river,lunch,along the river,river
+where can i have lunch near the river,lunch,near the river,river
+which neighborhood in berlin is for pub crawling,neighborhood,in berlin,berlin,for pub crawling,pub
+which neighborhood in berlin is for partying,neighborhood,in berlin,berlin,for partying
+which neighborhood in berlin is for sightseeing,in berlin,berlin,neighborhood,for sightseeing,sightseeing
+which neighborhood in berlin is for shopping,in berlin,berlin,neighborhood,for shopping,shopping
+what is at invalidenstrasse chaussestrasse intersection ?,at invalidenstrasse chaussestrasse intersection,invalidenstrasse chaussestrasse intersection

@@ -1,0 +1,282 @@
+hiking trails in flat terrain,hiking,flat terrain,in flat terrain
+public parks with a lake or river inside,public parks,lake river,with a lake or river,inside
+green space along the water,green space,water,along the water
+residential neighborhoods overlooking downtown,residential neighborhoods,downtown
+camp sites in national parks,camp sites,national parks,in national parks
+rocky mountains ski resorts,rocky mountains,resorts
+public boat docks on seattle area lakes,public boat,seattle area lakes,on seattle area lakes
+islands in puget sound,islands,puget sound,in puget sound
+lakes in washington state that have islands,lakes,washington state,in washington state that have islands
+seafood restaurants along the seattle waterfront,seafood restaurants,seattle waterfront,along the seattle waterfront
+gas stations along my drive to yakima tomorrow,gas stations,drive,along my drive to yakima tomorrow,to yakima
+parking in downtown seattle away from the marathon route,parking,downtown,in downtown,away,marathon route,from the marathon route
+ballard farmersa market,ballard,farmersa market
+restaurants near the bellevue art fair,restaurants,bellevue art fair,near the bellevue art fair
+what food trucks are near me at lunchtime,food trucks,near me,lunchtime,at lunchtime
+residential neighborhoods with low average traffic speed,residential neighborhoods,low average traffic speed,with low average traffic speed
+park ride along a bus route to downtown seattle,park ride,bus route,downtown seattle,along a bus route to downtown seattle
+ferry driving directions to langley avoiding the ferry,directions,to langley
+where can i get something to eat near high street kensington station ?,something,high street kensington station
+which cta stations in lakeview chicago have bike sharing stations ?,cta stations,lakeview chicago,in lakeview chicago,bike stations
+where can i drop off my bike near the south entrance to central park ?,bike,south entrance,near the south entrance,central park
+hotels along the same street as the opera house,hotels,same street,opera house,as the opera house,along the same street as the opera house
+bars around the corner from my hotel,bars,corner,hotel,from my hotel,around the corner from my hotel
+bakeries across the street from me,bakeries,street,from me,across the street from me
+museums on the other side of the bridge from my office,museums,other side,bridge,office,from my office,of the bridge from my office,on the other side of the bridge from my office
+parking lots near a bridge,parking lots,bridge,near a bridge
+directions to everett without tunnels,directions,tunnels,without tunnels
+area of seattle with many playgrounds,area,seattle,of seattle,many playgrounds,with many playgrounds
+best neighborhoods for pub crawling,best,neighborhoods,pub,for pub crawling
+family friendly neighborhoods to visit,family friendly neighborhoods
+cafe in city parks,cafe,city parks,in city parks
+clinics within a minute drive from me,clinics,minute drive,from me,within a minute drive from me
+restaurants in walking distance of my hotel,restaurants,hotel,of my hotel,in walking distance of my hotel
+find an ev charging station close to a starbucks along my route on my way home,ev,station close,starbucks,route,way home,on my way home,along my route on my way home
+which dry cleaner will be open along my way home ?,dry cleaner,way home,along my way home,open
+mccormick schmick s near seattle waterfront,mccormick schmicks,seattle waterfront,near seattle waterfront
+great rooftop bars with views in seattle,great rooftop bars,views,seattle,in seattle,with views in seattle
+poi near seattle waterfront,poi,seattle waterfront,near seattle waterfront
+breakfast cafes with water view along seattle waterfront,breakfast cafes,water view,seattle waterfront,along seattle waterfront,with water view along seattle waterfront
+traditional cafes near the louvre that are open early,traditional cafes,louvre,near the louvre,open early
+seafood restaurants with best water view in seattle,seafood restaurants,best,water view,seattle,in seattle,with best water view in seattle
+pike place market,place market
+restaurants inside pike place market,restaurants,pike place market,inside pike place market
+where is the new star wars movie playing tonight ?,new star wars movie
+best ramen place,ramen place
+best restaurant which serves ramen,best,restaurant
+romantic restaurant,romantic,restaurant
+family friendly restaurant,family,friendly restaurant
+cheapest wheel drive in reykjavik,wheel drive,reykjavik,in reykjavik
+find apple store near a bistro,apple store,bistro,near a bistro
+is there an alternative route to work ?,alternative route
+nearby music events,music events,nearby
+restaurants near me with outdoor seating,restaurants,near me,outdoor seating
+where is the hotel near wall street in new york city ?,hotel,wall street,new york city,in new york city,near wall street in new york city
+empire state building in new york city,empire state building,new york city,in new york city
+embassy suites hotel near wall street in new york,embassy suites,hotel,wall street,new york,in new york,near wall street in new york
+w hotel in midtown manhattan,w hotel,midtown manhattan,in midtown manhattan
+gas stations along my way to boston,gas stations,way to boston,along my way to boston
+restaurants within a minute walk from pike street in seattle,restaurants,minute walk,within a minute walk,pike street,from pike street,seattle,in seattle
+irish pubs along the same street as mcdonalds,irish pubs,same street,mcdonalds,as mcdonalds,along the same street as mcdonalds
+best seafood restaurants in seattle,seafood restaurants,seattle,in seattle
+best sushi restaurants in seattle,sushi restaurants,seattle,in seattle
+urgent care clinic with short wait time near me,urgent care clinic,short wait time,near me,with short wait time near me
+best neighborhood in berlin for pub crawling,best,neighborhood,berlin,pub,for pub crawling,in berlin for pub crawling
+best neighborhood for pub crawling in berlin,best,neighborhood,pub crawling,for pub crawling,berlin,in berlin
+best deep dish pizza place in downtown chicago,dish pizza place,downtown,in downtown,chicago
+hot dogs minutes by public transit around my location,hot dogs,minutes,public transit,location,around my location,by public transit around my location
+ev charging stations close to a starbucks along my route,ev charging stations,starbucks,route,along my route
+nike store within a mall,nike store,mall,within a mall
+around me important for shopping,around me,shopping,for shopping
+important shopping around me,important shopping,around me
+important shopping areas around me,important shopping areas,around me
+shopping areas around me,shopping areas,around me
+take me home with the most scenic route,route,with the most scenic route
+hotel with a good view in berlin,hotel,good view,with a good view,berlin,in berlin
+an italian restaurant on my way home,italian restaurant,way home,on my way home
+lunch near the beach,lunch,beach,near the beach
+neighborhood in berlin for pub crawling,neighborhood,in berlin for pub crawling
+places at invalidenstrasse chausseestrasse intersection,places,invalidenstrasse chausseestrasse intersection,at invalidenstrasse chausseestrasse intersection
+good coffee shops near me,good coffee shops,near me
+bowling alleys in milwaukee,alleys,milwaukee,in milwaukee
+cheapest spicy korean food in florida,spicy korean food,florida,in florida
+best city view restaurants in new york,best,city view restaurants,new york,in new york
+show me the best rated sports bars in new jersey,best,sports bars,new jersey,in new jersey
+go back to thai restaurant with vegan menu,thai restaurant,vegan menu,with vegan menu
+clubs near the chicago airport,clubs,chicago airport,near the chicago airport
+good french cuisine restaurants at th avenue in new york,good french cuisine restaurants,avenue,new york,in new york,at th avenue in new york
+best kids playground in belgrade,best,kids playground,belgrade,in belgrade
+adequate gym with terrace outside new jersey,adequate gym,with terrace,new jersey,outside new jersey
+mexican food places with self service in miami,mexican food places,self service,miami,in miami,with self service in miami
+please tell me where i can find a nice latin food place nearby my current location,nice latin food place,nearby,current location
+nigth bars whit nice bathrooms,nigth bars,nice bathrooms
+best criminal law firms in new york,best,criminal law firms,new york,in new york
+non veg restaurants with lake views near the forest,non veg restaurants,lake views,forest,near the forest,with lake views near the forest
+restaurants serving hummus in copenhagen,restaurants,hummus,copenhagen,in copenhagen
+what are mcdonalds locations in north carolina,mcdonalds locations,north carolina,in north carolina
+pick the best choice for a seafood restaurant where they can provide macaroni with shrimps plates near my work,best choice,seafood restaurant,for a seafood restaurant
+please take me to the church near amstedam square,church,amstedam square,near amstedam square
+please find good briyani resturant in town,good briyani resturant,town,in town
+shopping mall with free parking,shopping mall,free parking
+nightclub with music from salga near helm street,nightclub,with music,salga,from salga,helm street,near helm street
+take me to a restaurant where they serve the best pasta in the country,restaurant,best,pasta
+take me to the nearest walmart,nearest,walmart
+a vietnamese restaurant that has vegan options in new york,vietnamese restaurant,vegan,new york
+nearest hour pharmacies,hour pharmacies
+is there a good amusement park where to entertain me in florida ?,good amusement park,florida
+could you find some caffe with a view to the square ?,caffe,view,square,with a view to the square
+get directions back to the chinese restaurant near the subway station,back to chinese restaurant,subway station,near the subway station
+show me all pizza places near me which accept dinners credit card,pizza places,near me
+hotels with childcare in florida,hotels,with childcare,florida,in florida
+take me to the airport today afternoon,airport,today afternoon
+place with the highest quality hamburguers,place,highest,quality hamburguers,with the highest quality hamburguers
+beautiful restaurant in the mountains with delicious meals,beautiful restaurant,mountains,with delicious meals,in the mountains with delicious meals
+where is the closest exit from the highway ?,closest,exit,highway,from the highway
+entertainment center for children in the center of moscow,entertainment center,children,center,moscow,of moscow,in the center of moscow,for children in the center of moscow
+japanese restaurants with private parking in new jersey,japanese restaurants,private parking,new jersey,in new jersey,with private parking in new jersey
+get me to stars korean restaurant,stars,korean restaurant
+i need a decent bookstore in downtown,decent bookstore,downtown,in downtown
+where can i take a flight to miami from my location ?,flight,miami,location,from my location
+five star restaurants in the east of the city,five star,restaurants,city,in the east of the city
+italian food close to a train station,italian food,close,train station
+five stars hotel with heated swimming pool,stars,hotel,heated swimming pool
+places to dine with live music in cleveland,places,live music,cleveland,in cleveland
+show me only restaurants with parking services,restaurants,parking services
+i want a jewelry store near a chinese food restaurant,jewelry store,chinese food restaurant,near a chinese food restaurant
+hotels with private beaches near the city,hotels,private beaches,city,near the city,with private beaches near the city
+tallest building in new york,building,new york,in new york
+i need a hairdresser with free parking within a radius of m,hairdresser,free parking
+quiet restaurants nearby me,quiet restaurants,nearby
+nearby stores that sell stuffed animals,nearby,stores
+where does the parade start ?,parade
+unusual or unique shops in the area,unusual unique shops,area,in the area
+hotels within a twenty minute walk of downtown amsterdam,hotels,minute walk,downtown amsterdam,of downtown amsterdam,within a twenty minute walk of downtown amsterdam
+pedestrian route along only well lit streets,pedestrian route,streets
+bicycle route only along streets with marked bike lanes,bicycle route,streets,only along streets,marked bike lanes,with marked bike lanes
+local non chain restaurants open now,local non chain,restaurants
+coffeshops with nearby bike parking,coffeshops,nearby bike parking
+greenest neighborhoods in the city,neighborhoods,city,in the city
+neighborhoods with affordable rentals in washington dc .,neighborhoods,affordable rentals,washington dc,in washington dc
+route avoiding major streets and uncontrolled left turns,major streets
+shortest path to go bahnhof enge by tram,shortest,path,bahnhof enge,by tram
+restaurants which have good reviews are open now and where i can park my car,restaurants,good reviews,car
+restaurants near theater,restaurants,theater,near theater
+cheapest parking near hauptbahnhof,parking,hauptbahnhof,near hauptbahnhof
+restaurants i can get to by public transit within minutes,restaurants,by public transit,within minutes
+coffee shop in paris,coffee shop,paris,in paris
+chinese restaurant in paris,chinese restaurant,paris,in paris
+indian restaurant in paris,indian restaurant,paris,in paris
+closest coffee house opened when i get there,closest,coffee house
+nato headquarter,nato
+a street in front of white house,street,in front,white house,of white house
+best views of mountains,best views,mountains
+coffe shops to work from,coffe shops
+easy round trip walking tour of downtown boston,easy,round trip tour,downtown boston,of downtown boston
+parking garages with spots for women,parking garages,spots,for women
+movie theaters with reclining seats,movie theaters,with reclining seats
+places for getting passport photos,places,for getting passport photos
+best spots to catch a cab,best,spots
+neighborhood with a lot of bars and pubs in berlin,neighborhood,bars and pubs,with a lot of bars and pubs,berlin,in berlin
+office buildings with a food court and a parking garage,office buildings,food court,with a food court and a parking garage
+find me an ev charging station close to a starbucks along my route on my way home,ev station,starbucks,route,way home,on my way home,along my route on my way home
+show me a nike store within a mall,nike store,mall,within a mall
+where can i find a nike and and adidas store close to each other within a mall along my route in mitte,nike,adidas,other,mall,route,along my route,within a mall along my route,mitte,in mitte
+take me home with the most scenic route,route,with the most scenic route
+where can i find a hotel with a good view in berlin,hotel,good view,berlin,in berlin,with a good view in berlin
+find me an italian restaurant on my way home,italian restaurant,way home,on my way home
+where can i have lunch inside a park along the river near the beach,lunch,park,river,beach,near the beach,along the river near the beach,inside a park along the river near the beach
+which neighborhood in berlin is for pub crawling,neighborhood,berlin,in berlin,pub,for pub crawling
+which neighborhood in berlin is for partying,neighborhood,berlin,in berlin,for partying
+which neighborhood in berlin is for sightseeing,neighborhood,berlin,in berlin,sightseeing,for sightseeing
+which neighborhood in berlin is for shopping,neighborhood,berlin,in berlin,shopping,for shopping
+what is at invalidenstrasse chausseestrasse and intersection ?,invalidenstrasse and chausseestrasse intersection,at invalidenstrasse and chausseestrasse intersection
+best soup in chicago loop,best,soup,chicago loop,in chicago loop
+ice skating rinks in north side chicago,ice skating rinks,north side,in north side,chicago
+indoor ice skating in south side chicago,indoor ice skating,south side,in south side,chicago
+where are the best restaurants close to the highway on my route from chicago to ann arbor ?,best,restaurants,highway,route,chicago,from chicago,on my route from chicago
+a cafe with many tables where i can sit for long and is not starbucks,cafe,many tables,starbucks
+walking route connecting the main tourist sights in downtown amsterdam,route,main tourist sights,downtown amsterdam,in downtown amsterdam
+viewpoints along california state route,viewpoints,california state route,along california state route
+restaurants inside bellevue square,restaurants,bellevue square,inside bellevue square
+best locations to see fireworks on lake union on july th,best,fireworks
+pharmacy at zurich hb,pharmacy,zurich hb,at zurich hb
+apple products at zurich hb,apple products,zurich hb,at zurich hb
+apple iphone service center near zurich hb,apple iphone,service center,near zurich hb
+apple store next to zurich hb,apple store,hb
+restaurants near post wollishofen,restaurants,post wollishofen,near post wollishofen
+cafe near morgental,cafe,morgental,near morgental
+cafe at morgental,cafe,morgental,at morgental
+school next to jugendherberge zurich,school,jugendherberge zurich
+hiking lake zurich,hiking,lake zurich
+vegetarian restaurant where i can sit outside,vegetarian,restaurant
+cafe near zurich hb,cafe,zurich hb,near zurich hb
+dishware shops in sales,dishware shops,in sales
+best place to go hiking in the bay area,best,place,in bay area
+dog friendly beach nearby,dog friendly beach,nearby
+sunstar davos,sunstar,davos
+live music venues in the north end of seattle .,live music venues,north end,in the north end,seattle,of seattle
+good non starbucks coffee shops near me,good,non starbucks,coffee shops,near me
+thai restaurants near me,thai,restaurants,near me
+the nearest chevron gas station,nearest,chevron,gas station
+brandi carlile concert in seattle,brandi carlile,concert,seattle,in seattle
+piccadilly line stations london,piccadilly,london
+urgent care clinic with the shortest wait time right now,urgent care clinic,shortest,wait time,with the shortest wait time right now
+where can i get something to eat around my hotel at 11 pm,something to eat,hotel,around my hotel,11 pm,at 11 pm
+where can i eat hot dogs minutes by public transit around my location,hot dogs,public transit,location,around my location,by public transit around my location
+find me an ev charging station close to a starbucks along on my home,ev charging station,close,starbucks,home,on my home
+show me a store within a mall,store,mall,within a mall
+where can i find a nike and adidas store close to each other,nike,store,close
+where can i find a nike and adidas store in mitte,nike,store,mitte,in mitte
+where can i find a nike and adidas store along my route,store,route,along my route
+take me home with the most scenic route,route,with the most scenic route
+where can i find a hotel with a good view in berlin,hotel,good view,berlin,in berlin,with a good view in berlin
+where can i have lunch inside a park,lunch,park,inside a park
+where can i have lunch along the river,lunch,river,along the river
+which neighborhood in berlin is for pubcrawling,neighborhood,berlin,in berlin,for pubcrawling
+what is at invalidenstrasse,invalidenstrasse,at invalidenstrasse
+best deep dish pizza places in downtown chicago,best,deep dish pizza,downtown chicago,in downtown chicago
+cheapest parking with free places near my address,parking,free places,my address,near address,with free places near address
+what breakfast places are there on the way to work ?,breakfast,places,way,on the way to work
+nearby chevron gas stations,nearby,chevron,gas stations
+what are the newest cocktail bars within miles of me ?,newest,cocktail bars,miles of me,within miles of me
+good restaurant,good,restaurant
+quality hotel near train station,quality hotel,train station,near train station
+new restaurants,new,restaurants
+where can i go golfing,golfing
+what are the best cocktail bars within miles of me ?,best,cocktail bars,miles of me,within miles of me
+vegetarian restaurants near me,vegetarian,restaurants,near me
+show me pharmacies where can i hop off some station on bus line xy and walk there and still catch the next bus,pharmacies,bus line xy,on bus line xy
+which restaurants are not very full at this moment ?,restaurants,at this moment,not very full
+where is the entrance to the parking garage for the seattle convention center ?,entrance,parking garage,seattle convention center,for the seattle convention center
+where can i get something to eat around my hotel at 9am,something to eat,hotel,my hotel,around my hotel,9am,at 9am
+where can i eat hot dogs 5 minutes by public transit around my location,hot dogs,5 minutes,public transit,location,around my location,by public transit around my location
+find me an ev charging station close to a starbucks along on my home,ev charging station,close to,starbucks,home,on my home
+show me a store within a mall,store,mall,within a mall
+bowling alleys in milwaukee,bowling alleys,milwaukee,in milwaukee
+cheapest spicy korean food in florida,spicy korean food,florida,in florida
+best city view restaurants in new york,best,city,view restaurants,new york,in new york
+show me the best rated sports bars in new jersey,best,sports bars,new jersey,in new jersey
+go back to thai restaurant with vegan menu,thai restaurant,vegan menu,with vegan menu
+clubs near the chicago airport,clubs,chicago airport,near the chicago airport
+good french cuisine restaurants at th avenue in new york,good,french cuisine,restaurants,avenue,new york,in new york,at th avenue in new york
+best kids playground in belgrade,best,kids playground,belgrade,in belgrade
+adequate gym with terrace outside new jersey,adequate gym,terrace,new jersey,outside new jersey
+i want to back again to that chinese restaurant where the food is cooked in lava .,chinese,restaurant,lava,in lava
+greatest burgers bars in seaside miami,greatest,burgers,bars,seaside miami,in seaside miami
+find italian food restaurants with terrace and view of the city of miami at night .,italian food restaurants,terrace view,city of miami,at night,with terrace and view of the city of miami at night
+mexican food places with self service in miami,mexican food,self service,miami,in miami,with self service in miami
+where can i get something to eat around my hotel at 9am ?,something to eat,around my hotel,at 9am
+where can i eat around my hotel at 8am ?,eat,around my hotel,at 8am
+where can i eat around hotel at 11am ?,eat,around hotel,at 11am
+where can i eat around my motel in the morning ?,eat,around my motel,in the morning
+where can i get something to eat around my home at 1pm ?,something to eat,around my home,at 1pm
+where can i get something to eat near my hotel at 10am ?,something to eat,near my hotel,at 10am
+where can i have lunch around my hotel at 8am ?,have lunch,around my hotel,at 8am
+where can i eat near hotel at 7am ?,eat,near hotel,at 7am
+where can i eat around my motel in evening ?,eat,around my motel,in evening
+where can i have something to eat around my apartment at 1pm ?,something to eat,around my apartment,at 1pm
+where can i get something to eat around my hotel at 2pm ?,something to eat,around my hotel,at 2pm
+where can i get something to eat around my hotel at 3am ?,something to eat,around my hotel,at 3am
+where can i get something to eat around my hotel at 5pm ?,something to eat,around my hotel,at 5pm
+where can i get something to eat around my hotel at 8am ?,something to eat,around my hotel,at 8am
+where can i buy something to eat around train station at 7am ?,something to eat,around train station,at 7am
+where can i fetch something to eat around my hotel at 6am ?,something to eat,around my hotel,at 6am
+where can i eat hot dogs 10 minutes by public transit around my location,hot dogs,10 minutes,10 minutes by public transit around my location,public transit,around my location,location
+where can i eat sandwich 10 minutes by public transit around my location,sandwich,10 minutes,10 minutes by public transit around my location,public transit,around my location,location
+where can i eat sandwich 10 minutes by subway around my location,sandwich,10 minutes,10 minutes by subway around my location,subway,around my location,location
+where can i eat steak 1 hour by car around my hotel,steak,1 hour,1 hour by car around my hotel,around my hotel
+find nike store near a bistro,nike store,bistro,near a bistro
+find adidas store near a bistro,adidas store,bistro,near a bistro
+find starbucks near a bistro,starbucks,bistro,near a bistro
+find mcdonalds near a bistro,mcdonalds,bistro,near a bistro
+Find a samsung store near bistro,samsung store,bistro,near a bistro
+Show me nike store near a bistro,nike store,bistro,near a bistro
+Find a drug store near hospital,drug store,hospital,near a hospital
+Show me drug store near restaurant,drug store,restaurant,near restaurant
+Find a cloth store near bistro,cloth store,bistro,near a bistro
+Find a food court near park,food court,park,near park
+Find me prada shop near train station,prada shop,train station,near train station
+Show me flower shop near tram stop,flower shop,tram stop,near tram stop
+Find a flower shop near tram stop,flower shop,tram stop,near tram stop
+Find a flower store near bistro,flower store,bistro,near bistro
+Where is drug store near restaurant,drug store,restaurant,near restaurant

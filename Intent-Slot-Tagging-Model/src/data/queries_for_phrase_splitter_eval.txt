@@ -1,0 +1,25 @@
+#text = "Hiking trails in flat terrain"  # MVP1
+#text = "Public parks with a lake or river inside"  #MVP1
+#text = "Seafood restaurants along the Seattle waterfront" #MVP1
+#text = "Green space along the water"
+#text = "Ballard Farmers’ market" # MVP2
+#text = "Residential neighborhoods with low average traffic speed" #MVP3
+#text = "Driving directions to Langley avoiding the ferry"  #MVP3
+#text = "Which CTA stations in Lakeview Chicago have bike-sharing stations?"  #MVP
+#text = "Where can I drop off my bike near the south entrance to Central park?"
+#text = "Bakeries across the street from me" #MVP4
+#text = "Museums on the other side of the bridge from my office" #MVP 4
+#text = "Café’s in city parks"  # MVP 5
+#text = "Clinics within a 5-minute drive from me"  # MVP 6
+#text = "Which dry cleaner will be open along my way home" # MVP 6
+#text = "Find an EV charging station close to a Starbucks along my route"
+#text = "Hotels along the same street as the opera house"
+#text = "Where can I get something to eat near High Street Kensington station?" #MVP public transportation query
+#text = "Bars around the corner from my hotel"
+#text = "Gas stations along my drive to Yakima tomorrow"  #MVP 2
+#text = "Area of Seattle with many playgrounds" #MVP
+#text = "Best neighborhoods for pub crawling"
+#text = "Family Friendly neighborhoods to visit"
+#text = "Restaurants in walking distance of my hotel"
+#text = "parking in downtown Seattle away from the marathon route" # MVP 2
+
